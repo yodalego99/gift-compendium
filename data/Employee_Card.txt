@@ -1,0 +1,20 @@
+Tier: II
+Sin: Wrath
+Type: Charge
+Keyword: Charge
+Base Cost: 195
+Abno Events: Forsaken Employee
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+When activating Wrath Absolute Resonance or using a Skill that gains or applies Charge Count, all allies gain +3 Charge Count at the next Turn Start. (Once per turn)
++ Upgrade:
+- Removes absolute resonance requirement.
+When activating
+Wrath Resonance
+or using a Skill that gains or applies Charge Count, all allies gain +3 Charge Count at the next Turn Start. (Once per turn)
+++ Upgrade:
+- Adds 1 to charge count.
+When activating Wrath Resonance or using a Skill that gains or applies Charge Count, all allies gain
++4 Charge Count
+at the next Turn Start. (Once per turn)

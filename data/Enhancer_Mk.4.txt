@@ -1,0 +1,12 @@
+Tier: III
+Sin: Wrath
+Type: Rupture Conditional
+Keyword: Rupture
+Base Cost: 254
+Abno Events: N/A
+Floor Theme Packs: LCB Regular Check-Up (Normal: 5, Hard: 5+)
+No Upgrades:
+- Base.
+On Hit with the final Coin against enemies with 15- Rupture Potency when using a Base Attack Skill that inflicts Rupture Potency or Count: inflict +3 Rupture Count (once per turn per Identity).
+Base Attack Skills that inflict Rupture Count: Clash Power +1, deal +20% more damage.
+Not Upgradable.

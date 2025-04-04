@@ -1,0 +1,27 @@
+Tier: I
+Sin: Lust
+Type: Haste / Blunt DMG Up
+Keyword: Blunt
+Base Cost: 152
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to #6 Deployed Identity]
+When winning a Clash with a Blunt Skill, gain 1 Haste next turn (2 times max)
+Turn End: If this unit failed to deal any damage to the enemies this turn, gain 3 Haste next turn instead.
++ Upgrade:
+- Changes conditional to on use of a blunt skill rather than just when winning the clash.
+[Effects apply only to #6 Deployed Identity]
+When using a Blunt Skill
+, gain 1 Haste next turn (2 times max)
+Turn End: If this unit failed to deal any damage to the enemies this turn, gain 3 Haste next turn instead.
+++ Upgrade:
+- Effect applies to the fourth sinner as well. Adds 1 Blunt DMG Up on use, and adds 2 Blunt DMG up on failure to deal damage.
+[Effects apply only to #4 and #6 Deployed Identity]
+When using a Blunt Skill, gain 1 Haste
+and 1 Blunt DMG Up
+next turn (2 times max)
+Turn End: If this unit failed to deal any damage to the enemies this turn, gain 3 Haste
+and 2 Blunt DMG Up
+next turn instead.

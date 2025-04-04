@@ -1,0 +1,12 @@
+Tier: III
+Sin: Wrath
+Type: Burn Ramp-Up
+Keyword: Burn
+Base Cost: 257
+Abno Events: N/A
+Floor Theme Packs: LCB Regular Check-Up (Normal: 5, Hard: 5+)
+No Upgrades:
+- Base.
+Turn Start: all enemies(for Abnormalities, all Parts) with 2~7 Burn Count gain 1~2 Burn Count.
+When enemies take 5 hits from ally Attack Skills(including E.G.O Skills) that inflict Burn Potency, Count, or Unique Burn: trigger Burn once, then reduce Burn Count by 1 (2 times per turn per enemy; for Abnormalities, for each Part).
+Not Upgradable.

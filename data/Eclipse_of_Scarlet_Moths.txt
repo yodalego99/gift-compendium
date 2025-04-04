@@ -1,0 +1,12 @@
+Tier: II
+Sin: Lust
+Type: General Damage
+Keyword: Keywordless
+Base Cost: 220
+Abno Events: Sunset Wayfarer
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+Turn Start: When dealing damage with an Attack Skill for the first time, deal half its damage as fixed damage to a random enemy.
+If the Attack Skill's Affinity was Lust, deal said damage to two random enemies instead.
+Not Upgradable.

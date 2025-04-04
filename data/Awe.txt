@@ -1,0 +1,21 @@
+Tier: II
+Sin: Envy
+Type: Bleed
+Keyword: Bleed
+Base Cost: 207
+Abno Events: Spiral of Contempt
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to #1, #2 Deployed Identities]
+When using a Skill that inflicts Bleed Potency, Count, or Unique Bleed, and if the main target has 7+ Bleed Count, deal +10% more damage.
++ Upgrade:
+- Adds 3rd deployed sinner, lowers conditional by 2 Bleed Count, and adds +5% damage bonus.
+[Effects apply only to #1, #2, and #3 Deployed Identities]
+When using a Skill that inflicts Bleed Potency, Count, or Unique Bleed, and if the main target has
+5+ Bleed Count, deal +15% more damage.
+++ Upgrade:
+- Lowers conditional by 2 Bleed Count, and adds +5% damage bonus.
+[Effects apply only to #1, #2, and #3 Deployed Identities]
+When using a Skill that inflicts Bleed Potency, Count, or Unique Bleed, and if the main target has
+3+ Bleed Count, deal +20% more damage.

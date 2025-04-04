@@ -1,0 +1,28 @@
+Tier: II
+Sin: Wrath
+Type: Solo
+Keyword: Keywordless
+Base Cost: 208
+Abno Events: N/A
+Floor Theme Packs: Railway 3 (Normal: -, Hard: 5+)
+No Upgrades:
+- Base.
+[Effects apply only to #6 Deployed Identity]
+Combat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max 20%)
+Combat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit) fixed HP & SP damage against all enemies targeting this unit. (max 3; this effect does not hurt allies).
++ Upgrade:
+- Doubled fixed HP and SP damage.
+[Effects apply only to #6 Deployed Identity]
+Combat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max 20%)
+Combat Start: when targeted by 2+ Attack Skills, deal
+(# of Skills targeting this unit x 2)
+fixed HP & SP damage against all enemies targeting this unit. (max 5; this effect does not hurt allies).
+++ Upgrade:
+- Effect applies to #1 sinner too. Increased max by 10% and 5 respectively.
+[Effects apply only to #1 and #6 Deployed Identities]
+Combat Start: deal +10% more damage for every enemy Attack Skill targeting this unit
+(max 30%)
+Combat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit x 2) fixed HP & SP damage against all enemies targeting this unit.
+(max 10
+; this effect does not hurt allies).
+Hard Mode Only.

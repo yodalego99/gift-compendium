@@ -1,0 +1,28 @@
+Tier: II
+Sin: Gloom
+Type: Bind
+Keyword: Keywordless
+Base Cost: 148
+Abno Events: N/A
+Floor Theme Packs: The Heartbreakening (Normal: -, Hard: 5+)
+No Upgrades:
+- Base.
+Turn Start: inflict 1 Bind against the enemy who recovered from Stagger last turn.
+On Hit from an ally with the highest HP percentage: if the target is Staggered, deal +7.5% more damage for every Stagger Level.
++ Upgrade:
+- Increases Bind Count by 1 and + Damage by 2.5%
+Turn Start: inflict
+2 Bind
+against the enemy who recovered from Stagger last turn.
+On Hit from an ally with the highest HP percentage: if the target is Staggered,
+deal +10%
+more damage for every Stagger Level.
+++ Upgrade:
+- Increases Bind Count by 1 and + Damage by 2.5%
+Turn Start: inflict
+3 Bind
+against the enemy who recovered from Stagger last turn.
+On Hit from an ally with the highest HP percentage: if the target is Staggered,
+deal +12.5%
+more damage for every Stagger Level.
+Hard Mode Only.

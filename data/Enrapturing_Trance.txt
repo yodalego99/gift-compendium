@@ -1,0 +1,14 @@
+Tier: IV
+Sin: Wrath
+Type: Rupture Fusion
+Keyword: Rupture
+Base Cost: 416
+Combination: Talisman Bundle + Standard-Duty Battery + Thorny Rope Cuffs
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply Rupture Potency or Count. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+When hitting an enemy with a Skill, inflict 5 Rupture Potency.
+When Rupture Count on an enemy drops below 1, consume 10 Rupture Potency instead of Rupture Count. (This effect ends when Rupture Potency drops below 10).
+If the target has less than 3 Rupture Count, inflict +1 more Count when inflicting Rupture Count. (3 times per Encounter).
+Not Upgradable.

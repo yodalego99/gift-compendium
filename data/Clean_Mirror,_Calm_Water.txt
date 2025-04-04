@@ -1,0 +1,25 @@
+Tier: IV
+Sin: Envy
+Type: Poise
+Keyword: Poise
+Base Cost: 390
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+Increase the allies' Critical Hit damage multiplier from x1.2 to x1.7.
+If a Critical Hit consumed Poise Count, the ally gains 10 Offense Level Up next turn. (activates once per Identity, per turn)
++ Upgrade:
+- Increases multiplier to 'from 1.2x to 2x' and adds 2 to Offense Level Up.
+Increase the allies' Critical Hit damage multiplier from
+x1.2 to x2.
+If a Critical Hit consumed Poise Count, the ally gains
+12 Offense Level Up
+next turn. (activates once per Identity, per turn)
+++ Upgrade:
+- Increases multiplier to 'from 1.2x to 2.5x' and adds 3 to Offense Level Up.
+Increase the allies' Critical Hit damage multiplier from
+x1.2 to x2.5.
+If a Critical Hit consumed Poise Count, the ally gains
+15 Offense Level Up
+next turn. (activates once per Identity, per turn)

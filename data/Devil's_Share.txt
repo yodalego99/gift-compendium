@@ -1,0 +1,27 @@
+Tier: I
+Sin: Lust
+Type: Poise / Haste
+Keyword: Poise
+Base Cost: 144
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+Turn End: apply 1 Haste next turn to 1 ally with the highest Poise Potency and 1 ally with the highest Poise Count. (both effects can apply on the same Identity)
+If the ally has Lust Affinity Attack Skills, apply 2 Haste instead. (not counting E.G.O Skills)
++ Upgrade:
+- Adds 1 or 2 Offense Level Up depending on whether the ally has Lust Affinity Skills.
+Turn End: apply 1 Haste
+and 1 Offense Level Up
+next turn to 1 ally with the highest Poise Potency and 1 ally with the highest Poise Count. (both effects can apply on the same Identity)
+If the ally has Lust Affinity Attack Skills, apply 2 Haste
+and 2 Offense Level Up
+instead. (not counting E.G.O Skills)
+++ Upgrade:
+- Adds 1 or 2 Damage Up depending on whether the ally has Lust Affinity Skills.
+Turn End: apply 1 Haste, 1 Offense Level Up,
+and 1 Damage Up
+next turn to 1 ally with the highest Poise Potency and 1 ally with the highest Poise Count. (both effects can apply on the same Identity)
+If the ally has Lust Affinity Attack Skills, apply 2 Haste, 2 Offense Level Up,
+and 2 Damage Up
+instead. (not counting E.G.O Skills)

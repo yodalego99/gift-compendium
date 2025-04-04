@@ -1,0 +1,12 @@
+Tier: II
+Sin: Pride
+Type: Poise Count
+Keyword: Poise
+Base Cost: 211
+Abno Events: Drunkard
+Floor Theme Packs: Mirror Dungeon 5
+No Upgrades:
+- Base.
+Turn End: when an ally has more than 20 Poise Potency, the said unit consumes 1 Poise Potency to gain +1 Poise Count.
+Hard Mode Only.
+Not Upgradable.

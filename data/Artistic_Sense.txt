@@ -1,0 +1,21 @@
+Tier: IV
+Sin: Pride
+Type: Sinking
+Keyword: Sinking
+Base Cost: 373
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+Deal +35% damage against enemies suffering negative effects (Low Morale, Panic) from SP loss.
+When Sinking's effect applies to enemies without Sanity, the Affinity of the damage inflicted changes to whatever is the most effective.
++ Upgrade:
+- Increases percentage to 40% and amends the enemy condition to those with 0 or less SP.
+Deal
++40% damage against enemies with 0 or less SP.
+When Sinking's effect applies to enemies without Sanity, the Affinity of the damage inflicted changes to whatever is the most effective.
+++ Upgrade:
+- Increases percentage to 50% and amends the enemy condition to those with 0 or less SP or without SP.
+Deal
++50% damage against enemies without sanity or ones with 0 or less SP.
+When Sinking's effect applies to enemies without Sanity, the Affinity of the damage inflicted changes to whatever is the most effective.

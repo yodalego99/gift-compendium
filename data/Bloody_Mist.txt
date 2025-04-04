@@ -1,0 +1,14 @@
+Tier: IV
+Sin: Sloth
+Type: Bleed Fusion
+Keyword: Bleed
+Base Cost: 421
+Combination: Smokes and Wires + Rusted Muzzle + Devotion (Arrested Hymn + Millarca)
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply Bleed Potency, Count, or Unique Bleed effects. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+Allies inflict double the amount of Bleed Potency and Count with Skill effects against enemies.
+The ally highest in the Deployment order) Skills that inflict Bleed Potency, Count, or Unique Bleed: Coin Power +2, damage dealt +100%. If the enemy attacked by or Clashed with the said ally dies, inflict the remaining Bleed Potency on the enemy randomly between all enemies. (for Focused Encounters, Parts).
+Coin Power +1 to all Skills that inflict Bleed Potency, Count, or Unique Bleed.
+Not Upgradable.

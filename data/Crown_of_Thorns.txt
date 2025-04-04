@@ -1,0 +1,13 @@
+Tier: III
+Sin: Pride
+Type: SP Healing
+Keyword: Keywordless
+Base Cost: 270
+Abno Events: One Sin and Hundreds of Good Deeds
+Floor Theme Packs: Noon of Violet (Normal: 4, Hard: 3)
+No Upgrades:
+- Base.
+Turn Start: 1 ally with the least SP heals 8 SP (unless they are in Panic or in E.G.O Corrosion).
+If the said ally was already at max SP, Clash Power +1 for this turn.
+For this turn: SP Heal Efficiency +1, SP Loss Efficiency -1.
+Not Upgradable.

@@ -1,0 +1,11 @@
+Tier: I
+Sin: Gloom
+Type: E.G.O Resource Gain
+Keyword: Keywordless
+Base Cost: 163
+Abno Events: Wayward Passenger
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+Turn Start: gain +1 Gloom E.G.O resource and +1 E.G.O resource of 2 other random Affinities.
+Not Upgradable.

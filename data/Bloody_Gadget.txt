@@ -1,0 +1,22 @@
+Tier: I
+Sin: Lust
+Type: General Buff
+Keyword: Keywordless
+Base Cost: 163
+Abno Events: My Form Empties
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+Turn Start: apply 2 Damage Up to a random ally.
+Prioritizes allies with Lust Affinity Attack Skills; apply 1 additional Damage Up to the said ally.
++ Upgrade:
+- Increases it to 2 additional Damage Up if the ally has Lust Affinity Attack Skills.
+Turn Start: apply 2 Damage Up to a random ally.
+Prioritizes allies with Lust Affinity Attack Skills; apply
+2 additional Damage Up
+to the said ally.
+++ Upgrade:
+- Two people benefit now.
+Turn Start: apply 2 Damage Up to
+two random allies.
+Prioritizes allies with Lust Affinity Attack Skills; apply 2 additional Damage Up to the said ally.

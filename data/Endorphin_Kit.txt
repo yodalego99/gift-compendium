@@ -1,0 +1,25 @@
+Tier: III
+Sin: Envy
+Type: Poise
+Keyword: Poise
+Base Cost: 251
+Abno Events: Dream-Devouring Siltcurrent
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+When gaining Poise Potency from Skill effects, gain 1 Poise Potency and +1 Poise Count.
+If the Skill's Affinity was Envy, the ally gains 2 Poise Potency and +2 Poise Count instead.
++ Upgrade:
+- Increases every Poise Count and Poise Potency by 1.
+When gaining Poise Potency from Skill effects, gain
+2 Poise Potency and +2 Poise Count.
+If the Skill's Affinity was Envy, the ally gains
+3 Poise Potency and +3 Poise Count
+instead.
+++ Upgrade:
+- Increases every Poise Pount and Poise Potency by 1.
+When gaining Poise Potency from Skill effects, gain
+3 Poise Potency and +3 Poise Count.
+If the Skill's Affinity was Envy, the ally gains
+4 Poise Potency and +4 Poise Count
+instead.

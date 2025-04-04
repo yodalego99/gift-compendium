@@ -1,0 +1,30 @@
+Tier: III
+Sin: Gluttony
+Type: Kurokumo Slash
+Keyword: Slash
+Base Cost: 264
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 5
+No Upgrades:
+- Base.
+Slash Attack Type Skill 1: Clash Power +1, inflict 2 Offense Level Down On Hit.
+- For Kurokumo Clan Identities: the above effects apply to all Slash Attack Type Skills instead.
+Turn Start: Kurokumo Clan Identities gain 1 Power Up; when inflicting Bleed Potency or Count On Hit with a Base Attack Skill, gain 1 Poise Potency (4 times per turn for each Identity).
++ Upgrade:
+- Added Lust Affinity and buffed by 2 times per turn per identity.
+Slash Attack Type Skill 1: Clash Power +1, inflict 2 Offense Level Down On Hit.
+- For Kurokumo Clan Identities: the above effects apply to all Slash Attack Type or
+Lust Affinity
+Skills instead (effect does not stack)
+Turn Start: Kurokumo Clan Identities gain 1 Power Up; when inflicting Bleed Potency or Count On Hit with a Base Attack Skill, gain 1 Poise Potency
+(6 times per turn for each Identity).
+++ Upgrade:
+- Buffed to all Kurokumo Skills and buffed by 2 times per turn per identity.
+Slash Attack Type Skill 1: Clash Power +1, inflict 2 Offense Level Down On Hit.
+- For Kurokumo Clan Identities: the above effects apply to
+all Skills
+instead (effect does not stack)
+Turn Start: Kurokumo Clan Identities gain 1 Power Up; when inflicting Bleed Potency or Count On Hit with a Base Attack Skill, gain
+1~2
+Poise Potency
+(8 times per turn for each Identity).

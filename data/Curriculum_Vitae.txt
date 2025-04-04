@@ -1,0 +1,27 @@
+Tier: I
+Sin: Gloom
+Type: Charge
+Keyword: Charge
+Base Cost: 155
+Abno Events: Funeral of a Dying Butterfly
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+Turn End: allies with 7+ Charge Count gain 1 Haste next turn.
+If the ally has Gloom Affinity Skills, gain 2 Haste and 1 Power Up next turn instead.
++ Upgrade:
+- Increases both haste counts by 1.
+Turn End: allies with 7+ Charge Count gain
+2 Haste
+next turn.
+If the ally has Gloom Affinity Skills, gain
+3 Haste
+and 1 Power Up next turn instead.
+++ Upgrade:
+- Increases both haste counts by 1.
+Turn End: allies with 7+ Charge Count gain
+3 Haste
+next turn.
+If the ally has Gloom Affinity Skills, gain
+4 Haste
+and 1 Power Up next turn instead.

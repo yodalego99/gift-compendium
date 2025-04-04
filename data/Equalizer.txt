@@ -1,0 +1,11 @@
+Tier: III
+Sin: Gloom
+Type: Pierce Resistance.
+Keyword: Pierce
+Base Cost: 255
+Abno Events: Fixer Contract
+Floor Theme Packs: Full-Stopped By Bullet (Normal: 4, Hard: 3)
+No Upgrades:
+- Base.
+If the target has 1.5 or lower Pierce Resistance, Pierce Resistance +0.3
+Not Upgradeable.

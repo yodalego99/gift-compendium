@@ -1,0 +1,27 @@
+Tier: IV
+Sin: Sloth
+Type: Tremor
+Keyword: Tremor
+Base Cost: 381
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+Turn Start: Inflict (Current Turn Count x 2) Tremor Potency and +2 Tremor Count on all enemies (or all Abnormality parts).
+Turn End: Trigger Tremor Burst on all enemies (or all Abnormality parts).
++ Upgrade:
+- Adds 3 Tremor Potency to turn start, adds 1 Tremor Count to turn start
+Turn Start: Inflict
+(3 + Current Turn Count x 2) Tremor Potency
+and
++3 Tremor Count
+on all enemies (or all Abnormality parts).
+Turn End: Trigger Tremor Burst on all enemies (or all Abnormality parts).
+++ Upgrade:
+- Adds 2 Tremor Potency to turn start, and triggers 2 Tremor Bursts on turn end.
+Turn Start: Inflict
+(5 + Current Turn Count x 2) Tremor Potency
+and +3 Tremor Count on all enemies (or all Abnormality parts).
+Turn End:
+Trigger 2 Tremor Bursts
+on all enemies (or all Abnormality parts).

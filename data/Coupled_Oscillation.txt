@@ -1,0 +1,15 @@
+Tier: IV
+Sin: Lust
+Type: Tremor Fusion
+Keyword: Tremor
+Base Cost: 419
+Combination: Nixie Divergence + Bell of Truth + Interlocked Cogs
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply Tremor Potency, Count, or 'Unique Tremor'. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+First Turn Start of a wave: Inflict 5 Tremor and +5 Tremor Count to all enemies. (or all Abnormality parts).
+Apply 5 Tremor Potency and 2 Fragile this turn and next turn to enemies affected by Tremor Burst. (activates once per Attack Skill that triggers Tremor Burst).
+After triggering 3 Tremor Bursts to a target, Stagger the target at the next Turn Start and add a new Stagger Threshold at 66% and 33% marks of the target's current HP. (once per Encounter).
+When triggering Amplitude Conversion or Amplitude Entanglement, inflict 1 Fragile (3 times per turn).
+Not Upgradable.

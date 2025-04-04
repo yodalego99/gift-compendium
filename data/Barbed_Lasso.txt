@@ -1,0 +1,27 @@
+Tier: II
+Sin: Lust
+Type: Rupture
+Keyword: Rupture
+Base Cost: 187
+Abno Events: Rose Hunter
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+Turn End: Inflict Rupture Potency on all enemies equal to their current Speed values.
+When activating Lust Absolute Resonance, apply 3 Rupture Potency and +3 Rupture Count to a random enemy at Combat Start.
++ Upgrade:
+- Adds one to Speed Value Rupture Potency gain, and adds one when activating lust absolute resonance.
+Turn End: Inflict Rupture Potency on all enemies equal to (their current
+Speed values + 1
+).
+When activating Lust Absolute Resonance, apply
+4 Rupture Potency
+and +3 Rupture Count to a random enemy at Combat Start.
+++ Upgrade:
+- Adds one to Speed Value Rupture Potency gain, adds one when activating lust absolute resonance, and adds 1 to Rupture Count when activating lust absolute resonance.
+Turn End: Inflict Rupture Potency on all enemies equal to (their current
+Speed values + 2
+).
+When activating Lust Absolute Resonance, apply
+5 Rupture Potency and +4 Rupture Count
+to a random enemy at Combat Start.

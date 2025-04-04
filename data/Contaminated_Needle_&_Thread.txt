@@ -1,0 +1,12 @@
+Tier: II
+Sin: Lust
+Type: Bleed
+Keyword: Bleed
+Base Cost: 208
+Abno Events: Bongy Chicken Tango
+Floor Theme Packs: Hell's Chicken (Normal: 2, Hard: 2)
+No Upgrades:
+- Base.
+The following effect applies to the first Skill to deal damage to an enemy.
+Inflict (damage dealt / 3) Bleed Potency.
+Not Upgradable.

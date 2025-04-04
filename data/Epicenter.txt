@@ -1,0 +1,17 @@
+Tier: III
+Sin: Sloth
+Type: Tremor
+Keyword: Tremor
+Base Cost: 248
+Abno Events: N/A
+Combination: Gemstone Oscillator + Wobbling Keg
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply Tremor Potency or Count. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+(If an Identity only has Attack Skills that gain Tremor Count on self, this E.G.O Gift does not activate for them).
+When winning a Clash with a Skill that consumed Tremor Count on self: if the target does not have Tremor, inflict +3 Tremor Count.
+Turn Start: gain Clash Power + (Tremor Count on self / 5) (max 3)
+When using a Skill that consumes Tremor Count on self: if the target is defeated or Staggered, gain +(Tremor Count consumed / 2) Tremor Count (once per Skill).
+Hard Mode Only.
+Not Upgradable.

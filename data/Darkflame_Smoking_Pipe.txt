@@ -1,0 +1,14 @@
+Tier: III
+Sin: Pride
+Type: Poise
+Keyword: Pierce
+Base Cost: 252
+Abno Events: Der Freischütz
+Floor Theme Packs: Full-Stopped By Bullet (Normal: 4, Hard: 3)
+No Upgrades:
+- Base.
+[Effect applies only to #1 Deployed Identity]
+Gain 2 Attack Power Up and 1 Fragile every turn.
+If the main target currently has a reduced Defense Level, gain 5 Poise before attack.
+Pride Pierce Skills deal +(50 / # of Coins)% more damage (including E.G.O).
+Not Upgradeable.

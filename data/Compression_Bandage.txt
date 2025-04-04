@@ -1,0 +1,26 @@
+Tier: II
+Sin: Gloom
+Type: Healing / DMG
+Keyword: Blunt
+Base Cost: 209
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to #5 Deployed Identity]
+When hitting an enemy with a Blunt Skill, deal 3 bonus Blunt damage.
+Gloom Affinity Attack Skill: heal an additional 3 HP as well.
++ Upgrade:
+- Effect now applies to the sixth sinner as well. Increases damage range by 2. Increases potential healing by 1 on Gloom Affinity.
+[Effects apply only to #5 and #6 Deployed Identity]
+When hitting an enemy with a Blunt Skill, deal
+3~5 bonus Blunt damage.
+Gloom Affinity Attack Skill: heal an
+additional 4 HP as well.
+++ Upgrade:
+-  Increases damage range by 2. Increases potential healing by 2 on Gloom Affinity.
+[Effects apply only to #5 and #6 Deployed Identity]
+When hitting an enemy with a Blunt Skill, deal
+3~7 bonus Blunt damage.
+Gloom Affinity Attack Skill: heal an
+additional 6 HP as well.

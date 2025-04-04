@@ -1,0 +1,12 @@
+Tier: II
+Sin: Lust
+Type: Poise
+Keyword: Poise
+Base Cost: 197
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+Turn Start: allies with Poise gain 1 Power Up.
+Allies with 5+ Poise Count gain 2 Power Up instead.
+Not Upgradable.

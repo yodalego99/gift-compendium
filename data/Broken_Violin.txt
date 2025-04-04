@@ -1,0 +1,30 @@
+Tier: III
+Sin: Lust
+Type: Healing
+Keyword: Keywordless
+Base Cost: 243
+Abno Events: N/A
+Floor Theme Packs: Dregs of the Manor (Normal: 3, Hard: 1)
+No Upgrades:
+- Base.
+[Effects apply only to #5 and #6 Deployed Identities]
+At 45%- HP, gain 1 Offense Level Up and 1 HP Healing Boost on Clash Win (2 times per turn for each character)
+At 20%- HP, gain 1 Offense Level Up and 1 HP Healing Boost on Skill Use instead (2 times per turn for each character).
++ Upgrade:
+- Buffed HP percentages and added third conditional.
+[Effects apply only to #5 and #6 Deployed Identities]
+At
+65%- HP,
+gain 1 Offense Level Up and 1 HP Healing Boost on Clash Win (2 times per turn for each character)
+At
+40%- HP
+, gain 1 Offense Level Up and 1 HP Healing Boost on Skill Use instead (2 times per turn for each character)
+When winning a Clash after 5+ Clashes, the Skill that won the Clash deals +(# of Clashes x 2)% more damage (max 20%).
+++ Upgrade:
+- Increased max by 30% and multiplier by 1.
+[Effects apply only to #5 and #6 Deployed Identities]
+At 65%- HP, gain 1 Offense Level Up and 1 HP Healing Boost on Clash Win (2 times per turn for each character).
+At 40%- HP, gain 1 Offense Level Up and 1 HP Healing Boost on Skill Use instead (2 times per turn for each character)
+When winning a Clash after 5+ Clashes, the Skill that won the Clash deals
++(# of Clashes x 3)% more damage (max 30%).
+Hard Mode Only.

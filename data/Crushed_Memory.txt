@@ -1,0 +1,13 @@
+Tier: IV
+Sin: Envy
+Type: Clash Power / Coin Power
+Keyword: Blunt
+Base Cost: 400
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to #1 and #2 Deployed Identity]
+Blunt Attack Skills (including E.G.O Skills) gain Base Power +2, Plus Coin Power +1, and Minus Coin Power -1.
+On Clash Win with a Blunt Attack Skill (except E.G.O Skills), deal +20% more damage with that Skill; On Hit with that Skill, deal + (30 / # of Coins)% more damage (min 10%).
+Not Upgradable.

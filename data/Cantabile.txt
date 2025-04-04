@@ -1,0 +1,12 @@
+Tier: I
+Sin: Gloom
+Type: SP Heal
+Keyword: Sinking
+Base Cost: 156
+Abno Events: Funeral of a Dying Butterfly
+Floor Theme Packs: Mirror Dungeon 5
+No Upgrades:
+- Base.
+When using base Attack Skills, if the target has 5+ Sinking Potency, heal (Sinking Potency on the target / 10) SP on self (max 3).
+Hard Mode Only.
+Not Upgradable.

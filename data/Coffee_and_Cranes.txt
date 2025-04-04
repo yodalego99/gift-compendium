@@ -1,0 +1,12 @@
+Tier: II
+Sin: Lust
+Type: E.G.O Resource Gain
+Keyword: Keywordless
+Base Cost: 186
+Abno Events: Paper Chairman
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+Turn Start: Gain +1 E.G.O resource of a random Affinity that does not correspond to any Attack Skill Affinity used last turn.
+If a Lust Affinity Attack Skill was used last turn: Gain 1 of every Affinity E.G.O resource that does not correspond to any Attack Skill Affinity used last turn instead.
+Not Upgradable.

@@ -1,0 +1,21 @@
+Tier: I
+Sin: Sloth
+Type: Slash / Speed
+Keyword: Slash
+Base Cost: 148
+Abno Events: Broken Wings
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to #5 Deployed Identity]
+If there is a 3+ Speed difference between this unit and the enemy targeted by this unit, deal +15% more damage with Slash Skills.
++ Upgrade:
+- Increases damage by +5%.
+[Effects apply only to #5 Deployed Identity]
+If there is a 3+ Speed difference between this unit and the enemy targeted by this unit, deal
++20% more damage
+with Slash Skills.
+++ Upgrade:
+- Effect now applies to the sixth sinner as well.
+[Effects apply only to #5 and #6 Deployed Identity]
+If there is a 3+ Speed difference between this unit and the enemy targeted by this unit, deal +20% more damage with Slash Skills.

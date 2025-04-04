@@ -1,0 +1,12 @@
+Tier: III
+Sin: Lust
+Type: Blunt (Middle)
+Keyword: Blunt
+Base Cost: 253
+Abno Events: ?
+Floor Theme Packs: Nocturnal Sweeping (Normal: 5, Hard: 5+)
+No Upgrades:
+- Base.
+When hit, all allies in the same faction deal +5% more Blunt damage (15% per turn).
+For The Middle Identities, gain 1 Offense Level Up and deal +10% more Blunt damage instead (3 per turn, 30% per turn).
+Not Upgradable.

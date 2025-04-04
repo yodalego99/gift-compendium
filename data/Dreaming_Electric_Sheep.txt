@@ -1,0 +1,12 @@
+Tier: II
+Sin: Envy
+Type: Affinity Buff / Slash Buff
+Keyword: Slash
+Base Cost: 198
+Abno Events: Dreaming Electric Sheep
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+After defeating an enemy by using an Envy Affinity or Slash damage Skill, raise the unit's Slash Skill Power by 2 for the next 2 turns.
+When activating Envy Absolute Resonance, all allies gain 2 Offense Level Up and 2 Defense Level Up at Combat Start.
+Not Upgradable.

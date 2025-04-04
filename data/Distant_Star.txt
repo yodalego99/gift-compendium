@@ -1,0 +1,12 @@
+Tier: III
+Sin: Envy
+Type: Sinking
+Keyword: Sinking
+Base Cost: 257
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+When activating the Sinking effect (including Unique Sinking) on the target with an On Hit effect from a Base Attack Skill that inflicts or gains Sinking Potency, Sinking Count, or Unique Sinking, heal 3 SP at Turn End (2 times per turn per Identity).
+If the said unit was at 45 SP at Turn Start, the effect changes to the following: when activating the Sinking effect (including Unique Sinking) on the target with an On Hit effect with a Base Attack Skill, inflict +2 Sinking Count on the target (2 times per turn per Identity).
+Not Upgradable.

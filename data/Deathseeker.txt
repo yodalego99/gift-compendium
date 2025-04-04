@@ -1,0 +1,13 @@
+Tier: III
+Sin: Gluttony
+Type: Rupture
+Keyword: Rupture
+Base Cost: 271
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to #1, #2 Deployed Identities]
+Attack Skills(Except E.G.O Skills) that inflict Rupture Potency or Count gain Clash Power +1, Offense Level +2, and deal +15% more damage.
+Single-Coin Skills gain Clash Power +2, Offense Level +2, and deal +40% more damage instead.
+Not Upgradable.

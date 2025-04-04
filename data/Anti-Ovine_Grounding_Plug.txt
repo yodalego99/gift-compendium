@@ -1,0 +1,13 @@
+Tier: II
+Sin: Envy
+Type: Paralysis
+Keyword: Keywordless
+Base Cost: 203
+Abno Events: N/A
+Floor Theme Packs: Railway 4 (Normal: -, Hard: 5+)
+No Upgrades:
+- Base.
+When hit during the combat phase, inflict 1 Paralysis against the attacker next turn. (Once per turn for each character)
+At 5+ Envy A-Reson., at Combat Start: inflict 1 Paralysis against all enemies.
+Hard Mode Only.
+Not Upgradable.

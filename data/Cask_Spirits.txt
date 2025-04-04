@@ -1,0 +1,17 @@
+Tier: IV
+Sin: Pride
+Type: Poise Fusion
+Keyword: Poise
+Base Cost: 402
+Abno Events: N/A
+Combination: Devil’s Share + Angel's Cut + Endorphin Kit
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply or gain Poise Potency or Count. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+Turn End: If an ally has more than 20 Poise Potency on self, the ally consumes 1 Poise Potency to gain 1 Poise Count.
+Turn End: 1 ally with the highest Poise Potency and 1 ally with the highest Poise Count gain 2 Haste and 1 Offense Level Up (can activate on the same Identity).
+When gaining Poise Potency from Skill effects, gain additional 2 Poise Potency and +2 Poise Count. If the sum of Poise Potency and Count on self is less than 20, gain 3 Poise Potency and +3 Poise Count instead.
+Turn End: at more than 40 Poise Potency, consume 15 Poise Potency to Discard 1 Skill of the lowest rank in all of that unit's Skill Slots (once per turn for each character).
+Hard Mode Only.
+Not Upgradable.

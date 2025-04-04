@@ -1,0 +1,23 @@
+Tier: I
+Sin: Envy
+Type: Poise
+Keyword: Poise
+Base Cost: 160
+Abno Events: Fairy Long Legs
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+First Turn Start of a Wave: 1 fastest ally gains 3 Poise Potency and 2 Poise Count.
+If the ally has Envy Affinity Attack Skills, gain 4 Poise Potency and 3 Poise Count instead.
++ Upgrade:
+- Raises Poise Potency and Count to 4 for start of wave, and 5 if they have envy attack skills.
+First Turn Start of a Wave: 1 fastest ally gains
+4 Poise Potency and 4 Poise Count.
+If the ally has Envy Affinity Attack Skills, gain
+5 Poise Potency and 5 Poise Count
+instead.
+++ Upgrade:
+- Changed to Turn Start Conditional.
+Turn Start:
+1 fastest ally gains 4 Poise Potency and 4 Poise Count.
+If the ally has Envy Affinity Attack Skills, gain 5 Poise Potency and 5 Poise Count instead.

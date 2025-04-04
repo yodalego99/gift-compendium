@@ -1,0 +1,14 @@
+Tier: IV
+Sin: Lust
+Type: Evade
+Keyword: Pierce
+Base Cost: 407
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 5
+No Upgrades:
+- Base.
+Pierce Base Attack Skills gain Clash Power +2. On Combat Start, gain Offense Level Up equal to the number of Identities who are using Pierce base Attack Skills this turn. (max 3).
+Allies with Pierce Attack Type for all of their base Attack Skills gain 2 Pierce DMG Up at Turn Start. (except for Empowered Skills or Skills that need unique conditionals).
+Evade Skill Power +2. Every time an allied Identity successfully Evades 2 times within a single turn, they gain 1 Damage Up next turn (max 3).
+At Turn Start, Cinq Association Identities gain 1 Pierce Power Up and 2 Pierce DMG Up; if a Cinq Association Identity dealt damage on Hit against an enemy inflicted by their Declared Duel or Focused Attack, gain 2 Pierce DMG Up and 1 Haste next turn. (once per Identity per turn).
+Not Upgradable.

@@ -1,0 +1,14 @@
+Tier: III
+Sin: Sloth
+Type: Discard
+Keyword: Blunt
+Base Cost: 250
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 5
+No Upgrades:
+- Base.
+Blunt Attack Type Skill 1 & 2: Offense Level + (# of Coins - 1) (max 2)
+- Skills with Discard effects gain Offense Level + (# of Coins) instead (max 4)
+If a unit used a Discard Skill to discard their Skill, gain 1 Damage Up and (rank of the Discarded Skill) Offense Level Up. (once per turn for each Identity; if multiple were discarded, take the highest value; max 3)
+- If a Blunt Attack Type Skill was Discarded, gain 1 Blunt DMG Up as well.
+Not Upgradable.

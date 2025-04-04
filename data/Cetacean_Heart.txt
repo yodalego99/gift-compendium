@@ -1,0 +1,14 @@
+Tier: IV
+Sin: Pride
+Type: Poise
+Keyword: Poise
+Base Cost: 389
+Abno Events: N/A
+Floor Theme Packs: Crawling Abyss (Normal: 4-5, Hard: 3-4)
+No Upgrades:
+- Base.
+On Hit against enemies with Bleed with an Attack Skill, gain 1 Poise. (3 times per turn for each character).
+On Crit, 50% chance to not consume Poise Count (once per turn for each character; including E.G.O Skills and Counter Skills).
+On Crit Heads Hit with a Base Skill: inflict +1 more of the negative effect with that Coin. (once per turn for each character; including E.G.O Skills and Counter Skills).
+Hard Mode Only.
+Not Upgradable.

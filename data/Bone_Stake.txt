@@ -1,0 +1,11 @@
+Tier: I
+Sin: Envy
+Type: Rupture
+Keyword: Rupture
+Base Cost: 152
+Abno Events: Chattering Teeth
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+Rupture effect deals +100% more damage against enemy Shield.
+Not Upgradable.

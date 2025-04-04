@@ -1,0 +1,25 @@
+Tier: I
+Sin: Gluttony
+Type: Rupture
+Keyword: Rupture
+Base Cost: 144
+Abno Events: Sign of Roses
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+Turn Start: inflict 4 Rupture Potency on a random enemy(or all Abnormality parts).
+When activating Gluttony Absolute Resonance, inflict 2 Rupture Potency on all enemies at Combat Start.
++ Upgrade:
+- Increases by 1 more random enemy, and adds 1 more Rupture Potency on gluttony abs resonance.
+Turn Start: inflict 4 Rupture Potency on
+2 random enemies(or all Abnormality parts).
+When activating Gluttony Absolute Resonance, inflict
+3 Rupture Potency
+on all enemies at Combat Start.
+++ Upgrade:
+- Increases by 1 more random enemy, and adds 1 more Rupture Potency on gluttony abs resonance.
+Turn Start: inflict 4 Rupture Potency on
+3 random enemies(or all Abnormality parts).
+When activating Gluttony Absolute Resonance, inflict
+4 Rupture Potency
+on all enemies at Combat Start.

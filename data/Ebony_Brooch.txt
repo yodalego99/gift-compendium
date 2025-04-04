@@ -1,0 +1,12 @@
+Tier: II
+Sin: Gluttony
+Type: Bind / Rupture
+Keyword: Rupture
+Base Cost: 192
+Abno Events: Ebony Queen's Apple
+Floor Theme Packs: The Outcast (Normal: 1, Hard: 1)
+No Upgrades:
+- Base.
+First Turn Start of an Encounter: Inflict 2 Rupture Potency and Count to all enemies.
+Inflict 2 Bind next turn at Turn End to all enemies for 3 turns.
+Not Upgradable.

@@ -1,0 +1,27 @@
+Tier: II
+Sin: Sloth
+Type: Tremor / Damage Buff
+Keyword: Keywordless
+Base Cost: 200
+Abno Events: Drunkard
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+Skills deal +10% damage to Staggered enemies.
+If the Skill’s Affinity was Sloth, deal +20% damage instead.
++ Upgrade:
+- Increases to 12.5% and 25% respectively.
+Skills deal
++12.5% damage
+to Staggered enemies.
+If the Skill’s Affinity was Sloth, deal
++25% damage
+instead.
+++ Upgrade:
+- Increases to 15% and 30% respectively.
+Skills deal
++15% damage
+to Staggered enemies.
+If the Skill’s Affinity was Sloth, deal
++30% damage
+instead.

@@ -1,0 +1,12 @@
+Tier: II
+Sin: Sloth
+Type: HP Healing
+Keyword: Keywordless
+Base Cost: 195
+Abno Events: Prosthetic Fixer Watching
+Floor Theme Packs: Murder on the WARP Express (Normal: 4-5, Hard: 4-5+)
+No Upgrades:
+- Base.
+When an ally loses HP due to their own Attack Skill effect, heal half of the HP lost due to the Skill effect at the next Turn Start. (rounded down).
+When an ally heals HP due to an E.G.O Skill effect, heal +12.5% more HP. (rounded down).
+Not Upgradable.

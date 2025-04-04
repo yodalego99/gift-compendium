@@ -1,0 +1,12 @@
+Tier: III
+Sin: Pride
+Type: Burn
+Keyword: Burn
+Base Cost: 246
+Abno Events: Ardor Blossom Moth
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effect applies only to #1, #2 Deployed Identities]
+When an ally attacks an enemy, if the target has (Burn Potency on self)% or less HP (for Abnormalities, Core HP), deal +50% more damage with Attack Skills that inflict Burn Potency, Count, or Unique Burn.
+Not Upgradable.

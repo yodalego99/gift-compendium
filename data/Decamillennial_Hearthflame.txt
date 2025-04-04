@@ -1,0 +1,12 @@
+Tier: II
+Sin: Wrath
+Type: Burn Damage Up
+Keyword: Burn
+Base Cost: 201
+Abno Events: Basilisoup
+Floor Theme Packs: Mirror Dungeon 5
+No Upgrades:
+- Base.
+Turn End: enemies with 3+ Burn Count activates Burn one more time (reduce Burn Count by 1).
+Hard Mode Only.
+Not Upgradable.

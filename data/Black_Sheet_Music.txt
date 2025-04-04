@@ -1,0 +1,14 @@
+Tier: IV
+Sin: Gluttony
+Type: Sinking Fusion
+Keyword: Sinking
+Base Cost: 427
+Combination: Midwinter Nightmare + Headless Portrait + Tangled Bones
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply Sinking Potency, Count, or 'Unique Sinking'. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+When hitting an enemy with a Skill, inflict 5 Sinking Potency.
+Turn Start: enemies or Parts with Sinking regain (Sinking Count each enemy lost On Hit last turn / 2) Sinking Count.
+If the Base Attack Skill hits against a target with less than 0 SP (for enemies without SP, if they have 1.2+ Gloom Resist.), inflict (Sinking Potency / 10) Gloom Affinity damage (min 1, this effect can activate up to 10 times per turn).
+Not Upgradable.

@@ -1,0 +1,14 @@
+Tier: III
+Sin: Pride
+Type: Tremor
+Keyword: Tremor
+Base Cost: 249
+Abno Events: Steam Transport Machine
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to #1, #2 Deployed Identities]
+Skills that apply (including on self) Tremor Potency or Count gain Clash Power +1
+When dealing damage to an enemy that has Tremor with Attack Skills (Except E.G.O Skills) that inflict Tremor Potency or Count, deal +(Tremor Potency on target + 5)% more damage.
+For Pride Skills: deal +(sum of Tremor Potency and Count on target +5)% more damage
+Not Upgradable.

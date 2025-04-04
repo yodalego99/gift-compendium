@@ -1,0 +1,23 @@
+Tier: III
+Sin: Pride
+Type: Sinking
+Keyword: Sinking
+Base Cost: 263
+Abno Events: Explorer on a Bereaved Road
+Floor Theme Packs: Mirror Dungeon 3
+No Upgrades:
+- Base.
+First Turn Start of a wave: randomly inflict (5 + (# of enemies x 3)) Sinking Count between all enemies (or all Abnormality parts).
+(For Abnormalities, only the Core counts as an enemy)
++ Upgrade:
+- Increases Sinking Count by 5.
+First Turn Start of a wave: randomly inflict
+(10 + (# of enemies x 3)) Sinking Count
+between all enemies (or all Abnormality parts).
+(For Abnormalities, only the Core counts as an enemy).
+++ Upgrade:
+- Increases the number of enemies multiplied by 1 (from 3 to 4).
+First Turn Start of a wave: randomly inflict
+(10 + (# of enemies x 4)) Sinking Count
+between all enemies (or all Abnormality parts).
+(For Abnormalities, only the Core counts as an enemy).

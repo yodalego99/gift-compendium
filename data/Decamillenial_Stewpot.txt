@@ -1,0 +1,11 @@
+Tier: II
+Sin: Lust
+Type: Burn Clash Power
+Keyword: Burn
+Base Cost: 208
+Abno Events: Basilisoup
+Floor Theme Packs: Fuse / Shop / Event Only
+No Upgrades:
+- Base.
+Skills that inflict Burn Potency, Count, or 'Unique Burn' gain Clash Power +1.
+Not Upgradeable.

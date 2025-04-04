@@ -1,0 +1,16 @@
+Tier: III
+Sin: Sloth
+Type: Rupture Dmg Up
+Keyword: Rupture
+Base Cost: 249
+Abno Events: N/A
+Combination: Bone Stake + Shard of Apocalypse
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply Rupture Potency or Count. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+Rupture effects deal +100% more damage against enemy Shields.
+If the target has less than 15 Rupture Potency, inflict 2 more Potency when inflicting Rupture Potency.
+If Rupture cannot be applied due to Skill effects, gain Coin Power +1 instead.
+Hard Mode Only.
+Not Upgradable.

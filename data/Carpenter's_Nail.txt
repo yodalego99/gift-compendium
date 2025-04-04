@@ -1,0 +1,21 @@
+Tier: I
+Sin: Sloth
+Type: Pierce DMG Up
+Keyword: Pierce
+Base Cost: 151
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to the #4 Deployed Identity]
+If this unit has 2+ Pierce Attack Skills, gain 1 Pierce DMG Up at Turn Start.
++ Upgrade:
+- Adds 1 Pierce DMG Up on conditional.
+[Effects apply only to the #4 Deployed Identity]
+If this unit has 2+ Pierce Attack Skills, gain
+2 Pierce DMG Up
+at Turn Start.
+++ Upgrade:
+- Effect applies to the fifth sinner as well.
+[Effects apply only to the #4 and #5 Deployed Identity]
+If this unit has 2+ Pierce Attack Skills, gain 2 Pierce DMG Up at Turn Start.

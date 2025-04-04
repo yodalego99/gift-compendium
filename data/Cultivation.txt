@@ -1,0 +1,16 @@
+Tier: IV
+Sin: Pride
+Type: Slash Power Up
+Keyword: Slash
+Base Cost: 387
+Abno Events: N/A
+Combination: Worn Hilt + Broken Blade
+Floor Theme Packs: Yield My Flesh to Claim Their Bones BokGak (Normal: -, Hard: 4-5+)
+No Upgrades:
+- Base.
+Turn Start: activates when there are 3 or more Blade Lineage Identities.
+Turn Start: all allies gain 2 Slash Power Up, and deal +35% more damage.
+Turn Start: when a Blade Lineage Identity hits critically, deal additional Pride damage equal to (Poise Potency / 2) on self.
+If a Blade Lineage Identity has 30+ Poise Potency at Turn End, consume 10 Poise Potency and gain 2 Slash Power Up next turn.
+Hard Mode Only.
+Not Upgradable.

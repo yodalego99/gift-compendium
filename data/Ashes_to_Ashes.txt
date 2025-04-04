@@ -1,0 +1,18 @@
+Tier: I
+Sin: Wrath
+Type: Burn
+Keyword: Burn
+Base Cost: 148
+Abno Events:  Rising Ashes
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+Combat Start: if all enemies (or all Abnormality parts) have Burn, inflict 2 Burn Potency on all enemies (or all Abnormality parts).
++ Upgrade:
+- Removes requirement for all enemies to have burn.
+Combat Start: Inflict 2 Burn Potency on all enemies (or all Abnormality parts) with Burn.
+++ Upgrade:
+- Increases from 2 to 3 Burn Potency and removes burn requirement.
+Combat Start: Inflict
+3 Burn Potency
+on all enemies (or all Abnormality parts).

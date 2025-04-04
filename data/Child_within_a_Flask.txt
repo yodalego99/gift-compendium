@@ -1,0 +1,11 @@
+Tier: II
+Sin: Lust
+Type: E.G.O Resource Gain
+Keyword: Keywordless
+Base Cost: 212
+Abno Events: Children in the Flask
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+Encounter Start: gain +1 E.G.O resource for every Sin Affinity.
+Not Upgradable.

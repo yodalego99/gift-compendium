@@ -1,0 +1,11 @@
+Tier: II
+Sin: Wrath
+Type: Bleed
+Keyword: Keywordless
+Base Cost: 195
+Abno Events: Dormant Bloodbag
+Floor Theme Packs: Murder on the WARP Express (Normal: 4-5, Hard: 4-5+)
+No Upgrades:
+- Base.
+Turn End: If this unit has Bleed, halve the Bleed Potency on self and heal (Bleed Potency reduced x Bleed Count on self) HP. (rounded down. Can heal up to 10% of max HP at once).
+Not Upgradable.

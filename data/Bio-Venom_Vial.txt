@@ -1,0 +1,20 @@
+Tier: III
+Sin: Sloth
+Type: Tremor
+Keyword: Tremor
+Base Cost: 259
+Abno Events: Ambling Pearl
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+If a target with Tremor Potency is defeated, inflict 0.5 * (Tremor Potency + Count on target) Sloth damage to a random enemy (or a random Abnormality part) next turn.
++ Upgrade:
+- Increases multiplier by 0.25.
+If a target with Tremor Potency is defeated, inflict
+0.75 * (Tremor Potency + Count on target) Sloth damage
+to a random enemy (or a random Abnormality part) next turn.
+++ Upgrade:
+- Increases multiplier by 0.5.
+If a target with Tremor Potency is defeated, inflict
+1.25 * (Tremor Potency + Count on target) Sloth damage
+to a random enemy (or a random Abnormality part) next turn.

@@ -1,0 +1,24 @@
+Tier: III
+Sin: Wrath
+Type: Damage Boost
+Keyword: Blunt
+Base Cost: 258
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to #3, #4 Deployed Identities]
+If there are 2+ remaining Coins after a Clash using a Blunt Skill, deal +10% more damage; if there are 3+ remaining Coins, deal +20% more damage; if there are 4+ remaining Coins, deal +40% more damage.
++ Upgrade:
+- The fifth sinner is now also affected.
+[Effects apply only to #3, #4, and #5 Deployed Identities]
+If there are 2+ remaining Coins after a Clash using a Blunt Skill, deal +10% more damage; if there are 3+ remaining Coins, deal +20% more damage; if there are 4+ remaining Coins, deal +40% more damage.
+++ Upgrade:
+- The sixth sinner is now also affected. Also adds +2.5% to 2 Coins remaining, +5% to 3 Coins remaining, and +10% to 4+ Coins Remaining.
+[Effects apply only to #3, #4, and #5, and #6 Deployed Identities]
+If there are 2+ remaining Coins after a Clash using a Blunt Skill,
+deal +12.5% more damage
+; if there are 3+ remaining Coins,
+deal +25% more damage
+; if there are 4+ remaining Coins,
+deal +50% more damage.

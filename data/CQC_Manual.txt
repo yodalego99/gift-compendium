@@ -1,0 +1,13 @@
+Tier: III
+Sin: Wrath
+Type: Ammo
+Keyword: Poise
+Base Cost: 251
+Abno Events: ?
+Floor Theme Packs: Full-Stopped By Bullet (Normal: 4, Hard: 3)
+No Upgrades:
+- Base.
+If a Skill that can spend Ammo does not spend Ammo, gain 1 Attack Power Up this turn and next turn (once per turn).
+When gaining Ammo, Skill 3 deals +50% more damage this turn and next turn when used.
+When using a Skill that spends Ammo, gain 3 Poise and +1 Poise Count.
+Not Upgradeable.

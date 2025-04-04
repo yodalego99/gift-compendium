@@ -1,0 +1,13 @@
+Tier: II
+Sin: Gloom
+Type: Offense Level Up
+Keyword: Keywordless
+Base Cost: 218
+Abno Events: N/A
+Floor Theme Packs: The Unchanging (Normal: -, Hard: 4-5+)
+No Upgrades:
+- Base.
+When an ally Clashes against an enemy with a faster Speed, gain Clash Power +1.
+When an ally wins a Clash against an enemy with a faster Speed, gain 2 Offense Level Up next turn (max 4).
+Hard Mode Only.
+Not Upgradable.

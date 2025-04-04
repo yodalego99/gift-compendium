@@ -1,0 +1,19 @@
+Tier: IV
+Sin: Gluttony
+Type: Max HP Up.
+Keyword: Keywordless
+Base Cost: 396
+Abno Events: N/A
+Floor Theme Packs: Railway 2 (Normal: -, Hard: 4)
+No Upgrades:
+- Base.
+Encounter Start: all allies gain (current Floor x 2)% max HP (max 20%).
++ Upgrade:
+- Buffs max by 10% and multiplier by 1.
+Encounter Start: all allies gain
+(current Floor x 3)% max HP (max 30%).
+++ Upgrade:
+- Buffs max by 20% and multiplier by 2.
+Encounter Start: all allies gain
+(current Floor x 5)% max HP (max 50%).
+Hard Mode Only.

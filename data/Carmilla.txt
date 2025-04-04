@@ -1,0 +1,20 @@
+Tier: II
+Sin: Wrath
+Type: General Damage (Human Fights)
+Keyword: Keywordless
+Base Cost: 217
+Abno Events: Four-Hundred Roses
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+At the start of a non-Focused Encounter, all enemies take fixed damage equal to 20% of their Max HP.
++ Upgrade:
+- Increases to 25%
+At the start of a non-Focused Encounter, all enemies take fixed damage equal to
+25% of their Max HP
+.
+++ Upgrade:
+- Increases to 30%
+At the start of a non-Focused Encounter, all enemies take fixed damage equal to
+30% of their Max HP
+.

@@ -1,0 +1,20 @@
+Tier: I
+Sin: Sloth
+Type: Bleed
+Keyword: Bleed
+Base Cost: 149
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+Combat Start: If all enemies (or all Abnormality parts) have Bleed, all allies gain 1 Haste next turn.
++ Upgrade:
+-  Adds 1 Damage Up to gain.
+Combat Start: If all enemies (or all Abnormality parts) have Bleed, all allies gain 1 Haste
+and 1 Damage Up
+next turn.
+++ Upgrade:
+- Adds 2 Offense Level Up to gain.
+Combat Start: If all enemies (or all Abnormality parts) have Bleed, all allies gain 1 Haste, 1 Damage Up,
+and 2 Offense Level Up
+next turn.

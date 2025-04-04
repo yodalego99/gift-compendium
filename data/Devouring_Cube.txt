@@ -1,0 +1,13 @@
+Tier: II
+Sin: Gluttony
+Type: E.G.O Resource
+Keyword: Keywordless
+Base Cost: 195
+Abno Events: N/A
+Floor Theme Packs: The Infinite Procession (Normal: -, Hard: 5+)
+No Upgrades:
+- Base.
+When an ally dies, gain 1 E.G.O resource for each of that ally's Skills 1 and 2.
+After Attack: if the enemy is killed, gain 1 random E.G.O resource (once per Skill).
+Hard Mode Only.
+Not Upgradable.

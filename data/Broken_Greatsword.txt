@@ -1,0 +1,14 @@
+Tier: IV
+Sin: Gloom
+Type: Zwei Slash
+Keyword: Slash
+Base Cost: 420
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 5
+No Upgrades:
+- Base.
+Slash Base Attack Skills gain Clash Power +2. On Combat Start, gain Offense Level Up equal to the number of Identities who are using Slash base Attack Skills this turn. (max 3).
+Allies with Slash Attack Type for all of their base Attack Skills gain 2 Slash DMG Up at Turn Start. (Except for Empowered Skills or Skills that need unique conditionals).
+When using Guard (except Power Guard), gain 1 Protection and 3 Defense Level Up (once per Identity per turn). When, in a single turn, an allied Identity takes 2 instances of HP or Shield HP damage by getting attacked by enemy's single-target Attack Skill, gain 1 Defense Level Up next turn (max 3).
+At Turn Start, Zwei Association Identities gain 2 Attack Power Up and 1 Slash Power Up; then, gain 2 Defense Power Up for every other Zwei Association Identity (max 8).
+Not Upgradable.

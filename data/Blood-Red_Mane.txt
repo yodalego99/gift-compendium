@@ -1,0 +1,13 @@
+Tier: II
+Sin: Lust
+Type: Haste / Defense Power Up
+Keyword: Keywordless
+Base Cost: 203
+Abno Events: N Corp Inquisitor
+Floor Theme Packs: Faith and Erosion (Normal: 1-2, Hard: 1)
+No Upgrades:
+- Base.
+Effects apply to all Identities with Wrath or Lust Affinity Attack Skills.
+Turn End: if this unit did not take any damage from enemy Attack Skills this turn, gain 2 Haste and 2 Defense Power Up.
+Turn End: if this unit did take damage from enemy Attack Skills this turn, gain 2 Bind and Clash Power +2 next turn.
+Not Upgradable.

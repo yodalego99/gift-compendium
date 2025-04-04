@@ -1,0 +1,12 @@
+Tier: IV
+Sin: Gluttony
+Type: General Buff
+Keyword: Keywordless
+Base Cost: 397
+Abno Events: Broken Wings
+Floor Theme Packs: Mirror Dungeon 3
+No Upgrades:
+- Base.
+Turn Start: select one of the fastest allies and apply 5 Haste to them next turn.
+Next Turn Start: select one of the other fastest allies (allies without the Ancient Effigy effect) and re-apply the Gift effect to them. (effect expires if no other allies can be selected)
+Not Upgradeable.

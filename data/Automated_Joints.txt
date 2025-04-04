@@ -1,0 +1,14 @@
+Tier: IV
+Sin: Gloom
+Type: Charge Damage Up
+Keyword: Charge
+Base Cost: 400
+Combination: Biogenerative Battery + Prosthetic Joint Servos
+Floor Theme Packs: Murder on the WARP Express (Normal: 4-5, Hard: 4-5+)
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain Charge Count or Unique Charge effects. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start).
+Base Attack Skills that consume Charge Count or Unique Charge: gain Coin Power +1 and deal +(sum of Charge Count and Unique Charge consumed by that Skill x 4)% more damage (max 40%).
+Turn End: allies with Charge Count or Unique Charge gain 1 Haste (max 2) and 1 Damage Up (max 3) for every instance they used a base Attack Skill that consumes Charge Count or Unique Charge in this Encounter.
+If a MultiCrack Office Identity has 5+ Charge, they gain Coin Power +1 to base Attack Skills.
+Not Upgradeable.

@@ -1,0 +1,12 @@
+Tier: III
+Sin: Gluttony
+Type: E.G.O Resource Gain
+Keyword: Keywordless
+Base Cost: 265
+Abno Events: Dimensional Orbit Stabilizer
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+Turn Start: gain +1 E.G.O resource of a random Affinity for each non-Gluttony E.G.O skill used last turn.
+If a Gluttony Affinity E.G.O Skill was used, gain +3 E.G.O resources of a random Affinity for each Gluttony E.G.O Skill used last turn instead.
+Not Upgradable.

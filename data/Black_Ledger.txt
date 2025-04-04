@@ -1,0 +1,12 @@
+Tier: II
+Sin: Gluttony
+Type: E.G.O Resource Gain (Blade Lineage / Kurokumo Clan)
+Keyword: Keywordless
+Base Cost: 195
+Abno Events: Hostages
+Floor Theme Packs: Yield My Flesh to Claim Their Bones (Normal: 4-5, Hard: 3-4)
+No Upgrades:
+- Base.
+First Turn Start of an Encounter: gain random E.G.O resources equal to the number of enemies.
+If there are 4 or more Blade Lineage or Kurokumo Clan Identities participating in this Encounter, gain E.G.O resources for the least-owned E.G.O Affinity instead.
+Not Upgradeable.

@@ -1,0 +1,20 @@
+Tier: III
+Sin: Envy
+Type: Tremor
+Keyword: Tremor
+Base Cost: 268
+Abno Events: Clockwork-time Roly-poly
+Floor Theme Packs: Mirror Dungeon 3
+No Upgrades:
+- Base.
+Inflict 1 Fragile this turn to enemies affected by Tremor Burst. (Activates once per Attack Skill that triggers Tremor Burst)
++ Upgrade:
+- Adds 'and next turn' to fragile count.
+Inflict 1 Fragile this turn
+and next turn
+to enemies affected by Tremor Burst. (Activates once per Attack Skill that triggers Tremor Burst)
+++ Upgrade:
+- Adds 1 to fragile count.
+Inflict
+2 Fragile
+this turn and next turn to enemies affected by Tremor Burst. (Activates once per Attack Skill that triggers Tremor Burst)

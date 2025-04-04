@@ -1,0 +1,11 @@
+Tier: I
+Sin: Gluttony
+Type: Speed
+Keyword: Keywordless
+Base Cost: 151
+Abno Events: Should I Get A First Class Ticket?
+Floor Theme Packs: Murder on the WARP Express (Normal: 4-5, Hard: 4-5+)
+No Upgrades:
+- Base.
+Turn End: Among Identities with 5 or less speed, the one with the slowest speed gains 1 Haste next turn.
+Not Upgradable.

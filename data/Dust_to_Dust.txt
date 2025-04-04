@@ -1,0 +1,27 @@
+Tier: III
+Sin: Sloth
+Type: Burn
+Keyword: Burn
+Base Cost: 102
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+First Turn Start of a wave: Inflict 5 Burn Potency and +3 Burn Count to all enemies. (for Abnormalities, one random Part)
+When activating Sloth Absolute Resonance, inflict 3 Burn Potency and +2 Burn Count on all enemies (for Abnormalities, one random Part) at Combat Start.
++ Upgrade:
+- Adds 1 to both Burn Potencies.
+First Turn Start of a wave: Inflict
+6 Burn Potency
+and +3 Burn Count on all enemies. (for Abnormalities, one random Part)
+When activating Sloth Absolute Resonance, inflict
+4 Burn Potency
+and +2 Burn Count on all enemies (for Abnormalities, one random Part) at Combat Start.
+++ Upgrade:
+- Removes absolute resonance requirement, adds 2 Burn Potency at start of battle, and adds 1 Burn Count on resonance.
+First Turn Start of a wave: Inflict
+8 Burn Potency
+and +3 Burn Count on all enemies. (for Abnormalities, one random Part)
+When activating Sloth Resonance, inflict 4 Burn Potency and
++3 Burn Count
+on all enemies (for Abnormalities, one random Part) at Combat Start.

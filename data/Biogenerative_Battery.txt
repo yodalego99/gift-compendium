@@ -1,0 +1,12 @@
+Tier: II
+Sin: Lust
+Type: Offense Level / Speed
+Keyword: Charge
+Base Cost: 203
+Abno Events: Flesh Carriage
+Floor Theme Packs: Murder on the WARP Express (Normal: 4-5, Hard: 4-5+)
+No Upgrades:
+- Base.
+Allies with Charge Count or Unique Charge gain 1 Offense Level with every Clash. (max 6. Resets After Attack)
+Turn End: Identities with 10+ (Charge Count + Unique Charge) gain 1 Haste next turn. At 18+ (Charge Count + Unique Charge), gain 3 Offense Level Up as well.
+Not Upgradable.

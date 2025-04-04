@@ -1,0 +1,13 @@
+Tier: I
+Sin: Wrath
+Type: Discard
+Keyword: Blunt
+Base Cost: 148
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 5
+No Upgrades:
+- Base.
+[Effects apply only to the #3 Deployed Identity]
+Blunt Skills gain (# of Blunt Base Attack Skills) Offense Level. (same Skills don't count twice; max 3)
+When using a Skill to attack an enemy, if a different Skill was Discarded, deal +(10 + (rank of the Discarded Skill x 5))% more Blunt damage. (if multiple were discarded, take the highest value; max 25%).
+Not Upgradable.

@@ -1,0 +1,20 @@
+Tier: I
+Sin: Sloth
+Type: Burn
+Keyword: Burn
+Base Cost: 141
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 3
+No Upgrades:
+- Base.
+After defeating an enemy with a Burn effect, 2 allies with Skills that inflict Burn Potency gains 1 Damage Up at the next Turn Start.
++ Upgrade:
+- Adds 1 to Damage Up.
+After defeating an enemy with a Burn effect, 2 allies with Skills that inflict Burn Potency gains
+2 Damage Up
+at the next Turn Start.
+++ Upgrade:
+- Adds 1 to ally count.
+After defeating an enemy with a Burn effect,
+3 allies
+with Skills that inflict Burn Potency gains 2 Damage Up at the next Turn Start.
