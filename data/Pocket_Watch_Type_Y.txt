@@ -1,0 +1,14 @@
+Tier: IV
+Sin: Envy
+Type: Tremor, Yurodivy
+Keyword: Tremor
+Base Cost: 400
+Combination: Faded Watch Case + Etched Clock Hands
+Floor Theme Packs: Timekilling Time (Normal: 4-5, Hard: 4-5+)
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply Tremor Potency, Count, or Unique Tremor effects. (Not counting E.G.O Skills)
+To allies' Skill 3s that inflict Tremor Potency, Count, or Unique Tremor: Coin Power +2 and deal +25% more damage.
+Yurodivy Identities: Skill 3 gains Coin Power +2 and deal +(25 + (sum of Tremor Potency and Count on target))% more damage. (max 100%).
+Yurodivy Identities: gain +3 Tremor Count at Turn Start.
+Not Upgradeable.

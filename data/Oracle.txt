@@ -1,0 +1,11 @@
+Tier: II
+Sin: Gluttony
+Type: E.G.O Resource Gain
+Keyword: Keywordless
+Base Cost: 181
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+Turn End: convert 1 most-owned random E.G.O resource into 1 least-owned random E.G.O resource.
+Not Upgradable.

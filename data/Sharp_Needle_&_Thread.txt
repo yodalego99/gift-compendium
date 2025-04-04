@@ -1,0 +1,11 @@
+Tier: III
+Sin: Lust
+Type: Bonus Damage
+Keyword: Keywordless
+Base Cost: 271
+Abno Events: Bongy Chicken Tango
+Floor Theme Packs: Hell's Chicken (Normal: 2, Hard: 2)
+No Upgrades:
+- Base.
+Each turn, the first skill to deal damage to an enemy deals bonus fixed damage by half of the damage dealt.
+Not Upgradable.

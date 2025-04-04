@@ -1,0 +1,18 @@
+Tier: IV
+Sin: Wrath
+Type: Burn
+Keyword: Burn
+Base Cost: 404
+Abno Events: N/A
+Combination: Burning Intellect + Decamillennial Hearthflame + Charred Disk
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply Burn or Unique Burn. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+On Hit with a Skill(including E.G.O Skills): if the target has 3+ Burn Count, activate Burn once on the target. (target loses 1 Burn Count; activates once per Skill)
+Turn End: targets with 3+ Burn Count activates Burn one more time (target loses 1 Burn Count).
+If a target with Burn is defeated (for Abnormalities, when the Core is defeated), inflict its remaining Burn Potency to one of the enemies with the least Burn Potency at the next Turn Start.
+Turn Start: for this turn, inflict 4 Offense Level Down to enemies with Burn.
+If a target with Burn is defeated, at the next Turn Start, (defeated enemy's Burn Potency / 15) allies with Skills that inflict Burn gain 2 Damage Up. (once per turn).
+Hard Mode Only.
+Not Upgradable.

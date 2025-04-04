@@ -1,0 +1,13 @@
+Tier: III
+Sin: Envy
+Type: Offense Level Up
+Keyword: Keywordless
+Base Cost: 252
+Abno Events: N/A
+Floor Theme Packs: LCB Regular Check-Up (Normal: 5, Hard: 5+)
+No Upgrades:
+- Base.
+During the Encounter, when an ally retreats or is defeated, randomly apply 3 Offense Level Up between all Identities at next Turn Start. (2 times per turn)
+- When 3+ allies retreat or are defeated, randomly apply 6 Offense Level Up between all Identities at next Turn Start instead. (2 times per turn)
+Turn Start: 3 allies with the lowest SP heals 15, 10, and 5 SP each (does not stack; the numbers apply in the ascending order; does not activate if the affected units are Panicked or Corroded)
+Not Upgradable.

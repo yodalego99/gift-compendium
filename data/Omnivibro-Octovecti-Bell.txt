@@ -1,0 +1,18 @@
+Tier: IV
+Sin: Sloth
+Type: Tremor
+Keyword: Tremor
+Base Cost: 405
+Abno Events: N/A
+Combination: Venomous Skin + Clockwork Spring + Epicenter
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply Tremor Potency, Count, or 'Unique Tremor'. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+(If an Identity only has Attack Skills that gain Tremor Count on self, this E.G.O Gift does not activate for them).
+When winning a Clash with a Skill that inflicts Tremor Potency or Count, or consumes Tremor Count on self: inflict (# of remaining Coins) Tremor Potency against the target; if the target does not have Tremor, inflict +3 Tremor Count.
+Turn Start: gain (1 + (Tremor Count on self / 5)) Clash Power Up. (max 3).
+When using a Skill that consumes Tremor Count on self: when defeating or Staggering a target, gain (Tremor Count consumed / 2) Tremor Count (once per Skill).
+Skills that consume Tremor Count on self deal + (Tremor consumed on self + Tremor Potency on the enemy + 5)% more damage (except E.G.O Skills; max 50%).
+Hard Mode Only.
+Not Upgradable.

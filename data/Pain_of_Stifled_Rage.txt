@@ -1,0 +1,26 @@
+Tier: II
+Sin: Gluttony
+Type: Burn
+Keyword: Burn
+Base Cost: 199
+Abno Events: Brazen Bull
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to #1, #2 Deployed Identities]
+When inflicting Burn or Unique Burn with a Skill effect to an enemy that has Burn or Unique Burn, gain 1 Haste next turn. (2 times per Skill, 2 times per turn)
+If the affected unit already has Haste, gain 1 Haste and 2 Offense Level Up instead. (once per Skill, 2 times per turn)
++ Upgrade:
+- Increases the width of application to the 3rd deployed sinner, and adds 1 to Haste gain when already having Haste.
+[Effects apply only to #1, #2, and #3 Deployed Identities]
+When inflicting Burn or Unique Burn with a Skill effect to an enemy that has Burn or Unique Burn, gain 1 Haste next turn. (2 times per Skill, 2 times per turn)
+If the affected unit already has Haste, gain
+2 Haste
+and 2 Offense Level Up instead. (once per Skill, 2 times per turn)
+++ Upgrade:
+- Replaces Offense Level Up with Damage Up.
+[Effects apply only to #1, #2, and #3 Deployed Identities]
+When inflicting Burn or Unique Burn with a Skill effect to an enemy that has Burn or Unique Burn, gain 1 Haste next turn. (2 times per Skill, 2 times per turn)
+If the affected unit already has Haste, gain 2 Haste and 2
+Damage Up
+instead. (once per Skill, 2 times per turn)

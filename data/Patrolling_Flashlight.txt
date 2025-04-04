@@ -1,0 +1,28 @@
+Tier: II
+Sin: Envy
+Type: Charge Barrier
+Keyword: Charge
+Base Cost: 210
+Abno Events: Wayward Passenger
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to #1, #2 Deployed Identities]
+Turn Start: if the affected Identity has a Skill that gains or consumes Charge Count, the Identity's Skill 1 gains Clash Power +1 and deals +10% more damage while that unit has Charge Barrier.
+Turn End: if the affected Identity does not have Charge Barrier, apply 2 Charge Barrier next turn.
++ Upgrade:
+- Adds 3rd Sinner to Effect, adds +5% to additional damage, and adds 1 to applied Charge Barrier if they don't have Charge Barrier already.
+[Effects apply only to #1, #2, and #3 Deployed Identities]
+Turn Start: if the affected Identity has a Skill that gains or consumes Charge Count, the Identity's Skill 1 gains Clash Power +1 and
+deals +15% more damage
+while that unit has Charge Barrier.
+Turn End: if the affected Identity does not have Charge Barrier,
+apply 3 Charge Barrier next turn.
+++ Upgrade:
+- Adds +10% to additional damage, and adds 1 to applied Charge Barrier if they don't have Charge Barrier already.
+[Effects apply only to #1, #2, and #3 Deployed Identities]
+Turn Start: if the affected Identity has a Skill that gains or consumes Charge Count, the Identity's Skill 1 gains Clash Power +1 and
+deals +25% more damage
+while that unit has Charge Barrier.
+Turn End: if the affected Identity does not have Charge Barrier,
+apply 4 Charge Barrier next turn.

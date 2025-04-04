@@ -1,0 +1,12 @@
+Tier: III
+Sin: Envy
+Type: Rupture
+Keyword: Rupture
+Base Cost: 269
+Abno Events: Shock Centipede
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+When hitting an enemy with a Skill, inflict 3 Rupture Potency on target.
+If the Skill's Affinity was Envy, inflict 5 Rupture Potency on target instead.
+Not Upgradable.

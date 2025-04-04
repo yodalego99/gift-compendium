@@ -1,0 +1,11 @@
+Tier: II
+Sin: Gloom
+Type: Poise Final Power
+Keyword: Poise
+Base Cost: 213
+Abno Events: Portrait of a Certain Day
+Floor Theme Packs: Fuse / Shop / Event Only
+No Upgrades:
+- Base.
+Skill 3 for Identities that can gain Poise Potency or Count through Skills(except E.G.O Skills): Final Power +2.
+Not Upgradeable.

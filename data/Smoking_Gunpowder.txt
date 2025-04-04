@@ -1,0 +1,25 @@
+Tier: II
+Sin: Pride
+Type: Rupture
+Keyword: Rupture
+Base Cost: 201
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to #1, #2, and #3 Deployed Identities]
+Turn End: If an Attack Skill inflicting Rupture Potency or Count has been used at least once this turn, gain 1 Haste next turn.
+If this unit's Speed is at 6+, Attack Skills inflicting Rupture Potency or Count deals +12.5% more damage.
++ Upgrade:
+- Decreases speed requirement by 1, and increases damage dealt by 2.5%.
+[Effects apply only to #1, #2, and #3 Deployed Identities]
+Turn End: If an Attack Skill inflicting Rupture Potency or Count has been used at least once this turn, gain 1 Haste next turn.
+If this unit's Speed is at
+5+, Attack Skills inflicting Rupture Potency or Count deals +15% more damage.
+++ Upgrade:
+- Added a potential 1 more haste, decreased speed requirement by 1, and increases damage dealt by 5%.
+[Effects apply only to #1, #2, and #3 Deployed Identities]
+Turn End: If an Attack Skill inflicting Rupture Potency or Count has been used at least once this turn, gain
+1~2 Haste next turn.
+If this unit's Speed is at
+4+, Attack Skills inflicting Rupture Potency or Count deals +20% more damage.

@@ -1,0 +1,13 @@
+Tier: III
+Sin: Pride
+Type: Charge Barrier
+Keyword: Charge
+Base Cost: 250
+Abno Events: Bloodbag Carriage
+Floor Theme Packs: Murder on the WARP Express (Normal: 4-5, Hard: 4-5+)
+No Upgrades:
+- Base.
+Skill 1s that gain Charge Count or Unique Charge gain Clash Power +2.
+When using a Skill 1 that gains Charge Count, gain +2 Charge Count and 1 Charge Barrier. (once per turn)
+If a W Corp. Identity takes HP damage due to any effect other than a direct damage, gain 5 Charge Barrier. (once per turn)
+Not Upgradable.

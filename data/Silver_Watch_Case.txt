@@ -1,0 +1,12 @@
+Tier: II
+Sin: Lust
+Type: Tremor (Burst)
+Keyword: Tremor
+Base Cost: 196
+Abno Events: Assembly Line
+Floor Theme Packs: Timekilling Time (Normal: 4-5, Hard: 4-5+)
+No Upgrades:
+- Base.
+When dealing damage to an enemy with Attack Skills(Not counting E.G.O Skills) that inflict Tremor Potency, Count, or Unique Tremor, deal +10% more damage.
+If the Skill triggered Tremor Burst on the enemy for the first time this turn, inflict +2 Tremor Count next turn (once per turn).
+Not Upgradeable.

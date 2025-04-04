@@ -1,0 +1,14 @@
+Tier: IV
+Sin: Gloom
+Type: Poise (Blade Lineage)
+Keyword: Poise
+Base Cost: 432
+Abno Events: Impression
+Floor Theme Packs: Yield My Flesh to Claim Their Bones (Normal: 4-5, Hard: 3-4)
+No Upgrades:
+- Base.
+Encounter Start: activates when there are 3 or more Blade Lineage Identities.
+All allies deal +50% more Slash damage.
+Blade Lineage allies with Poise have a fixed Critical rate of 100%.
+Blade Lineage Identities: inflict x1.5 more damage on Crit.
+Not Upgradeable.

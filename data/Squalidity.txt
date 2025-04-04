@@ -1,0 +1,12 @@
+Tier: II
+Sin: Sloth
+Type: Bleed
+Keyword: Bleed
+Base Cost: 217
+Abno Events: N/A
+Floor Theme Packs: The Unconfronting (Normal: 3, Hard: 3)
+No Upgrades:
+- Base.
+When an ally attacks an enemy that has Bleed with a Skill that inflicts Bleed Potency, Count or Unique Bleed, deal +15% more damage against the target.
+If the target has 33%- HP, inflict +25% more damage against the target instead.
+Not Upgradable.

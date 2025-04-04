@@ -1,0 +1,11 @@
+Tier: II
+Sin: Envy
+Type: Burn
+Keyword: Burn
+Base Cost: 204
+Abno Events: kqe-1j-23
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+When hitting an enemy with an Envy Affinity Skill or a Skill that inflicts Burn Potency or Unique Burn, inflict additional Burn Potency by half the Skill's total Coins. (rounded up)
+Not Upgradable.

@@ -1,0 +1,12 @@
+Tier: III
+Sin: Wrath
+Type: Tremor, Speed
+Keyword: Tremor
+Base Cost: 250
+Abno Events: Time Ripper Victim
+Floor Theme Packs: Timekilling Time (Normal: 4-5, Hard: 4-5+)
+No Upgrades:
+- Base.
+Deal + (5 + (2.5 x Speed difference))% more damage against faster enemies with 2+ Speed difference. (max 15%).
+Turn End: If an ally dealt damage with an Attack Skill (Not counting E.G.O Skills) this turn against faster enemies with 2+ Speed difference, inflict 2 Bind and 1 Power Down to the enemy next turn. (once per turn).
+Not Upgradeable.

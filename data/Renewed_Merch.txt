@@ -1,0 +1,11 @@
+Tier: III
+Sin: Gloom
+Type: Shop
+Keyword: Keywordless
+Base Cost: 250
+Abno Events: N/A
+Floor Theme Packs: Shop
+No Upgrades:
+- Base.
+Shop E.G.O Gift Enhance Cost -30%.
+Not Upgradeable.

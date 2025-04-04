@@ -1,0 +1,12 @@
+Tier: II
+Sin: Gluttony
+Type: Rupture Potency
+Keyword: Rupture
+Base Cost: 200
+Abno Events: Doomsday Calendar
+Floor Theme Packs: Mirror Dungeon 5
+No Upgrades:
+- Base.
+If the target has less than 15 Rupture Potency, inflict 1 additional Potency when inflicting Rupture Potency.
+Hard Mode Only.
+Not Upgradable.

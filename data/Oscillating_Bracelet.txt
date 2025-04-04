@@ -1,0 +1,24 @@
+Tier: II
+Sin: Wrath
+Type: Tremor
+Keyword: Tremor
+Base Cost: 208
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+When hitting an enemy with a Skill, inflict 1 Tremor Potency next turn.
+If the Skill's Affinity was Wrath, inflict 2 Tremor Potency instead.
++ Upgrade:
+- Adds 1 to Tremor Potency when skill affinity is Wrath.
+When hitting an enemy with a Skill, inflict 1 Tremor Potency next turn.
+If the Skill's Affinity was Wrath, inflict
+3 Tremor Potency
+instead.
+++ Upgrade:
+- Adds 1 to skill Tremor Potency, and 1 to Wrath Tremor Potency.
+When hitting an enemy with a Skill, inflict
+2 Tremor Potency next turn.
+If the Skill's Affinity was Wrath, inflict
+4 Tremor Potency
+instead.

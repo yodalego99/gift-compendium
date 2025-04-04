@@ -1,0 +1,14 @@
+Tier: IV
+Sin: Gloom
+Type: Tremor, Speed
+Keyword: Tremor
+Base Cost: 400
+Combination: Faded Watch Case + Rusted Clock Hands
+Floor Theme Packs: Timekilling Time (Normal: 4-5, Hard: 4-5+)
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply Tremor Potency, Count, or Unique Tremor effects. (Not counting E.G.O Skills).
+To allies' Skill 3s that inflict Tremor Potency, Count, or Unique Tremor: Coin Power +2 and deal +25% more damage.
+When an ally that inflicts Tremor Potency, Count, or Unique Tremor Clashes against a faster enemy with 2+ Speed difference: Clash Power +2 and deal +(Tremor Potency on target)% more damage. (max 50%).
+Turn Start: from slowest to fastest, the 3 slowest allies gain 5 Offense Level Up, 3 Offense Level Up, and 2 Offense Level Up respectively.
+Not Upgradeable.

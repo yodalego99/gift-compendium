@@ -1,0 +1,13 @@
+Tier: III
+Sin: Gloom
+Type: SP Gain / Minus Coin Protection
+Keyword: Keywordless
+Base Cost: 250
+Abno Events: N/A
+Floor Theme Packs: Miracle in District 20 (Normal: 4, Hard: 3)
+No Upgrades:
+- Base.
+Deal +(absolute value of SP / 1.5)% more damage. (min 0%)
+When an ally with Plus Coin Skills recovers from Stagger, fully heal SP. (does not activate when Corroded)
+For an ally with all Minus Coin Skills: gain 3 Paralyze at Turn Start.
+Not Upgradable.

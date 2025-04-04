@@ -1,0 +1,13 @@
+Tier: I
+Sin: Envy
+Type: Slash
+Keyword: Slash
+Base Cost: 148
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 5
+No Upgrades:
+- Base.
+[Effects apply only to the #3 Deployed Identity]
+Slash Skills gain + (# of Slash Base Attack Skills) Offense Level. (same Skills don't count twice; max 3).
+When attacking enemies Weak(greater than 1.0 Resist.; Staggered states don't count), to Slash, deal +(5 + (target's Slash Resist. x 10))% more damage. (max 25%).
+Not Upgradable.

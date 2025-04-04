@@ -1,0 +1,13 @@
+Tier: III
+Sin: Gloom
+Type: Poise Coin Power
+Keyword: Poise
+Base Cost: 261
+Combination: Pendant of Nostalgia + Recollection of a Certain Day
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply or gain Poise Potency or Count. (except E.G.O Skills, only counts Identities on the field at Encounter Start)
+Skill 3 of Identities with Skills (except E.G.O Skills) that gain Poise Potency or Count: Coin Power +1.
+Combat Start: a random ally gains 3 Poise Potency. (prioritizes Identities that gain Poise Potency or Count with their Attack Skills) Prioritizes allies with Gloom Affinity Attack Skills; they gain 3 Poise Potency and +2 Poise Count instead.
+Not Upgradeable.

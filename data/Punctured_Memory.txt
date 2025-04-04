@@ -1,0 +1,13 @@
+Tier: IV
+Sin: Wrath
+Type: Clash Power / Pierce DMG Up
+Keyword: Pierce
+Base Cost: 400
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to #1 and #2 Deployed Identity]
+Pierce Attack Skills (including E.G.O Skills) gain Base Power +2, Plus Coin Power +1, and Minus Coin Power -1.
+On Clash Win with a Pierce Attack Skill (except E.G.O Skills), deal +15% more damage with that Skill; On Hit with that Skill, if faster than the main target, deal + (speed difference with the main target x 2.5)% more damage (35% max).
+Not Upgradable.

@@ -1,0 +1,12 @@
+Tier: I
+Sin: Pride
+Type: Healing
+Keyword: Keywordless
+Base Cost: 152
+Abno Events: Spider of Marriage
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+First Turn Start of an Encounter: the ally with the least HP heals 15% of their Max HP.
+When activating Pride Absolute Resonance, the ally with the least HP heals 12.5% of their missing HP at Combat Start.
+Not Upgradable.

@@ -1,0 +1,12 @@
+Tier: I
+Sin: Sloth
+Type: Poise Production
+Keyword: Poise
+Base Cost: 150
+Abno Events: N/A
+Floor Theme Packs: Miracle in District 20 (Normal: 4, Hard: 3)
+No Upgrades:
+- Base.
+Turn End: gain 1 Poise Potency next turn for every Attack Skill that dealt damage before Turn End.
+In Focused Encounters: gain 3 Poise Potency for every Attack Skill that dealt damage before Turn End instead.
+Not Upgradable.

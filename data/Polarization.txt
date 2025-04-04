@@ -1,0 +1,24 @@
+Tier: I
+Sin: Gloom
+Type: Burn
+Keyword: Burn
+Base Cost: 158
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+If the ally has 30 or more SP than the target, deal +7.5% more damage with Skills that inflict Burn Potency, Count, or Unique Burn. (For enemies without SP, their 'SP' counts as 0).
++ Upgrade:
+- Decreased SP cost by 5 and increased damage percentage by 5%
+If the ally has
+25 or more SP
+than the target, deal
++12.5% more damage
+with Skills that inflict Burn Potency, Count, or Unique Burn. (For enemies without SP, their 'SP' counts as 0).
+++ Upgrade:
+- Decreased SP cost by 10 and increased damage percentage by 7.5%
+If the ally has
+15 or more SP
+than the target, deal
++20% more damage
+with Skills that inflict Burn Potency, Count, or Unique Burn. (For enemies without SP, their 'SP' counts as 0).

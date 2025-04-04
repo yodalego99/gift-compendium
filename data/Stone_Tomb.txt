@@ -1,0 +1,25 @@
+Tier: II
+Sin: Sloth
+Type: Poise
+Keyword: Poise
+Base Cost: 196
+Abno Events: Pagoda Veneration
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+Allies gain 1.5x Poise Potency from Skill effects.
+When an ally defeats an enemy with a Sloth Affinity Skill, they gain 2 Poise Potency and +2 Poise Count at the next Turn Start. (Once per turn)
++ Upgrade:
+- Removes affinity requirement, and adds 1 Poise Potency.
+Allies gain 1.5x Poise Potency from Skill effects.
+When an ally defeats an enemy, they gain
+3 Poise Potency
+and +2 Poise Count at the next Turn Start. (Once per turn)
+++ Upgrade:
+- Allies gain 2x Poise Potency now, and adds 1 poise.
+Allies gain
+2x Poise Potency
+from Skill effects.
+When an ally defeats an enemy, they gain
+4 Poise Potency
+and +2 Poise Count at the next Turn Start. (Once per turn)

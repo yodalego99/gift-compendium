@@ -1,0 +1,27 @@
+Tier: II
+Sin: Gluttony
+Type: Seven Asc. Slash
+Keyword: Slash
+Base Cost: 207
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 5
+No Upgrades:
+- Base.
+When winning a Clash with a Slash Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn for each Identity; effect cannot stack against the same enemy)
+- For Seven Association Identities: above effect applies to Pierce and Blunt Base Attack Skills as well.
+Encounter Start: Seven Association Identities gain (# of other Seven Association Identities / 2) Clash Power Up (rounded down; max 2).
++ Upgrade:
+- Adjusted to Odd Numbered Turn Start and adds Weakness Analyzed.
+When winning a Clash with a Slash Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn for each Identity; effect cannot stack against the same enemy)
+- For Seven Association Identities: above effect applies to Pierce and Blunt Base Attack Skills as well,
+and inflict Weakness Analyzed as well.
+Odd-numbered Turn Start:
+Seven Association Identities gain (# of other Seven Association Identities / 2) Clash Power Up (rounded down; max 2).
+++ Upgrade:
+- Adjusted to Turn Start and added 1 Clash Power Down and Clash Win effect for Seven Asc.
+When winning a Clash with a Slash Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn for each Identity; effect cannot stack against the same enemy)
+- For Seven Association Identities: above effect applies to Pierce and Blunt Base Attack Skills as well, and inflict Weakness Analyzed
+and 1 Clash Power Down as well.
+Turn Start
+: Seven Association Identities gain (# of other Seven Association Identities / 2) Clash Power Up. (rounded down; max 2)
+On Clash Win, deal +20% more damage with the Skill.

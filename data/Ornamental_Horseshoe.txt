@@ -1,0 +1,28 @@
+Tier: I
+Sin: Wrath
+Type: Poise
+Keyword: Poise
+Base Cost: 154
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 3
+Note: The weird placements of 'Potency' for + and ++ are directly from the game, but luckily they shouldn't change the effect regardless.
+No Upgrades:
+- Base.
+Turn Start: apply 2 Poise Potency to a random ally without Poise.
+When all allies have Poise Potency, apply 1 Poise Count to all allies instead.
++ Upgrade:
+- Increases Point Potency by 1 on the first line and Poise Count by 1 on the second line.
+Turn Start: apply
+3 Poise Potency
+to a random ally without Poise Potency.
+When all allies have Poise, apply
+2 Poise Count
+to all allies instead.
+++ Upgrade:
+- Increases application on turn start to two allies, and adds 1 to Poise Potency. Increases Poise Count by 1 on the second line.
+Turn Start: apply
+3 Poise Potency to two random allies
+without Poise Potency.
+When all allies have Poise, apply
+3 Poise Count
+to all allies instead.

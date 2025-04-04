@@ -1,0 +1,13 @@
+Tier: III
+Sin: Gluttony
+Type: Haste
+Keyword: Slash
+Base Cost: 245
+Abno Events: ?
+Floor Theme Packs: Nocturnal Sweeping (Normal: 5, Hard: 5+)
+No Upgrades:
+- Base.
+Turn End: Heishou Pack - Mao Branch Identities gain 2 Haste next turn.
+If an ally's Speed is faster than the target's, or when activating Unopposed Attacks, deal +10% more Slash damage for every (Speed difference / 3) (max 30%).
+If an ally's Speed is faster than the target's, take -10% less damage for every (Speed difference / 3) (max 30%).
+Not Upgradable.

@@ -1,0 +1,12 @@
+Tier: III
+Sin: Wrath
+Type: Sin DMG Up
+Keyword: Keywordless
+Base Cost: 249
+Abno Events: Gnomes
+Floor Theme Packs: Miracle in District 20 BokGak (Normal: -, Hard: 4-5+)
+No Upgrades:
+- Base.
+Turn Start: randomly select 1 out of 'Wrath ~ Envy DMG Up' effects and apply 1 Stack to all allies
+Turn Start: randomly select 1 out of 'Wrath ~ Envy Fragility' effects and inflict 1 Stack to all enemies
+Not Upgradeable.

@@ -1,0 +1,11 @@
+Tier: III
+Sin: Wrath
+Type: General Buff (Slash)
+Keyword: Slash
+Base Cost: 253
+Abno Events: Travelers
+Floor Theme Packs: Yield My Flesh to Claim Their Bones (Normal: 4-5, Hard: 3-4)
+No Upgrades:
+- Base.
+If the target has 1.5 or lower Slash Resistance, Slash Resistance +0.3.
+Not Upgradeable.

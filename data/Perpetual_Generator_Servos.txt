@@ -1,0 +1,14 @@
+Tier: IV
+Sin: Gloom
+Type: HP Healing
+Keyword: Charge
+Base Cost: 400
+Combination: Cardiovascular Reactive Module + Prosthetic Joint Servos
+Floor Theme Packs: Murder on the WARP Express (Normal: 4-5, Hard: 4-5+)
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain Charge Count or Unique Charge effects. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start).
+Base Attack Skills that consume Charge Count or Unique Charge: gain Coin Power +1 and deal +(sum of Charge Count and Unique Charge consumed by that Skill x 4)% more damage (max 40%).
+When allies with Charge Count or Unique Charge engage in a Clash with base Attack Skills: Clash Power +1; gain 2 Offense Level Up at Turn Start for every instance of Clash Win in that Clash during this Encounter. (max 6).
+In this Encounter, when an ally takes damage that would kill them, consume all Charge Count and Unique Charge on self; then, immediately heal (10 + sum of Charge Count and Unique Charge consumed)% HP (once per Encounter); then, gain 3 Protection until the ally is defeated.
+Not Upgradeable.

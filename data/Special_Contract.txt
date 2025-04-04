@@ -1,0 +1,11 @@
+Tier: III
+Sin: Pride
+Type: General Buff
+Keyword: Keywordless
+Base Cost: 250
+Abno Events: Overdue Assignments
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+Enemies Staggered by taking Skill damage also receive fixed damage by 33% of their Max HP (for Abnormalities, the Part's HP), and are inflicted with 2 Fragile next turn. (Once per Encounter)
+Not Upgradeable.

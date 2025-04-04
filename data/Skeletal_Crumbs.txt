@@ -1,0 +1,12 @@
+Tier: II
+Sin: Gloom
+Type: Sinking
+Keyword: Sinking
+Base Cost: 205
+Abno Events: Tomb of Bone
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+Deal +12.5% damage and take -12.5% damage against enemies that had Sinking at Combat Start.
+Allies with Gloom Affinity Attack Skills deal +20% damage and take -20% damage instead.
+Not Upgradable.

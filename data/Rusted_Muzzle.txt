@@ -1,0 +1,27 @@
+Tier: I
+Sin: Envy
+Type: Bleed
+Keyword: Bleed
+Base Cost: 164
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 3
+No Upgrades:
+- Base.
+When hitting and dealing 12+ HP damage to an enemy with a Skill, inflict 2 Bleed Potency.
+When using a Slash Skill, inflict 4 Bleed Potency instead.
++ Upgrade:
+- Increases Bleed Potency by 1 for both situations.
+When hitting and dealing 12+ HP damage to an enemy with a Skill, inflict
+3 Bleed Potency
+on target.
+When using a Slash Skill, inflict
+5 Bleed Potency
+instead.
+++ Upgrade:
+- Makes it apply when dealing any HP Damage, and adds 1 Bleed Count on slash.
+Whenever an ally deals
+1+ HP damage
+to an enemy with a Skill, inflict 3 Bleed Potency on target.
+When using a Slash Skill, inflict 5 Bleed Potency
+and +1 Bleed Count
+instead.

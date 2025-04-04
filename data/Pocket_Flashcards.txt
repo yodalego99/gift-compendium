@@ -1,0 +1,28 @@
+Tier: II
+Sin: Gloom
+Type: Dieci Blunt
+Keyword: Blunt
+Base Cost: 201
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 5
+No Upgrades:
+- Base.
+When winning a Clash with a Blunt Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn for each Identity; effect cannot stack against the same enemy).
+- For Dieci Association Identities: above effect applies to Slash and Pierce Base Attack Skills as well; inflict 1 additional Defense Level Down.
+If a Dieci Association Identity Discarded their own Skill using a Discard Skill, gain (rank of the Discarded Skill) Offense Level Up at the next Turn Start. (if multiple are discarded, take the highest value; max 3).
++ Upgrade:
+- Increased maximum and minimum Offense Level Up at Turn Start for Dieci by one.
+When winning a Clash with a Blunt Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn for each Identity; effect cannot stack against the same enemy).
+- For Dieci Association Identities: above effect applies to Slash and Pierce Base Attack Skills as well; inflict 1 additional Defense Level Down.
+If a Dieci Association Identity Discarded their own Skill using a Discard Skill, gain
+(rank of the Discarded Skill + 1)
+Offense Level Up at the next Turn Start. (if multiple are discarded, take the highest value;
+max 4).
+++ Upgrade:
+- Increased maximum and minimum Offense Level Up at Turn Start for Dieci by one.
+When winning a Clash with a Blunt Base Attack Skill, inflict 2 Defense Level Down next turn against the target. (once per turn for each Identity; effect cannot stack against the same enemy).
+- For Dieci Association Identities: above effect applies to Slash and Pierce Base Attack Skills as well; inflict 1 additional Defense Level Down.
+If a Dieci Association Identity Discarded their own Skill using a Discard Skill, gain
+(rank of the Discarded Skill + 2)
+Offense Level Up at the next Turn Start. (if multiple are discarded, take the highest value;
+max 5).

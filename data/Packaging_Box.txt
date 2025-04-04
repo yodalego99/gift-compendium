@@ -1,0 +1,12 @@
+Tier: I
+Sin: Gluttony
+Type: Various Statuses
+Keyword: Keywordless
+Base Cost: 151
+Abno Events: Gnomes
+Floor Theme Packs: Miracle in District 20 BokGak (Normal: -, Hard: 4-5+)
+No Upgrades:
+- Base.
+On Hit from ally Skills) randomly select one of the following effects: Burn, Bleed, Tremor, Rupture, and Sinking, then inflict 1 Potency of the selected effect (3 times per turn)
+On Kill from allies) randomly select one of the following effects: Poise Count, Charge Count, Haste, Offense Level Up, and Defense Level Up, then inflict 1 of the selected effect to a random ally (3 times per turn)
+Not Upgradeable.

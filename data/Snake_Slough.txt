@@ -1,0 +1,25 @@
+Tier: II
+Sin: Gluttony
+Type: Defense Level Up
+Keyword: Keywordless
+Base Cost: 188
+Abno Events: N/A
+Floor Theme Packs: Railway 1 (Normal: -, Hard: 4)
+No Upgrades:
+- Base.
+Turn Start: all allies gain 2 Defense Level Up.
+Each ally gains (Defense LevelUp on self / 4) Offense Level. (max 10).
++ Upgrade:
+- Increases Turn Start Defense Level Up by 2. Decreases division by 1.
+Turn Start: all allies gain
+4 Defense Level Up.
+Each ally gains
+(Defense Level Up on self / 3)
+Offense Level. (max 10).
+++ Upgrade:
+- Decreases division by 1.
+Turn Start: all allies gain 4 Defense Level Up.
+Each ally gains
+(Defense Level Up on self / 2)
+Offense Level. (max 10).
+Hard Mode Only.

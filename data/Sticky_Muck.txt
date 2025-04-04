@@ -1,0 +1,11 @@
+Tier: I
+Sin: Gluttony
+Type: Affinity Buff / Pierce Buff
+Keyword: Pierce
+Base Cost: 156
+Abno Events: Ambling Pearl
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+When hitting an enemy with a Pierce Skill or a Gluttony Affinity Skill, inflict 2 Defense Level Down.
+Not Upgradable.

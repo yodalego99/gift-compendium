@@ -1,0 +1,12 @@
+Tier: III
+Sin: Sloth
+Type: Haste / Power Up
+Keyword: Keywordless
+Base Cost: 252
+Abno Events: Dongbaek
+Floor Theme Packs: Falling Flowers (Normal: 3, Hard: 2)
+No Upgrades:
+- Base.
+For this Encounter, the following effect activates every time Skill 1, Skill 2, and Skill 3 are all used at least once.
+Turn Start: gain 1 Haste and 1 Power Up. (can stack up to 3 times)
+Not Upgradable.

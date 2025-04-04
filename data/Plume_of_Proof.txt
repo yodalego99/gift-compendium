@@ -1,0 +1,28 @@
+Tier: II
+Sin: Pride
+Type: Cinq Pierce
+Keyword: Pierce
+Base Cost: 203
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 5
+No Upgrades:
+- Base.
+On Hit after winning a Clash with a Pierce Base Attack Skill, inflict 1 Bind against the target next turn. (once per turn for each Identity; does not stack against the same enemy)
+- For Cinq Association Identities: gain 1 Haste next turn as well.
+When a Cinq Association Identity uses a Base Attack Skill to win a Clash against targets (for Abnormalities, Parts) with Declared Duel or Focused Attack, gain 2 Poise Potency On Hit (once per turn for each Identity).
++ Upgrade:
+- Added double stacking. +2 to Poise Potency gained.
+On Hit after winning a Clash with a Pierce Base Attack Skill, inflict 1 Bind against the target next turn. (once per turn for each Identity;
+max 2 for each enemy)
+- For Cinq Association Identities: gain 1 Haste next turn as well.
+When a Cinq Association Identity uses a Base Attack Skill to win a Clash against targets (for Abnormalities, Parts) with Declared Duel or Focused Attack, gain
+4 Poise Potency On Hit
+(once per turn for each Identity).
+++ Upgrade:
+- Increased to twice per turn per identity.
+On Hit after winning a Clash with a Pierce Base Attack Skill, inflict 1 Bind against the target next turn. (once per turn for each Identity; max 2 for each enemy)
+- For Cinq Association Identities: gain 1 Haste next turn as well.
+(2 times per turn for each Identity)
+When a Cinq Association Identity uses a Base Attack Skill to win a Clash against targets (for Abnormalities, Parts) with Declared Duel or Focused Attack, gain 4 Poise Potency On Hit
+(2 times
+per turn for each Identity).

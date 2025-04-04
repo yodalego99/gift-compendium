@@ -1,0 +1,27 @@
+Tier: II
+Sin: Envy
+Type: Pierce DMG Up / Haste
+Keyword: Pierce
+Base Cost: 213
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to #6 Deployed Identity]
+When hitting an enemy with a Pierce Skill, gain 1 Haste and 1 Pierce DMG Up next turn. (once per turn)
+When defeating an enemy with the said Skill, gain 1 additional Haste next turn. (once per turn)
++ Upgrade:
+- The Fifth Sinner is now also affected. Adds 1 additional Pierce DMG Up when defeating an enemy.
+[Effects apply only to #5 and #6 Deployed Identity]
+When hitting an enemy with a Pierce Skill, gain 1 Haste and 1 Pierce DMG Up next turn. (once per turn)
+When defeating an enemy with the said Skill, gain 1 additional Haste
+and 1 additional Pierce DMG Up
+next turn. (once per turn)
+++ Upgrade:
+- Lets the conditional on hitting an enemy with a pierce skill occur twice per turn. Also adds 1 additional Pierce DMG Up when defeating an enemy.
+[Effects apply only to #5 and #6 Deployed Identity]
+When hitting an enemy with a Pierce Skill, gain 1 Haste and 1 Pierce DMG Up next turn.
+(2 times per turn)
+When defeating an enemy with the said Skill, gain 1 additional Haste
+and 2 additional Pierce DMG Up
+next turn. (once per turn)

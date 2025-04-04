@@ -1,0 +1,16 @@
+Tier: III
+Sin: Wrath
+Type: Tremor
+Keyword: Keywordless
+Base Cost: 251
+Abno Events: N/A
+Combination: Snuffed Lantern + Snuffed Candlestick
+Floor Theme Packs: Miracle in District 20 BokGak (Normal: -, Hard: 4-5+)
+No Upgrades:
+- Base.
+[Effects apply only to #1, #2, #7, and #8 Deployed Identities]
+Gain +1 more Tremor Count from Skill & Coin effects
+- If the target is in Staggered, Low Morale, or Panic states, gain +2 more instead
+If there are enemies in Staggered, Low Morale, or Panic states at Turn Start, inflict 2 Offense Level Down or 2 Defense Level Down against all enemies. (3 times per turn)
+On Hit against enemies in Staggered, Low Morale, or Panic states: inflict 1 Offense Level Down or 1 Defense Level Down (3 times per turn between all Identities)
+Not Upgradeable.

@@ -1,0 +1,26 @@
+Tier: II
+Sin: Wrath
+Type: Sinking
+Keyword: Sinking
+Base Cost: 188
+Abno Events: Centipede Apostle
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+Whenever an ally inflicts Sinking Potency on enemies with Skill Effects, the ally gains 1 'Offense Level' next turn. (Max 3)
+Allies with Wrath Affinity Attack Skills, upon inflicting Sinking Potency on enemies with Skill Effects, gain 2 'Offense Level' next turn instead. (Max 4)
++ Upgrade:
+- Increases max to 4 for the first line, and max to 5 for the second line.
+Whenever an ally inflicts Sinking Potency on enemies with Skill Effects, the ally gains 1 'Offense Level' next turn.
+(Max 4)
+Allies with Wrath Affinity Attack Skills, upon inflicting Sinking Potency on enemies with Skill Effects, gain 2 'Offense Level' next turn instead.
+(Max 5)
+++ Upgrade:
+- Adds 1 to Offense Level Up for the first line, Adds 1 to Offense Level Up for the second line, and increases max for the second line to 6.
+Whenever an ally inflicts Sinking Potency on enemies with Skill Effects, the ally gains
+2 'Offense Level' next turn
+. (Max 4)
+Allies with Wrath Affinity Attack Skills, upon inflicting Sinking Potency on enemies with Skill Effects, gain
+3 'Offense Level' next turn
+instead.
+(Max 6)

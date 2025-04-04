@@ -1,0 +1,14 @@
+Tier: IV
+Sin: Lust
+Type: Tremor, Amplitude Conversion
+Keyword: Tremor
+Base Cost: 400
+Combination: Silver Watch Case + Etched Clock Hands
+Floor Theme Packs: Timekilling Time (Normal: 4-5, Hard: 4-5+)
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply Tremor Potency, Count, or Unique Tremor effects. (Not counting E.G.O Skills)
+To allies' Skill 3s that inflict Tremor Potency, Count, or Unique Tremor: Coin Power +2 and deal +25% more damage.
+When an ally that inflicts Tremor Potency, Count, or Unique Tremor triggers Amplitude Conversion on an enemy with Attack Skills (Including E.G.O Skills): multiply the Tremor Potency and Count by 1.5 (only when actually Converting them into different 'Tremor' types) and inflict 5  Defense Down next turn. (once per turn)
+First Turn Start of a wave: inflict (12 - current Speed) Tremor Potency (min. 6) to 3 enemies with the slowest Speed.
+Not Upgradeable.

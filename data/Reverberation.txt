@@ -1,0 +1,33 @@
+Tier: II
+Sin: Gloom
+Type: Tremor
+Keyword: Tremor
+Base Cost: 216
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 3
+No Upgrades:
+- Base.
+Turn End: Inflict 2 Bind to enemies (for Abnormalities, their Parts) with 10+ Tremor Potency.
+If the target has 20+ Tremor Potency, apply 2 Bind and 1 Paralyze instead.
++ Upgrade:
+- Adds 2 Defense Level Down for both conditionals and lowers conditionals by 2 and 5 Tremor Potency respectively.
+Turn End: Inflict 2 Bind
+and 2 Defense Level Down
+to enemies (for Abnormalities, their Parts) with
+8+ Tremor Potency.
+If the target has
+15+ Tremor Potency
+, apply 2 Bind and 1 Paralyze
+and 2 Defense Level Down
+instead.
+++ Upgrade:
+- Adds 1 and 2 to Defense level Down for each of the two conditionals respectively. Also adds 1 Bind on first conditional. Lowers conditional requirement by 3 and 5 Tremor Potency respectively.
+Turn End: Inflict
+3 Bind and 3 Defense Level Down
+to enemies (for Abnormalities, their Parts) with
+5+ Tremor Potency.
+If the target has
+10+ Tremor Potency
+, apply 2 Bind and 1 Paralyze
+and 4 Defense Level Down
+instead.

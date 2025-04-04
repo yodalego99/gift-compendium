@@ -1,0 +1,11 @@
+Tier: II
+Sin: Gloom
+Type: Healing
+Keyword: Keywordless
+Base Cost: 183
+Abno Events: Hydra
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+Turn Start: Staggered allies heal by 12.5% of Max HP and gain 3 Protection for this turn.
+Not Upgradable.

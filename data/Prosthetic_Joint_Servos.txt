@@ -1,0 +1,12 @@
+Tier: II
+Sin: Envy
+Type: Speed
+Keyword: Charge
+Base Cost: 207
+Abno Events: Dormant Bloodbag
+Floor Theme Packs: Murder on the WARP Express (Normal: 4-5, Hard: 4-5+)
+No Upgrades:
+- Base.
+Next turn: allies gain Haste and Charge Count equal to the number of Charge Count or Unique Charge gaining base Attack Skills they used this turn. (max 2).
+When a MultiCrack Office Identity gains or consumes Charge Count with a base Attack Skill, they gain +1 additional Charge Count. (max 2).
+Not Upgradable.

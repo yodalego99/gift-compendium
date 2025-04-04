@@ -1,0 +1,16 @@
+Tier: IV
+Sin: Lust
+Type: Lust Power Up
+Keyword: Bleed
+Base Cost: 408
+Abno Events: N/A
+Combination: Worn Hilt + Fractured Blade
+Floor Theme Packs: Yield My Flesh to Claim Their Bones BokGak (Normal: -, Hard: 4-5+)
+No Upgrades:
+- Base.
+Turn Start: activates when there are 3 or more Kurokumo Clan Identities.
+All allies gain 2 Lust Power Up and 1 Slash Power Up at Turn Start.
+Kurokumo Clan Identities' Base Attack Skills: gain Coin Power + (4 / # of Coins; min. 1), inflict an additional 1 Bleed, +1 Bleed Count, and deal + (80/# of Coins)% more damage.
+Nullify Kurokumo Clan Identities' first Stagger Threshold; at less than 50% HP, gain 2 Protection at Turn Start. Identities that took damage from enemies this turn gain 2 Haste next turn.
+Hard Mode Only.
+Not Upgradable.

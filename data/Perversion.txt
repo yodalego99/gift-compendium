@@ -1,0 +1,12 @@
+Tier: I
+Sin: Wrath
+Type: E.G.O Resource Gain
+Keyword: Keywordless
+Base Cost: 157
+Abno Events: Spiral of Contempt
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+After defeating 1 or more enemy using an Attack Skill, gain +1 E.G.O resource of that Attack Skill's affinity at the next Turn Start.
+If the Attack Skill's affinity was Wrath, gain +1 E.G.O resource of all affinities the ally has at the next Turn Start instead.
+Not Upgradable.

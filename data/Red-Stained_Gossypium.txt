@@ -1,0 +1,27 @@
+Tier: IV
+Sin: Lust
+Type: Bleed
+Keyword: Bleed
+Base Cost: 382
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+First Turn Start of an Encounter: inflict 1 Bleed Potency and +15 Bleed Count to all enemies (or all Abnormality parts).
+Turn Start: enemies with Bleed Potency lose (Bleed Potency / 3) 'Offense Level' and 'Defense Level' for the turn. (Maxes out at 30 Bleed Potency stacked)
++ Upgrade:
+- Adds 1 to starting encounter Bleed Potency.
+First Turn Start of an Encounter: inflict
+2 Bleed Potency
+and +15 Bleed Count to all enemies (or all Abnormality parts).
+Turn Start: enemies with Bleed Potency lose (Bleed Potency / 3) 'Offense Level' and 'Defense Level' for the turn. (Maxes out at 30 Bleed Potency stacked)
+++ Upgrade:
+- Adds 1 to starting encounter Bleed Potency, and 5 to starting encounter Bleed Count. Turn start, they lose Bleed Potency / 2 Offense/Defense level instead of Bleed Potency / 3.
+First Turn Start of an Encounter: inflict
+4 Bleed Potency
+and +
+20 Bleed Count
+to all enemies (or all Abnormality parts).
+Turn Start: enemies with Bleed Potency lose
+(Bleed Potency / 2)
+'Offense Level' and 'Defense Level' for the turn. (Maxes out at 30 Bleed Potency stacked)

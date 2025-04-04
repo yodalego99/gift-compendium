@@ -1,0 +1,17 @@
+Tier: IV
+Sin: Sloth
+Type: Rupture Fusion
+Keyword: Rupture
+Base Cost: 406
+Abno Events: N/A
+Combination: Broken Revolver + Thunderbranch + Eerie Effigy
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply Rupture Potency or Count. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+Rupture effects deal +150% more damage against enemy Shield.
+Turn Start: enemies or Parts with Rupture lose (3 + (Rupture Potency / 2)) Offense Level and Defense Level. (max 6).
+When inflicting Rupture Potency with Skill effects, inflict 2 Rupture Potency and +1 Rupture Count against the target. If the target has less than 15 Rupture Potency, inflict 2 additional Rupture Potency.
+If Rupture cannot be applied due to Skill effects, gain Coin Power +(4 / # of Coins) instead.
+Hard Mode Only.
+Not Upgradable.

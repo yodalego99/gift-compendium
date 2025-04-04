@@ -1,0 +1,12 @@
+Tier: II
+Sin: Envy
+Type: Tremor, Speed
+Keyword: Tremor
+Base Cost: 206
+Abno Events: T Corp. Alleyway
+Floor Theme Packs: Timekilling Time (Normal: 4-5, Hard: 4-5+)
+No Upgrades:
+- Base.
+First Turn Start of a wave: inflict (9 - current Speed) Tremor Potency (min. 3) and (9 - current Speed) / 2 Tremor Count to 1 enemy with the fastest Speed. (rounded up; for Abnormalities, a Part)
+Take -10% less damage from targets with 12+ Tremor or Unique Tremor at Turn Start.
+Not Upgradeable.

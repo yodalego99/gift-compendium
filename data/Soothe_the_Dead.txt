@@ -1,0 +1,14 @@
+Tier: IV
+Sin: Pride
+Type: Burn Fusion
+Keyword: Burn
+Base Cost: 421
+Combination: Ashes to Ashes + Dust to Dust + Secret Cookbook (Melted Paraffin + Decamillenial Stewpot)
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply Burn Potency, Count, or 'Unique Burn' effects. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+First Turn Start Of A Wave: Inflict 3 Burn Count to all enemies (or all Abnormality parts); randomly inflict a total of 15 Burn Potency between all enemies (or all abnormality parts).
+To Skills that inflict Burn Potency, Count, or 'Unique Burn': Final Power +1, Coin Power +1, inflicted Burn Potency +1, inflicted Burn Count +1.
+When winning a Clash with a Skill that inflicts Burn Potency, Count, or 'Unique Burn', inflict (# of remaining Coins + 1) Burn Potency to the target enemy.
+Not Upgradable.

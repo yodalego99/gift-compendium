@@ -1,0 +1,12 @@
+Tier: III
+Sin: Lust
+Type: Burn Defense Level Down
+Keyword: Burn
+Base Cost: 248
+Abno Events: N/A
+Floor Theme Packs: LCB Regular Check-Up (Normal: 5, Hard: 5+)
+No Upgrades:
+- Base.
+Base Attack Skills that inflict Burn Count: deal +20% more damage and inflict +1 more Burn Count. On Hit with these Skills against enemies with Burn or Unique Burn: inflict 1 Defense Level Down (2 times per turn per Identity)
+Identities whose all Base Attack Skills inflict Burn Potency, Count, or Unique Burn: at Turn Start, gain Offense Level Up equal to the number of surviving turns (except for the turn they join the Encounter; max 5).
+Not Upgradable.

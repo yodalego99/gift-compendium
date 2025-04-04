@@ -1,0 +1,15 @@
+Tier: IV
+Sin: Envy
+Type: Sinking
+Keyword: Sinking
+Base Cost: 392
+Abno Events: N/A
+Floor Theme Packs: The Heartbreakening (Normal: -, Hard: 5+)
+No Upgrades:
+- Base.
+Regular Encounters) On Hit against enemies with 10+ (sum of Sinking Count and Potency):
+if the target is at -45 SP, deal (Sinking Potency on target) / 5) Gloom damage (3 times per Skill).
+Focused Encounters) On Hit against enemies with 10+ (sum of Sinking Count and Potency):
+deal (Sinking Potency on target) / 10) Gloom damage (2 times per Skill).
+Hard Mode Only.
+Not Upgradable.

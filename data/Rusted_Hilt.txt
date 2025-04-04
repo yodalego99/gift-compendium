@@ -1,0 +1,12 @@
+Tier: III
+Sin: Envy
+Type: Slash (Blade Lineage / Kurokumo Clan)
+Keyword: Slash
+Base Cost: 235
+Abno Events: Ideology
+Floor Theme Packs: Yield My Flesh to Claim Their Bones (Normal: 4-5, Hard: 3-4)
+No Upgrades:
+- Base.
+Turn Start: all allies gain 1 Slash Power Up.
+Blade Lineage or Kurokumo Clan Identities gain 2 Slash Power Up instead.
+Not Upgradeable.

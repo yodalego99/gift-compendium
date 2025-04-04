@@ -1,0 +1,12 @@
+Tier: I
+Sin: Wrath
+Type: Healing
+Keyword: Keywordless
+Base Cost: 142
+Abno Events: Nymph
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+When hitting an enemy with a Skill, heal 12.5% of the character’s missing HP. (Once per character per turn.)
+If the Skill’s Affinity was Wrath, heal 25% of missing HP instead.
+Not Upgradable.

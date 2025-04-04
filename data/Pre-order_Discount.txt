@@ -1,0 +1,11 @@
+Tier: III
+Sin: Gluttony
+Type: Shop
+Keyword: Keywordless
+Base Cost: 250
+Abno Events: N/A
+Floor Theme Packs: Shop
+No Upgrades:
+- Base.
+Shop Regular Refresh Cost -30%.
+Not Upgradeable.

@@ -1,0 +1,12 @@
+Tier: III
+Sin: Lust
+Type: Offense Level Up
+Keyword: Keywordless
+Base Cost: 252
+Abno Events: N/A
+Floor Theme Packs: LCB Regular Check-Up (Normal: 5, Hard: 5+)
+No Upgrades:
+- Base.
+Limbus Company Identities: Skill 2 gains Offense Level +1 and deals +15% more damage; Skill 3 gains Offense Level +2 and deals +30% more damage
+If there are 4+ Limbus Company Identities among the Backup Units, 2 random allies gain 2 Offense Level Up at Turn Start
+Not Upgradable.

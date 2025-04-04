@@ -1,0 +1,31 @@
+Tier: I
+Sin: Gloom
+Type: Sinking
+Keyword: Sinking
+Base Cost: 155
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+Allies with Attack Skills that inflict Sinking Potency or Count heal 5 additional SP (once per turn) upon Clash Win; if at max SP, deal +7.5% more damage.
+When using Minus Coin Skills: at -15 or higher SP, reduce SP to -15 and deal + (amount of lost SP)% more damage; if already at less than -15 SP, deal +15% more damage.
++ Upgrade:
+- Adds 1 to additional SP healed, adds 2.5% to damage increase at max SP. For Minus Coins, adds 5% to damage dealt.
+Allies with Attack Skills that inflict Sinking Potency or Count heal
+6 additional SP (once per turn)
+upon Clash Win; if at max SP, deal
++10% more damage.
+When using Minus Coin Skills: at -15 or higher SP, reduce SP to -15 and deal + (
+amount of lost SP + 5
+)% more damage; if already at less than -15 SP, deal
++20% more damage.
+++ Upgrade:
+- Adds 1 to additional SP healed, adds 2.5% to damage increase at max SP. For Minus Coins, adds 5% to damage dealt.
+Allies with Attack Skills that inflict Sinking Potency or Count heal
+7 additional SP (once per turn)
+upon Clash Win; if at max SP, deal
++12.5% more damage.
+When using Minus Coin Skills: at -15 or higher SP, reduce SP to -15 and deal + (
+amount of lost SP + 10
+)% more damage; if already at less than -15 SP, deal
++25% more damage.

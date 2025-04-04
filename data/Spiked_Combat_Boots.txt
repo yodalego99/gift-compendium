@@ -1,0 +1,14 @@
+Tier: III
+Sin: Gloom
+Type: Rupture
+Keyword: Rupture
+Base Cost: 149
+Abno Events: N/A
+Floor Theme Packs: LCB Regular Check-Up (Normal: 5, Hard: 5+)
+No Upgrades:
+- Base.
+On Clash Win with a Base Attack Skill that inflicts Rupture Potency or Count against an enemy, inflict +3 Rupture Count (2 times per turn per enemy)
+On Hit: if the enemy does not have Rupture, Coin effects that inflict Rupture Potency inflict Rupture Count instead (max 4; 2 times per turn per enemy; for Abnormalities, for each Part)
+Base Attack Skills that inflict Rupture Potency or Count: each Skill gains Offense Level equal to the number of copies of each Skill(max 3).
+- If a Skill has 3+ copies, gain 2 additional Offense Level.
+Not Upgradable.

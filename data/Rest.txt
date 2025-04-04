@@ -1,0 +1,12 @@
+Tier: III
+Sin: Pride
+Type: Minus Coin Support
+Keyword: Sinking
+Base Cost: 250
+Abno Events: Funeral of Dead Butterflies
+Floor Theme Packs: Noon of Violet (Normal: 4, Hard: 3)
+No Upgrades:
+- Base.
+Lose 1 less SP when an ally loses SP due to their own Base Attack Skill effect.
+If the target has Sinking, deal +2% more damage for every Heads Coin this Attack Skill flipped when attacking (max 16%).
+Not Upgradable.

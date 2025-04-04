@@ -1,0 +1,25 @@
+Tier: II
+Sin: Sloth
+Type: Charge
+Keyword: Charge
+Base Cost: 190
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+Turn Start: Two random allies gain +2 Charge Count. (Prioritizes Identities with Skills that gain Charge Counts)
+When activating Sloth Absolute Resonance, one random ally gains +3 Charge Count at Combat Start.
++ Upgrade:
+- Removes absolute resonance requirement, and adds 1 charge count on turn start.
+Turn Start: Two random allies gain
++3 Charge Count.
+(Prioritizes Identities with Skills that gain Charge Counts)
+When activating Sloth Resonance, one random ally gains +3 Charge Count at Combat Start.
+++ Upgrade:
+- Three allies benefit now, and adds 2 charge on sloth resonance.
+Turn Start:
+Three
+random allies gain +3 Charge Count. (Prioritizes Identities with Skills that gain Charge Counts)
+When activating Sloth Resonance, one random ally gains
++5 Charge Count
+at Combat Start.

@@ -1,0 +1,24 @@
+Tier: I
+Sin: Gloom
+Type: Poise
+Keyword: Poise
+Base Cost: 145
+Abno Events: Der Schütze
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+Combat Start: a random ally gains 3 Poise Potency. (Prioritizes Identities with Attack Skills that gain Poise Counts)
+Prioritizes allies with Gloom Affinity Attack Skills; those allies gain 3 Poise Potency and +2 Poise Count.
++ Upgrade:
+- Increases all Poise Potency and Poise Count by 1.
+Combat Start: a random ally gain
+4 Poise Potency.
+(Prioritizes Identities with Attack Skills that gain Poise Counts)
+Prioritizes allies with Gloom Affinity Attack Skills; those allies gain
+4 Poise Potency and +3 Poise Count.
+++ Upgrade:
+- Increases allies affected by 1.
+Combat Start:
+two random allies
+gain 4 Poise Potency. (Prioritizes Identities with Attack Skills that gain Poise Counts)
+Prioritizes allies with Gloom Affinity Attack Skills; those allies gain 4 Poise Potency and +3 Poise Count.

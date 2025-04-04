@@ -1,0 +1,13 @@
+Tier: I
+Sin: Sloth
+Type: Tremor
+Keyword: Keywordless
+Base Cost: 152
+Abno Events: Cozy Bed
+Floor Theme Packs: Miracle in District 20 BokGak (Normal: -, Hard: 4-5+)
+No Upgrades:
+- Base.
+[Effects apply only to #7 Deployed Identity]
+Gain +1 more Tremor Count from Skill or Coin effects
+- If the target is in Staggered, Low Morale, or Panic states, gain +2 more instead
+Not Upgradeable.

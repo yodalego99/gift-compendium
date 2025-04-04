@@ -1,0 +1,29 @@
+Tier: II
+Sin: Sloth
+Type: Rupture
+Keyword: Rupture
+Base Cost: 211
+Abno Events: Drifting Fox
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to #1, #2 Deployed Identities]
+When winning a Clash using a Skill that inflicts Rupture Potency or Count, inflict +2 Rupture Count against the target (once per turn per Identity)
+If the target doesn't have Rupture, inflict 3 Rupture Potency and +2 Rupture Count instead.
++ Upgrade:
+- Adds 3rd Deployed Sinner, adds 2 Rupture Potency when winning a clash, and increases Rupture Potency by 1 if the target does not have Rupture.
+[Effects apply only to #1, #2, and #3 Deployed Identities]
+When winning a Clash using a Skill that inflicts Rupture Potency or Count, inflict
+2 Rupture Potency and
++2 Rupture Count against the target (once per turn per Identity)
+If the target doesn't have Rupture, inflict
+4 Rupture Potency
+and +2 Rupture Count instead.
+++ Upgrade:
+- Adds 2 to Rupture Potency when winning a clash, and adds 2 Rupture Potency and 1 Rupture Count when the target doesn't have Rupture.
+[Effects apply only to #1, #2, and #3 Deployed Identities]
+When winning a Clash using a Skill that inflicts Rupture Potency or Count, inflict
+4 Rupture Potency and
++2 Rupture Count against the target (once per turn per Identity)
+If the target doesn't have Rupture, inflict
+6 Rupture Potency and +3 Rupture Count instead.

@@ -1,0 +1,21 @@
+Tier: II
+Sin: Wrath
+Type: Defense Level Down
+Keyword: Poise
+Base Cost: 214
+Abno Events: So That No One Will Cry
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to #1, #2 Deployed Identities]
+On Crit, inflict 1 Defense Level Down next turn. (3 times per turn per Identity)
++ Upgrade:
+- Adds the 3rd slot for effects, and lets it be 4 times per turn per identity rather than 3.
+[Effects apply only to #1, #2, and #3 Deployed Identities]
+On Crit, inflict 1 Defense Level Down next turn.
+(4 times per turn per Identity)
+++ Upgrade:
+- Raises to 6 times per turn per identity.
+[Effects apply only to #1, #2, and #3 Deployed Identities]
+On Crit, inflict 1 Defense Level Down next turn.
+(6 times per turn per Identity)
