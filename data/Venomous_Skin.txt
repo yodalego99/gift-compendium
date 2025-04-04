@@ -1,0 +1,20 @@
+Tier: I
+Sin: Pride
+Type: Tremor
+Keyword: Tremor
+Base Cost: 147
+Abno Events: Blubbering Toad
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+When winning a Clash with a Skill that applies(including on self) Tremor Potency or Count, inflict (# of remaining Coins / 2) Tremor Potency on the target.
++ Upgrade:
+- Gets rid of the divided by two.
+When winning a Clash with a Skill that applies(including on self) Tremor Potency or Count, inflict
+(# of remaining Coins)
+Tremor Potency on the target.
+++ Upgrade:
+- Adds Tremor Count to target.
+When winning a Clash with a Skill that applies(including on self) Tremor Potency or Count, inflict (# of remaining Coins) Tremor Potency
+and (# of remaining Coins / 2) Tremor Count
+on the target.

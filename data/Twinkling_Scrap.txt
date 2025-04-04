@@ -1,0 +1,11 @@
+Tier: II
+Sin: Sloth
+Type: Shield Reflect
+Keyword: Keywordless
+Base Cost: 191
+Abno Events: N/A
+Floor Theme Packs: S.E.A. (Normal: 2, Hard: 2)
+No Upgrades:
+- Base.
+When an ally with Shield is hit by an enemy, reflect 3 fixed damage. (does not reflect damage when the ally did not take any Shield damage)
+Not Upgradable.

@@ -1,0 +1,13 @@
+Tier: IV
+Sin: Pride
+Type: Clash Power / Final Power
+Keyword: Slash
+Base Cost: 400
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to #1 and #2 Deployed Identity]
+Slash Attack Skills (including E.G.O Skills) gain Base Power +2, Plus Coin Power +1, and Minus Coin Power -1.
+On Clash Win with a Slash Attack Skill (except E.G.O Skills), deal +30% more damage with that Skill; On Hit with that Skill, deal + 5% more damage for every 5% missing HP on self (max 20%).
+Not Upgradable.

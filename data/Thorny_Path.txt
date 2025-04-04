@@ -1,0 +1,23 @@
+Tier: I
+Sin: Lust
+Type: Sinking
+Keyword: Sinking
+Base Cost: 160
+Abno Events: Heavenly Commander's Throne
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+When hitting and dealing HP damage to an enemy with a Skill that inflicts Sinking Potency, inflict 3 Sinking Potency and +2 Sinking Count at Turn End. (Once per enemy per turn)
+When activating Lust Absolute Resonance, inflict 2 Sinking Potency and +3 Sinking Count to all enemies(for Abnormalities, a random Part) at Combat Start.
++ Upgrade:
+- Removes absolute resonance requirement.
+When hitting and dealing HP damage to an enemy with a Skill that inflicts Sinking Potency, inflict 3 Sinking Potency and +2 Sinking Count at Turn End. (Once per enemy per turn)
+When activating Lust Resonance, inflict 2 Sinking Potency and +3 Sinking Count to all enemies(for Abnormalities, a random Part) at Combat Start.
+++ Upgrade:
+- Adds 1 to various Counts and Potencies throughout.
+When hitting and dealing HP damage to an enemy with a Skill that inflicts Sinking Potency, inflict
+4 Sinking Potency and +3 Sinking Count
+at Turn End. (Once per enemy per turn)
+When activating Lust Resonance, inflict
+3 Sinking Potency
+and +3 Sinking Count to all enemies(for Abnormalities, a random Part) at Combat Start.

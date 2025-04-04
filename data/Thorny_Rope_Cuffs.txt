@@ -1,0 +1,13 @@
+Tier: II
+Sin: Wrath
+Type: Rupture Sustain
+Keyword: Rupture
+Base Cost: 212
+Abno Events: Rose Hunter
+Floor Theme Packs: Fuse / Shop / Event Only
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply Rupture Potency or Count. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+When an enemy's Rupture Count drops below 1 in combat, consume 20 Rupture Potency instead of Rupture Count (at less than 20 Rupture Potency, however, the effect ends).
+On Hit, when the target has 2 Rupture Count in combat, inflict +1 more Rupture Count (2 times per Encounter).
+Not Upgradeable.

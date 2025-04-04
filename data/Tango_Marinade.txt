@@ -1,0 +1,11 @@
+Tier: III
+Sin: Lust
+Type: Clash Power
+Keyword: Keywordless
+Base Cost: 275
+Abno Events: Bongy Chicken Tango
+Floor Theme Packs: Hell's Chicken (Normal: 2, Hard: 2)
+No Upgrades:
+- Base.
+If the unit's Speed is faster than the target's, gain +(Speed / 3) Clash Power. (max 3)
+Not Upgradable.

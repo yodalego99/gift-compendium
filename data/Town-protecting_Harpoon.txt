@@ -1,0 +1,26 @@
+Tier: II
+Sin: Sloth
+Type: Attack Power Up
+Keyword: Keywordless
+Base Cost: 202
+Abno Events: N/A
+Floor Theme Packs: Crawling Abyss (Normal: 4-5, Hard: 3-4)
+No Upgrades:
+- Base.
+[Effects apply only to #6 Deployed Identity]
+Turn End: At less than 30% HP, gain 1 Attack Power Up next turn.
++ Upgrade:
+- Added second line. Buffed to 40% HP.
+[Effects apply only to #6 Deployed Identity]
+Turn End: at less than
+40% HP
+, gain 1 Attack Power Up next turn.
+Turn End: if there is a Staggered ally, gain +6 Aggro next turn and gain 4 Defense Level Up next turn.
+++ Upgrade:
+- Less than 50% HP
+[Effects apply only to #6 Deployed Identity]
+Turn End: at less than
+50% HP
+, gain 1 Attack Power Up next turn.
+Turn End: if there is a Staggered ally, gain +6 Aggro next turn and gain 4 Defense Level Up next turn.
+Hard Mode Only.

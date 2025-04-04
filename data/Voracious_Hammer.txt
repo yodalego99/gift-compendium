@@ -1,0 +1,11 @@
+Tier: II
+Sin: Lust
+Type: Cost Gain
+Keyword: Keywordless
+Base Cost: 213
+Abno Events: Sleepyhead
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+After winning a combat Encounter, gain 3 Cost for each enemy defeated.
+Not Upgradable.

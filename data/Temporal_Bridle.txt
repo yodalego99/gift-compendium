@@ -1,0 +1,34 @@
+Tier: II
+Sin: Gluttony
+Type: Offense Level Up / Blunt DMG Up
+Keyword: Blunt
+Base Cost: 212
+Abno Events: Cyclops
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+Turn Start: Units with a Blunt Attack Skill (Except E.G.O Skills), gain 1 Offense Level Up at Turn Start.
+Units with 2+ Blunt Attack Skills, gain 1 Offense Level Up and 1 Blunt DMG Up instead.
+Units with 2+ Blunt Attack Skills that use Minus Coins, gain 2 Offense Level Up and 2 Blunt DMG Up instead.
++ Upgrade:
+- Increases all Offense Level Ups by 1.
+Turn Start: Units with a Blunt Attack Skill (Except E.G.O Skills), gain
+2 Offense Level Up
+at Turn Start.
+Units with 2+ Blunt Attack Skills, gain
+2 Offense Level Up
+and 1 Blunt DMG Up instead.
+Units with 2+ Blunt Attack Skills that use Minus Coins, gain
+3 Offense Level Up
+and 2 Blunt DMG Up instead.
+++ Upgrade:
+- Increases all Blunt DMG Ups by 1, and adds 1 Blunt DMG Up to the first conditional.
+Turn Start: Units with a Blunt Attack Skill (Except E.G.O Skills), gain 2 Offense Level Up
+and 1 Blunt DMG Up
+at Turn Start.
+Units with 2+ Blunt Attack Skills, gain 2 Offense Level Up and
+2 Blunt DMG Up
+instead.
+Units with 2+ Blunt Attack Skills that use Minus Coins, gain 3 Offense Level Up and
+3 Blunt DMG Up
+instead.

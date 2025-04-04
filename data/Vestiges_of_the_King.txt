@@ -1,0 +1,12 @@
+Tier: IV
+Sin: Pride
+Type: Chain Battle
+Keyword: Keywordless
+Base Cost: 397
+Abno Events: N/A
+Floor Theme Packs: Railway 4 (Normal: -, Hard: 5+)
+No Upgrades:
+- Base.
+Chain Battles: Starting from #7 Deployed Sinner, at the start of the same turn it Substitutes in, heal 10 SP, gain 2 Clash Power Up, and gain 1 E.G.O resource for each one of their Skills 1, 2, and 3.
+Hard Mode Only.
+Not Upgradable.

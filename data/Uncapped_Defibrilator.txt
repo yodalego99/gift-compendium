@@ -1,0 +1,24 @@
+Tier: I
+Sin: Gluttony
+Type: Healing
+Keyword: Charge
+Base Cost: 147
+Abno Events: Shock Centipede
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+Turn End: heal HP and SP equal to the amount of Charge Count consumed by Attack Skills this turn.
+If this unit has 50%- remaining HP, boost the heal amount by x1.5.
++ Upgrade:
+- Adds 1 to healing amount, and boosts healing multiplier by 0.5 if at lower than half health.
+Turn End: heal HP and SP equal to
+(the amount of Charge Count consumed by Attack Skills this turn + 1).
+If this unit has 50%- remaining HP,
+boost the heal amount by x2.
+++ Upgrade:
+- Adds 1 to healing amount, and boosts healing multiplier to apply when at lower than three quarters health remaining.
+Turn End: heal HP and SP equal to
+(the amount of Charge Count consumed by Attack Skills this turn + 2).
+If this unit has
+75%- remaining HP,
+boost the heal amount by x2.

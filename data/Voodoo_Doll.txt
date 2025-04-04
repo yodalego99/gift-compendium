@@ -1,0 +1,26 @@
+Tier: I
+Sin: Envy
+Type: General Buff
+Keyword: Keywordless
+Base Cost: 149
+Abno Events: Will You Play?
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+Turn Start: deal 3 fixed Envy Affinity damage to all enemies.
+Inflict 1 Attack Power Down to enemies with 33% or less HP.
++ Upgrade:
+- Increased damage by 1, and percentage health to 50% or less.
+Turn Start: deal
+4 fixed Envy Affinity damage
+to all enemies.
+Inflict 1 Attack Power Down to enemies with
+50% or less HP.
+++ Upgrade:
+- Increased damage by 1, and Attack Power Down by 1.
+Turn Start: deal
+5 fixed Envy Affinity damage
+to all enemies.
+Inflict
+2 Attack Power Down
+to enemies with 50% or less HP.

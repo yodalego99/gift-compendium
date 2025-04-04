@@ -1,0 +1,13 @@
+Tier: IV
+Sin: Lust
+Type: Bleed Fusion (Kurokumo Clan)
+Keyword: Slash
+Base Cost: 400
+Combination: Rusted Hilt + Fractured Blade
+Floor Theme Packs: Yield My Flesh to Claim Their Bones (Normal: 4-5, Hard: 3-4)
+No Upgrades:
+- Base.
+Encounter Start: activates when there are 3 or more Kurokumo Clan Identities.
+Turn Start: all allies gain 2 Slash Power Up, and deal +35% more Slash damage.
+Turn Start: when a Kurokumo Clan Identity deals damage for the first time, inflict an additional 4 Bleed Potency and +4 Bleed Count. (Once per turn)
+Not Upgradeable.

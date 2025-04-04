@@ -1,0 +1,15 @@
+Tier: III
+Sin: Gluttony
+Type: HP Healing
+Keyword: Keywordless
+Base Cost: 252
+Abno Events: ?
+Floor Theme Packs: Nocturnal Sweeping (Normal: 5, Hard: 5+)
+No Upgrades:
+- Base.
+[Effects apply only to #2, #4 Deployed Identities]
+When taking lethal damage, 60% chance to not take that damage and heal 30 HP. (once per Encounter)
+The above effect does not activate under the following conditions:
+- When the Skill damage taken exceeds the unit's max HP.
+- When the unit has the HP Healing Down effect.
+Not Upgradable.

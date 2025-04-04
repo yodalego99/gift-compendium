@@ -1,0 +1,28 @@
+Tier: II
+Sin: Gloom
+Type: Ammo
+Keyword: Pierce
+Base Cost: 190
+Abno Events: Der Schütze
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+Pierce Skills gain Clash Power +1
+Skills that consume Ammo deal +(40 / # of Coins)% more damage
+If the unit is out of Ammo, gain 2 Ammo at the next Turn Start (once per Encounter)
++ Upgrade:
+- Adds 5% more damage to pierce skills, and adds a percentage amount of damage to ammo skills.
+Pierce Skills gain Clash Power +1
+and deal +5% more damage.
+Skills that consume Ammo deal
++(50 / # of Coins)%
+more damage
+If the unit is out of Ammo, gain 2 Ammo at the next Turn Start (once per Encounter)
+++ Upgrade:
+- Adds 5% more damage to pierce skills, and adds a percentage amount of damage to ammo skills.
+Pierce Skills gain Clash Power +1
+and deal +10% more damage.
+Skills that consume Ammo deal
++(60 / # of Coins)%
+more damage
+If the unit is out of Ammo, gain 2 Ammo at the next Turn Start (once per Encounter)

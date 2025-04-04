@@ -1,0 +1,22 @@
+Tier: I
+Sin: Gloom
+Type: Bleed
+Keyword: Bleed
+Base Cost: 159
+Abno Events: Drenched Gossypium
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+When the ally with the fastest Speed deals damage to an enemy with a Skill that inflicts Bleed Potency, Count, or Unique Bleed, deal +12.5% more damage.
++ Upgrade:
+- Makes it 2 allies, and adds 2.5% to damage gain.
+When
+2 allies
+with the fastest Speed deals damage to an enemy with a Skill that inflicts Bleed Potency, Count, or Unique Bleed, deal
++15% more damage.
+++ Upgrade:
+- Makes it 3 allies, and adds 5% to damage gain.
+When
+3 allies
+with the fastest Speed deals damage to an enemy with a Skill that inflicts Bleed Potency, Count, or Unique Bleed, deal
++20% more damage.

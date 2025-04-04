@@ -1,0 +1,22 @@
+Tier: II
+Sin: Wrath
+Type: Bleed
+Keyword: Bleed
+Base Cost: 202
+Abno Events: Coffin Return
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+When hitting an enemy with a Skill that inflicts Bleed Potency or Unique Bleed, inflict 4 Bleed Potency.
++ Upgrade:
+- Adds Wrath Affinity, and increases Bleed Potency by 1.
+When hitting an enemy with a Skill that inflicts Bleed Potency or Unique Bleed,
+or with a Wrath Affinity Skill,
+inflict
+5 Bleed Potency
+.
+++ Upgrade:
+- Adds 1 Bleed Count.
+When hitting an enemy with a Skill that inflicts Bleed Potency or Unique Bleed, or with a Wrath Affinity Skill, inflict 5 Bleed Potency
+and +1 Bleed Count
+.

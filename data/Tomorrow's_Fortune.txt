@@ -1,0 +1,11 @@
+Tier: I
+Sin: Pride
+Type: General Buff
+Keyword: Keywordless
+Base Cost: 140
+Abno Events: Star Luminary
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+Upgrade the first Encounter Reward Card to the highest tier it could spawn as.
+Not Upgradable.

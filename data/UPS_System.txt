@@ -1,0 +1,27 @@
+Tier: I
+Sin: Wrath
+Type: Charge
+Keyword: Charge
+Base Cost: 156
+Abno Events: kqe-1j-23
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+Turn End: If at less than 3 Charge Count, gain +3 Charge Count next Turn Start.
+Turn End: If at 3+ Charge Count, gain 1 Damage Up next Turn Start.
++ Upgrade:
+- Adds 1 to Charge Count conditionals.
+Turn End: If at less than
+4 Charge Count,
+gain +3 Charge Count next Turn Start.
+Turn End: If at
+4+ Charge Count,
+gain 1 Damage Up next Turn Start.
+++ Upgrade:
+- Adds 1 to Charge Count conditionals and 1 to Charge Count gain and Damage Up gain.
+Turn End: If at less than
+5 Charge Count, gain +4 Charge Count
+next Turn Start.
+Turn End: If at
+5+ Charge Count, gain 2 Damage Up
+next Turn Start.

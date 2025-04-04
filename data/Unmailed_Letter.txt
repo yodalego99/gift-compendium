@@ -1,0 +1,15 @@
+Tier: IV
+Sin: Envy
+Type: Rupture Fusion
+Keyword: Rupture
+Base Cost: 399
+Combination: Ragged Umbrella + Broken Glasses
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+[Effects apply only to #1, #2 Deployed Identities]
+When winning a Clash with an Attack Skill that inflicts Rupture Potency or Count, inflict 5 Rupture Potency and +3 Rupture Count against the target. (once per turn per Identity)
+When Clashing against an enemy with a slower Speed, gain Final Power +1 and deal +25% more damage.
+When winning a Clash against an enemy with Offense Level Up buff, gain 3 Offense Level Up for the next turn, and inflict 3 Offense Level Down on the enemy that lost the Clash (absolute value 9).
+Hard Mode Only.
+Not Upgradable.

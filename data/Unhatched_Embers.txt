@@ -1,0 +1,21 @@
+Tier: IV
+Sin: Wrath
+Type: Solo
+Keyword: Burn
+Base Cost: 393
+Abno Events: N/A
+Floor Theme Packs: Railway 3 (Normal: -, Hard: 5+)
+No Upgrades:
+- Base.
+When taking mortal damage, fix HP to 1 for the attack; After Attack, heal 20% of max HP. (once per Encounter).
++ Upgrade:
+- Added second conditional.
+When taking mortal damage, fix HP to 1 for the attack; After Attack, heal 20% of max HP. (once per Encounter).
+If the affect unit has Burn: fix HP to 1 for the attack; After Attack, heal 30% of max HP instead. (once per Encounter for both this and the above effect).
+++ Upgrade:
+- Increases healing by 10% when having burn.
+When taking mortal damage, fix HP to 1 for the attack; After Attack, heal 20% of max HP. (once per Encounter).
+If the affect unit has Burn: fix HP to 1 for the attack; After Attack, heal
+40% of max HP instead.
+(once per Encounter for both this and the above effect).
+Hard Mode Only.

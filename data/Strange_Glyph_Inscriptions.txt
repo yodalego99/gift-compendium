@@ -1,0 +1,13 @@
+Tier: III
+Sin: Gloom
+Type: Rupture (Clash)
+Keyword: Rupture
+Base Cost: 245
+Abno Events: ?
+Floor Theme Packs: Nocturnal Sweeping (Normal: 5, Hard: 5+)
+No Upgrades:
+- Base.
+When clashing against targets with Rupture, gain (Rupture on the target / 20) Clash Power (max 2)
+- When clashing against targets with Deathrite【Haste】, gain ([Burst] on the target / 15) Clash Power instead (max 3).
+When dealing damage with Deathrite【Haste】 effect, deal fixed damage by (Deathrite【Haste】 damage / 3).
+Not Upgradable.

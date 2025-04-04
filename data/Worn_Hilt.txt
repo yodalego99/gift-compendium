@@ -1,0 +1,13 @@
+Tier: III
+Sin: Sloth
+Type: Lust Power Up
+Keyword: Keywordless
+Base Cost: 248
+Abno Events: ?
+Floor Theme Packs: Yield My Flesh to Claim Their Bones BokGak (Normal: -, Hard: 4-5+)
+No Upgrades:
+- Base.
+Turn Start: all allies gain 1 Lust Power Up.
+Blade Lineage or Kurokumo Clan Identities gain 2 Lust Power Up and 1 Slash Power Up instead.
+Hard Mode Only.
+Not Upgradable.

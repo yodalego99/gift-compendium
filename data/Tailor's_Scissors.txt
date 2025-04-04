@@ -1,0 +1,26 @@
+Tier: II
+Sin: Gluttony
+Type: Clash Power
+Keyword: Slash
+Base Cost: 199
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to #6 Deployed Identity]
+Slash Skills(Except E.G.O Skills) with 2- Coins gain Clash Power +1 and deal +10% more damage.
+Single-Coin Skills gain Clash Power +1 and deal +20% more damage instead.
++ Upgrade:
+- Effect now applies to the fourth sinner as well. Adds +5% to both damage increases.
+[Effects apply only to #4 and #6 Deployed Identity]
+Slash Skills(Except E.G.O Skills) with 2- Coins gain Clash Power +1 and deal
++15% more damage.
+Single-Coin Skills gain Clash Power +1 and deal
++25% more damage instead.
+++ Upgrade:
+- Adds +5% to both damage increases.
+[Effects apply only to #4 and #6 Deployed Identity]
+Slash Skills(Except E.G.O Skills) with 2- Coins gain Clash Power +1 and deal
++20% more damage.
+Single-Coin Skills gain Clash Power +1 and deal
++30% more damage instead.

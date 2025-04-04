@@ -1,0 +1,12 @@
+Tier: III
+Sin: Lust
+Type: Rupture / Healing
+Keyword: Rupture
+Base Cost: 268
+Abno Events: N/A
+Floor Theme Packs: S.E.A. (Normal: 2, Hard: 2)
+No Upgrades:
+- Base.
+When an ally attacks an enemy that has Rupture with a Skill that inflicts Rupture Potency or Count, deal +(Rupture Count x 1.25)% more damage. (max 50%)
+When an ally covers from Stagger, heal 20% of max HP. (2 times per Encounter)
+Not Upgradable.

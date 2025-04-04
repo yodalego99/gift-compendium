@@ -1,0 +1,26 @@
+Tier: I
+Sin: Pride
+Type: Charge
+Keyword: Charge
+Base Cost: 161
+Abno Events: Handshake of Handshakes
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+Turn Start: allies with 5+ Charge Count gain 1 Damage Up.
+If the ally has Pride Affinity Attack Skills, gain 2 Damage Up instead.
++ Upgrade:
+- Lowers requirement by 2 Charge.
+Turn Start: allies with
+3+ Charge Count
+gain 1 Damage Up.
+If the ally has Pride Affinity Attack Skills, gain 2 Damage Up instead.
+++ Upgrade:
+- Lowers requirement by 2 Charge. Increases damage up by 1 for both situations.
+Turn Start: allies with
+Charge Count
+gain
+2 Damage Up.
+If the ally has Pride Affinity Attack Skills, gain
+3 Damage Up
+instead.

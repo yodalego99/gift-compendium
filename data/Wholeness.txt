@@ -1,0 +1,14 @@
+Tier: IV
+Sin: Pride
+Type: Bleed Fusion (N Corp)
+Keyword: Bleed
+Base Cost: 404
+Combination: Nagel und Hammer Scriptures + Squalidity
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+If the ally wins a Clash using a Skill that inflicts Bleed Potency, Count, or Unique Bleed, inflict 2~3 Nails.
+If the ally is from N Corp., gain 1 Fanatic at Turn Start, and deal +25% more damage against targets with Bleed.
+Activate a special effect when there are 5+ Identities from N Corp.:
+- N Corp. Identities gain Final Power +1, Plus Coin Power +1, Minus Coin Power -1, and Attack Skills inflict +1 more Nails. If an N Corp. Identity is at max SP at Turn Start, gain 3 Damage Up.
+Not Upgradable.

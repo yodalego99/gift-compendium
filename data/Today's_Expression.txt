@@ -1,0 +1,11 @@
+Tier: II
+Sin: Sloth
+Type: Affinity Buff / Blunt Buff
+Keyword: Blunt
+Base Cost: 189
+Abno Events: Tomorrow's Expression
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+After defeating an enemy by using a Sloth Affinity or Blunt Skill, raise the unit's Blunt Skill Power by 2 until the end of the next turn.
+Not Upgradable.

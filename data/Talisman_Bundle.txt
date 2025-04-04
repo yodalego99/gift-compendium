@@ -1,0 +1,27 @@
+Tier: I
+Sin: Sloth
+Type: Rupture
+Keyword: Rupture
+Base Cost: 143
+Abno Events: So That No One Will Cry
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+Whenever an ally deals 12+ HP damage to an enemy with a Skill, inflict 2 Rupture Potency on target.
+When using a Slash Skill, inflict 4 Rupture Potency instead.
++ Upgrade:
+- Adds 1 to Rupture Potency inflicted on slash and on 12+ damage.
+Whenever an ally deals 12+ HP damage to an enemy with a Skill, inflict
+3 Rupture Potency
+on target.
+When using a Slash Skill, inflict
+5 Rupture Potency
+instead.
+++ Upgrade:
+- Applies when dealing any damage now, and adds 1 Rupture Count on slash skill.
+Whenever an ally deals
+1+ HP damage
+to an enemy with a Skill, inflict 3 Rupture Potency on target.
+When using a Slash Skill, inflict 5 Rupture Potency
+and +1 Rupture Count
+instead.

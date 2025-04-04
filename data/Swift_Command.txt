@@ -1,0 +1,12 @@
+Tier: II
+Sin: Envy
+Type: Damage Up
+Keyword: Keywordless
+Base Cost: 249
+Abno Events: ?
+Floor Theme Packs: Full-Stopped By Bullet (Normal: 4, Hard: 3)
+No Upgrades:
+- Base.
+Turn End: if any allies Retreated this turn, 1 ally with the fastest Speed gains 2 Attack Power Up and 1 Damage Up at the next Turn Start.
+Combat Start: if any allies were Substituted in this turn, allies that were Substituted in gain 2 Attack Power Up and 2 Defense Power Up.
+Not Upgradeable.

@@ -1,0 +1,13 @@
+Tier: IV
+Sin: Pride
+Type: Poise Fusion (Blade Lineage)
+Keyword: Slash
+Base Cost: 400
+Combination: Rusted Hilt + Broken Blade
+Floor Theme Packs: Yield My Flesh to Claim Their Bones (Normal: 4-5, Hard: 3-4)
+No Upgrades:
+- Base.
+Encounter Start: activates when there are 3 or more Blade Lineage Identities.
+Turn Start: all allies gain 2 Slash Power Up, and deal +35% more Slash damage.
+Turn Start: when a Blade Lineage Identity hits critically, deal additional Pride damage equal to Poise Potency on self.
+Not Upgradeable.

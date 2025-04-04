@@ -1,0 +1,29 @@
+Tier: III
+Sin: Gluttony
+Type: Technology Liberation Alliance Pierce
+Keyword: Pierce
+Base Cost: 251
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 5
+No Upgrades:
+- Base.
+Pierce Attack Type Skill 2: Offense Level +2; if the Skill has 2 Coins or fewer, Offense Level +2 and Clash Power (2 / # of Coins) instead.
+- For Technology Liberation Alliance Identities: above effect applies to all Pierce Attack Type Base Attack Skills.
+Turn Start: Technology Liberation Alliance Identities gain (# of negative effects on self) Offense Level Up. (max 3).
++ Upgrade:
+- TLA Gluttony Skills buffed and Offense Level Up +1.
+Pierce Attack Type Skill 2: Offense Level +2; if the Skill has 2 Coins or fewer, Offense Level +2 and Clash Power (2 / # of Coins) instead.
+- For Technology Liberation Alliance Identities: above effect applies to all Pierce Attack Type or
+Gluttony Affinity
+Base Attack Skills.
+Turn Start: Technology Liberation Alliance Identities gain (# of negative effects on self + 1) Offense Level Up.
+(max 4).
+++ Upgrade:
+- Changes Turn Start Conditionals, TLA has it apply to all base skills, and Offense Level Up +1.
+Pierce Attack Type Skill 2: Offense Level +2; if the Skill has 2 Coins or fewer, Offense Level +2 and Clash Power (2 / # of Coins) instead.
+- For Technology Liberation Alliance Identities: above effect applies to
+all Base Attack Skills.
+Turn Start: Technology Liberation Alliance Identities
+gain 1 Clash Power Up
+and (value of highest Stack among negative effects on self) Offense Level Up.
+(max 5).

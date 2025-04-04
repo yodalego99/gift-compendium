@@ -1,0 +1,17 @@
+Tier: IV
+Sin: Lust
+Type: Kurokumo Clan
+Keyword: Slash
+Base Cost: 400
+Abno Events: ?
+Floor Theme Packs: Yield My Flesh to Claim Their Bones BokGak (Normal: -, Hard: 4-5+)
+No Upgrades:
+- Base.
+Turn Start: activates when there are 3 or more Kurokumo Clan Identities.
+On Hit with Base Attack Skill (except E.G.O Skills)'s Unbreakable Coin: deal + (40/# of Coins)% more damage.
+Kurokumo Clan Identities: deal + (80/# of Coins)% more damage instead.
+Kurokumo Clan Identities with Slash Base Attack Skills: gain 2 Slash DMG Up at Turn Start.
+Kurokumo Clan Identities gain 1 Offense Level Up and 1 Defense Level Up next turn for every 10% missing HP on self at Turn End. (max 5 each).
+When a Kurokumo Clan Identity dies, all Kurokumo Clan Identities gain 2 Damage Up next turn (once per turn).
+Hard Mode Only.
+Not Upgradable.

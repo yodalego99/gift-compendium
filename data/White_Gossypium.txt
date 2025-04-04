@@ -1,0 +1,22 @@
+Tier: II
+Sin: Gluttony
+Type: Bleed
+Keyword: Bleed
+Base Cost: 201
+Abno Events: Gossypium Flower
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+Turn Start: If there are Staggered enemies, un-Stagger enemies. Then, inflict (8 + Stagger LV x 4) Bleed Potency and (8 + Stagger LV x4) / 2 Offense Level Down on them. (Activates once per enemy per Encounter. Does not activate against certain enemies that do not recover from Stagger)
++ Upgrade:
+- Adds 2 to Bleed Potency and multiplies stagger lvl by 5 instead of 4.
+Turn Start: If there are Staggered enemies, un-Stagger enemies. Then, inflict
+(10 + Stagger LV x 5) Bleed Potency and (10 + Stagger LV x5) / 2
+Offense Level Down on them. (Activates once per enemy per Encounter. Does not activate against certain enemies that do not recover from Stagger)
+++ Upgrade:
+- Adds 2 to Bleed Potency and multiplies stagger lvl by 6 instead of 5. Also adds Defense Level Down.
+Turn Start: If there are Staggered enemies, un-Stagger enemies. Then, inflict
+(12 + Stagger LV x 6) Bleed Potency and (12 + Stagger LV x6) / 2
+Offense Level Down
+and Defense Level Down
+on them. (Activates once per enemy per Encounter. Does not activate against certain enemies that do not recover from Stagger)

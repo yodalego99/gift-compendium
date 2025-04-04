@@ -1,0 +1,13 @@
+Tier: II
+Sin: Sloth
+Type: Charge Barrier
+Keyword: Charge
+Base Cost: 198
+Abno Events: Have You Become Strong
+Floor Theme Packs: Fuse / Shop / Event Only
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain Charge Count or 'Unique Charge'. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+Turn Start: all allies gain ((Charge Count + 'Unique Charge') / 10) Damage Up. (max 2, rounded up).
+Turn End: allies without Charge Barrier gain 1 Charge Barrier.
+Not Upgradeable.

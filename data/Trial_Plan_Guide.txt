@@ -1,0 +1,11 @@
+Tier: III
+Sin: Pride
+Type: Shop
+Keyword: Keywordless
+Base Cost: 250
+Abno Events: N/A
+Floor Theme Packs: Shop
+No Upgrades:
+- Base.
+Shop Skill Replacement Cost -30%.
+Not Upgradeable.

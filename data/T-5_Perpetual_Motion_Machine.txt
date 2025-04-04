@@ -1,0 +1,17 @@
+Tier: IV
+Sin: Lust
+Type: Charge Fusion
+Keyword: Charge
+Base Cost: 410
+Abno Events: N/A
+Combination: Curriculum Vitae + Lightning Rod + Insulator
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain Charge Count or Unique Charge. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+Turn Start: at less than 3 Charge Count, gain +3 Charge Count.
+Turn Start: at 5+ Charge Count, gain +2 min / max Speed, 1 Attack Power Up, and 2 Damage Up.
+After Attack with a Skill that consumed Charge Count on self: if the target is defeated, gain + (Charge Count consumed by the Skill / 3) Charge Count; next turn, gain 1 Plus Coin Boost.
+After Attack with a Skill 3 that consumed Charge Count on self: if the target is defeated, or if the ally who used the Skill is at 3+ Charge, they add 1 Skill 3 to the list of Skills for the next upcoming turn. (once per turn for each ally; Unique Charge does not interact with this effect).
+Hard Mode Only.
+Not Upgradable.

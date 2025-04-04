@@ -1,0 +1,13 @@
+Tier: III
+Sin: Pride
+Type: SP Heal
+Keyword: Bleed
+Base Cost: 248
+Abno Events: N/A
+Floor Theme Packs: La Manchaland Re-Opening (Normal: -, Hard: 5+)
+No Upgrades:
+- Base.
+On Kill, 1 ally with the least SP heals 3 SP.
+After Attack: if an enemy with 10+ (sum of Bleed, Unique Bleed, and Rupture) is defeated, 1 ally gains 2 Offense Level Up next turn (prioritizes the ally who killed that enemy).
+Hard Mode Only.
+Not Upgradable.

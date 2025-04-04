@@ -1,0 +1,13 @@
+Tier: II
+Sin: Gloom
+Type: Sinking Spread
+Keyword: Sinking
+Base Cost: 207
+Abno Events: Tomb of Bone
+Floor Theme Packs: Fuse / Shop / Event Only
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply Sinking Potency, Count, or 'Unique Sinking'. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+Turn Start: enemies with Sinking (for Abnormalities, all Parts) regain (Sinking Count lost on hit last turn / 3) Sinking Count.
+If the Base Attack Skill hits against a target with less than 0 SP (for enemies without SP, if they have 1.5+ Gloom Resist.), inflict (Sinking Potency / 10) Gloom Affinity damage (min 1, 10 times per turn for this effect).
+Not Upgradeable.

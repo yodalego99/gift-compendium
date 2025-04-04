@@ -1,0 +1,12 @@
+Tier: III
+Sin: Gluttony
+Type: Rupture Offense Level Down
+Keyword: Rupture
+Base Cost: 244
+Abno Events: N/A
+Floor Theme Packs: LCB Regular Check-Up (Normal: 5, Hard: 5+)
+No Upgrades:
+- Base.
+Every time Rupture activates 3 times on enemies with Rupture due to getting hit by allies' Attack Skills(including E.G.O Skills) that inflict Rupture Potency or Count, inflict 2 Offense Level Down on the said enemy next turn (3 times per turn per enemy; for Abnormalities, for each Part).
+On Kill with a Base Attack Skill that inflicts Rupture Count: inflict the remaining Rupture Count on the defeated enemy on a random enemy next turn (2 times per turn).
+Not Upgradable.

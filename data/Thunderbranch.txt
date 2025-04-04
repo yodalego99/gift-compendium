@@ -1,0 +1,21 @@
+Tier: III
+Sin: Gloom
+Type: Rupture
+Keyword: Rupture
+Base Cost: 252
+Abno Events: Monkey Tree
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+When inflicting Rupture Potency with Skill effects, Inflict 1 Rupture Potency and +1 Rupture Count on target.
++ Upgrade:
+- Increases Rupture Potency by 1.
+When inflicting Rupture Potency with Skill effects, Inflict
+2 Rupture Potency
+and +1 Rupture Count on target.
+++ Upgrade:
+- Increases Rupture Potency by 1. Adds Gloom synergy.
+When inflicting Rupture Potency with Skill effects, Inflict
+3 Rupture Potency
+and +1 Rupture Count on target.
+If the Skill's Affinity was Gloom, inflict 3 Rupture Potency and +2 Rupture Count instead.

@@ -1,0 +1,12 @@
+Tier: II
+Sin: Wrath
+Type: Rupture
+Keyword: Rupture
+Base Cost: 212
+Abno Events: ?
+Floor Theme Packs: Nocturnal Sweeping (Normal: 5, Hard: 5+)
+No Upgrades:
+- Base.
+When defeating a target with Rupture (for Focused Encounters, a Part) with an Attack Skill, inflict the Rupture Potency on the target between all enemies (for Focused Encounters, all Parts) (max 2 per enemy, rounded down).
+When defeating a target with Deathrite【Haste】 (for Focused Encounters, a Part) with an Attack Skill, inflict the Rupture Potency and Count on the target between all enemies (for Focused Encounters, all Parts) (max 2 per enemy, rounded down).
+Not Upgradable.

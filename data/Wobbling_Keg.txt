@@ -1,0 +1,13 @@
+Tier: II
+Sin: Pride
+Type: Self Tremor
+Keyword: Tremor
+Base Cost: 211
+Abno Events: Drunkard
+Floor Theme Packs: Mirror Dungeon 5
+No Upgrades:
+- Base.
+Turn Start: at 8+ Tremor Count, Clash Power +1.
+When defeating or Staggering an enemy with a Skill that consumes Tremor Count on self: gain +(Tremor Count consumed / 4) Tremor Count (once per Skill).
+Hard Mode Only.
+Not Upgradable.

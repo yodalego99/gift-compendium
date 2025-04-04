@@ -1,0 +1,24 @@
+Tier: IV
+Sin: Gluttony
+Type: Rupture
+Keyword: Rupture
+Base Cost: 384
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+Turn Start: inflict 3 Rupture Potency and +3 Rupture Count on all enemies. (or all Abnormality Parts)
+Turn End: Inflict (Rupture Potency x Rupture Count) Gluttony damage to all enemies with 3+ Rupture Count (for Abnormalities, each Part is considered individually) then reduce Rupture Count by 2.
++ Upgrade:
+- Adds 1 to Rupture Potency at turn start, and lowers the Rupture Count penalty on turn end by 1.
+Turn Start: inflict
+4 Rupture Potency
+and +3 Rupture Count on all enemies. (or all Abnormality Parts)
+Turn End: Inflict (Rupture Potency x Rupture Count) Gluttony damage to all enemies with 3+ Rupture Count (for Abnormalities, each Part is considered individually) then reduce
+Rupture Count by 1.
+++ Upgrade:
+- Adds 2 to Rupture Potency at turn start, and lowers the Rupture Count penalty on turn end by 1, so it is no longer reduced by this gift.
+Turn Start: inflict
+6 Rupture Potency
+and +3 Rupture Count on all enemies. (or all Abnormality Parts)
+Turn End: Inflict (Rupture Potency x Rupture Count) Gluttony damage to all enemies with 3+ Rupture Count (for Abnormalities, each Part is considered individually).

@@ -1,0 +1,15 @@
+Tier: IV
+Sin: Lust
+Type: Charge Fusion
+Keyword: Charge
+Base Cost: 406
+Combination: Wrist Guards + Material Interference Force Field + T-1B Octagonal Bolt
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain Charge Count or 'Unique Charge'. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+First Turn Start of a wave: all allies gain 7 Charge Barrier.
+Turn Start: all allies gain ((Charge Count + 'Unique Charge') / 5 + 1) Damage Up. (max 9, rounded up).
+Each Identity gains 1 Charge every time they consume 20 Charge Count. (2 times per Identity per Encounter; Unique Charge does not interact with this effect).
+After Attack of a Skill that consumed Charge Count on self: inflict (Charge - 1) Defense Level Down (5 times for each enemy per turn; can inflict up to 3 Defense Level Down at a time).
+Not Upgradable.

@@ -1,0 +1,15 @@
+Tier: III
+Sin: Envy
+Type: Sinking Fusion
+Keyword: Sinking
+Base Cost: 251
+Abno Events: N/A
+Combination: Cantabile + Faded Overcoat
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply Sinking Potency, Count, or Unique Sinking. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+When using a base Attack Skill, if the enemy has 5+ Sinking Potency, heal (Sinking Potency on the target / 10) SP on self (max 5).
+Turn End: next turn, all allies gain Offense Level Up equal to the number of enemies with -45 SP (max 3).
+Hard Mode Only.
+Not Upgradable.

@@ -1,0 +1,13 @@
+Tier: III
+Sin: Pride
+Type: Tremor, Speed
+Keyword: Tremor
+Base Cost: 198
+Abno Events: Time Collector
+Floor Theme Packs: Timekilling Time (Normal: 4-5, Hard: 4-5+)
+No Upgrades:
+- Base.
+Turn End: Inflict 1 Binding to the fastest enemy next turn. (for Abnormalities, a Part)
+If the target has Tremor or Unique Tremor, inflict 2 Bind instead.
+When an ally attacks targets with Bind, deal + (5 + (2.5 x Bind value)) more damage. (max 15%)
+Not Upgradeable.
