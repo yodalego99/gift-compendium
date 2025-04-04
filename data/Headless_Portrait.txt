@@ -1,0 +1,27 @@
+Tier: I
+Sin: Envy
+Type: Sinking
+Keyword: Sinking
+Base Cost: 151
+Abno Events: Portrait of a Certain Day
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+Combat Start: Inflict 2 Sinking Potency on all enemies with less than 0 SP. (for Abnormalities, one random part)
+For each Envy Affinity Skill used, randomly inflict 1 Sinking Potency between all enemies next turn. (for Abnormalities, one random part)
++ Upgrade:
+- Added 1 Sinking Potency on Combat Start and Envy Affinity Skill usage.
+Combat Start: inflict
+3 Sinking Potency
+on all enemies with less than 0 SP. (for Abnormalities, one random part)
+For each Envy Affinity Skill used, randomly inflict
+2 Sinking
+between all enemies next turn.
+++ Upgrade:
+- Added 1 Sinking Potency and Count on Combat Start. Added 1 Sinking Potency on Envy Affinity Skill usage.
+Combat Start: inflict
+4 Sinking Potency and +1 Sinking Count
+on all enemies with less than 0 SP (for Abnormalities, one random part)
+For each Envy Affinity Skill used, randomly inflict
+3 Sinking Potency
+between all enemies next turn.

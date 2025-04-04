@@ -1,0 +1,11 @@
+Tier: II
+Sin: Lust
+Type: Shop
+Keyword: Keywordless
+Base Cost: 200
+Abno Events: N/A
+Floor Theme Packs: Shop
+No Upgrades:
+- Base.
+20% chance to get the Cost refunded when Refreshing in a Shop.
+Not Upgradeable.

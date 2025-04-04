@@ -1,0 +1,17 @@
+Tier: IV
+Sin: Sloth
+Type: Poise
+Keyword: Poise
+Base Cost: 399
+Abno Events: N/A
+Combination: Pom-pom Hat + Huge Gift Sack + Sad Plushie
+Floor Theme Packs: Miracle in District 20 (Normal: 4, Hard: 3)
+No Upgrades:
+- Base.
+Gain 2 Poise Potency next turn based on the number of allied Attack Skills that dealt damage by Turn End
+- In Focused Encounters, gain 4 Poise Potency instead.
+Turn Start: apply 2 Poise, +2 Poise Count, and 2 Protection on the ally with the least HP.
+Deal +(absolute value of SP)% more damage. (min 0%)
+When an ally with Plus Coin Skills recovers from Stagger, fully heal SP. (does not activate when Corroded)
+For an ally with all Minus Coin Skills: gain 5 Paralyze at Turn Start.
+Not Upgradeable.

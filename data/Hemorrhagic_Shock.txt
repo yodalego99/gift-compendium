@@ -1,0 +1,17 @@
+Tier: IV
+Sin: Lust
+Type: Bleed
+Keyword: Bleed
+Base Cost: 405
+Abno Events: N/A
+Combination: Grimy Iron Stake + Rusted Cutting Knife + Ruptured Blood Sac
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply Bleed or Unique Bleed effects. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+On ally Clash Win: activate the enemy's Bleed once. (once per turn for each ally).
+Enemies become Staggerable by Bleed Damage; if the an enemy gets Staggered due to Bleed damage mid-Clash, activate Bleed (# of remaining enemy Coins) times.
+If all enemies have Bleed, they lose 2 Defense Levels. At Turn End, inflict (# of Bleed activations x 2) Defense Down (max 20).
+When inflicting Bleed Potency or Unique Bleed with Skill effects, inflict 3 Bleed Potency and +1 Bleed Count on the target.
+Hard Mode Only.
+Not Upgradable.

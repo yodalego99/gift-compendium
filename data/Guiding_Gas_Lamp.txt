@@ -1,0 +1,14 @@
+Tier: IV
+Sin: Gluttony
+Type: Poise Fusion (Pequod)
+Keyword: Poise
+Base Cost: 411
+Combination: Nebulizer + Harpoon Prosthetic Leg
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+First Turn Start of a wave: all allies gain 5 Poise and +5 Poise Count.
+Turn End: 1 ally with the highest sum of Poise Potency and Count gains 2 Haste, 3 Offense Level Up, and 3 Damage Up next turn.
+The Pequod Identities gain Skill Power +2 and Max Speed +2.
+Hard Mode Only.
+Not Upgradable.

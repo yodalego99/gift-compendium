@@ -1,0 +1,16 @@
+Tier: III
+Sin: Lust
+Type: Charge Fusion
+Keyword: Charge
+Base Cost: 254
+Abno Events: N/A
+Combination: UPS System + Miniature Telepole
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain Charge Count or Unique Charge. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+After Attack With a Skill Attack that consumes Charge Count on self: if the target is defeated, gain (Charge Count consumed by the Skill / 3) Charge Count.
+Turn Start: at less than 3 Charge Count, gain +3 Charge Count.
+Turn Start: at 3+ Charge Count, gain 1 Damage Up.
+Hard Mode Only.
+Not Upgradable.

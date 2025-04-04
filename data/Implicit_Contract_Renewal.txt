@@ -1,0 +1,11 @@
+Tier: III
+Sin: Pride
+Type: + Resistance
+Keyword: Keywordless
+Base Cost: 255
+Abno Events: Der Freischütz
+Floor Theme Packs: Full-Stopped By Bullet (Normal: 4, Hard: 3)
+No Upgrades:
+- Base.
+If there are no surviving Requested Target, inflict the Requested Target effect against the first enemy to be attacked by an ally. (once per turn).
+Not Upgradeable.

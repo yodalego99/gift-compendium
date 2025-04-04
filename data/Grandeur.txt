@@ -1,0 +1,32 @@
+Tier: II
+Sin: Lust
+Type: Sinking
+Keyword: Sinking
+Base Cost: 215
+Abno Events: My Form Empties
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to #1, #2 Deployed Identities]
+When dealing damage with an Attack Skill that inflicts Sinking Potency or Count against targets with 10+ (Sinking Potency + Count), inflict 2 Sinking Potency and +2 Sinking Count After Attack (2 times per turn per Identity).
+In Focused Encounters: inflict 4 Sinking Potency and +2 Sinking Count instead (once per turn per Identity).
++ Upgrade:
+- Adds 3rd Sinner to Effect. Adds 1 to Sinking Potency throughout, and lowers requirement for Sinking + Count by 2.
+[Effects apply only to #1, #2, and #3 Deployed Identities]
+When dealing damage with an Attack Skill that inflicts Sinking Potency or Count against targets with
+8+ (Sinking Potency + Count), inflict 3 Sinking Potency
+and +2 Sinking Count After Attack (2 times per turn per Identity).
+In Focused Encounters:
+inflict 5 Sinking Potency
+and +2 Sinking Count instead (once per turn per Identity).
+++ Upgrade:
+- Adds 1 to Sinking Count throughout, and lowers requirement for Sinking + Count by 3.
+[Effects apply only to #1, #2, and #3 Deployed Identities]
+When dealing damage with an Attack Skill that inflicts Sinking Potency or Count against targets with
+5+ (Sinking Potency + Count),
+inflict 3 Sinking Potency and
++3 Sinking Count
+After Attack (2 times per turn per Identity).
+In Focused Encounters: inflict 5 Sinking Potency and
++3 Sinking Count
+instead (once per turn per Identity).

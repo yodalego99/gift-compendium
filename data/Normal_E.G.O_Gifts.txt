@@ -1,0 +1,20 @@
+These are all of the Non-Fusion E.G.O Gifts, sorted based on their Sin Affinity.
+Feel free to Ctrl-F to find the E.G.O Gift you want!
+Note: The Abnormality Names listed on these E.G.O Gifts are translations of datamined image files, and thus might be changed when an official name is given to them.
+Here is the format for each EGO Gift:
+Tier -> The Tier of the Gift
+Sin -> The Sin Affinity of the Gift
+Type -> A TLDR for the Gift
+Keyword -> The Keyword associated in game with the Gift.
+Base Cost -> The base cost to buy/sell this gift before modifiers.
+Abno Events -> Any Abnormalities or Abnormality Events (the ? mark nodes) associated with the Gift.
+Floor Theme Packs -> If it says Mirror Dungeon _, then it came out with that Mirror Dungeon and will be in those associated packs in MD5. If it has a specific name, such as 'The Unchanging' it is ONLY found in that specific Floor Theme Pack. For a more detailed explanation, see my Mirror (Dungeon) of the Wuthering Cheat Sheet.
+No Upgrades:
+- Base.
+The base Gift before any upgrades through a rest node. If the gift has no more upgrades, then it will say Not Upgradable after this.
++ Upgrade:
+- TLDR of the + Upgrade
+The actual + Upgrade word for word, with bolded text where its changed.
+++ Upgrade:
+- TLDR of the ++ Upgrade
+The actual ++ Upgrade word for word, with bolded text where its changed.

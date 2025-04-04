@@ -1,0 +1,21 @@
+Tier: IV
+Sin: Envy
+Type: Bleed / Bloodfiend
+Keyword: Bleed
+Base Cost: 394
+Abno Events: N/A
+Floor Theme Packs: The Infinite Procession (Normal: -, Hard: 5+)
+No Upgrades:
+- Base.
+In Encounters where backup enemies appear: when new enemies enter the battle, inflict 3 Bleed and +2 Bleed Count against them.
+If there is a Bloodfiend among allies: when new enemies enter the battle, activate Bleed on all enemies and reduce their Bleed Count by 1.
++ Upgrade:
+- Increases Bleed application by 2 Potency and 1 Count.
+In Encounters where backup enemies appear: when new enemies enter the battle,
+inflict 5 Bleed
+and
++3 Bleed Count
+against them.
+If there is a Bloodfiend among allies: when new enemies enter the battle, activate Bleed on all enemies and reduce their Bleed Count by 1.
+Not Upgradable to ++.
+Hard Mode Only.

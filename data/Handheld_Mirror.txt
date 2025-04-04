@@ -1,0 +1,12 @@
+Tier: III
+Sin: Gluttony
+Type: Tremor Fusion
+Keyword: Tremor
+Base Cost: 404
+Combination: Chief Butler's Secret Arts + Mirror Tactile Synaesthesia
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+First Turn Start of a wave: select 2 enemies with the slowest Speed(or 2 random Abnormality parts. The effect does not stack if the enemy is singular) and inflict 5 Bind and 3 Defense Level Down at Turn Start starting next turn.
+When the enemy recovers from Stagger, and if they don't have any remaining Stagger Thresholds, create a new Stagger Threshold at 66% mark of the target's current HP (3 times per Encounter). If an ally Staggers an enemy with an Attack Skill(Except E.G.O Skills) that applies Tremor Potency or Tremor Count(including on self or on ally), randomly inflict Tremor Potency equal to half of the Tremor Potency on target between other enemies(or other Abnormality parts), and double the Tremor Potency on the Staggered target.
+Not Upgradable.

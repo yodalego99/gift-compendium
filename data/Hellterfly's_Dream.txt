@@ -1,0 +1,29 @@
+Tier: II
+Sin: Wrath
+Type: Burn
+Keyword: Burn
+Base Cost: 198
+Abno Events: Ardor Blossom Moth
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+When applying Burn Potency or Unique Burn to an enemy with Burn or Unique Burn, randomly inflict a total of 3 Burn Potency between all enemies.
+When activating Wrath Absolute Resonance, randomly inflict a total of 5 Burn Potency between all enemies at Combat Start.
++ Upgrade:
+- Adds 1 more Burn Potency on application and 1 more Burn Potency on Wrath Absolute Resonance.
+When applying Burn Potency or Unique Burn to an enemy with Burn or Unique Burn, randomly inflict a total of
+4 Burn Potency
+between all enemies.
+When activating Wrath Absolute Resonance, randomly inflict a total of
+6 Burn Potency
+between all enemies at Combat Start.
+++ Upgrade:
+- Adds 1 more Burn Potency on application, removes Abs requirement, and adds 2 more random Burn Potency on that resonance.
+When applying Burn Potency or Unique Burn to an enemy with Burn or Unique Burn, randomly inflict a total of
+5 Burn Potency
+between all enemies.
+When activating
+Wrath Resonance
+, randomly inflict a total of
+8 Burn Potency
+between all enemies at Combat Start.

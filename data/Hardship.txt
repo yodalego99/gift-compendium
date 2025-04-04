@@ -1,0 +1,12 @@
+Tier: III
+Sin: Pride
+Type: SP Healing
+Keyword: Keywordless
+Base Cost: 267
+Abno Events: One Sin and Hundreds of Good Deeds
+Floor Theme Packs: Noon of Violet (Normal: 4, Hard: 3)
+No Upgrades:
+- Base.
+Clash Win: Heal SP equal to the number of Clashes (max 3).
+If the affected unit is already at 45+ SP, gain (# of Clashes / 2) Offense Level Up next turn (max 3).
+Not Upgradable.

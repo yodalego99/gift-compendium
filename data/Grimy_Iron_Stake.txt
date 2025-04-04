@@ -1,0 +1,12 @@
+Tier: I
+Sin: Lust
+Type: Bleed
+Keyword: Bleed
+Base Cost: 147
+Abno Events: Hurting Teddy Bear
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+When hitting an enemy using a Single-Coin Skill, inflict 1 Bleed Potency. Inflict 2 Defense Level Down until the end of the next turn.
+If the target already has Bleed or Unique Bleed, inflict 3 Bleed Potency instead.
+Not Upgradable.

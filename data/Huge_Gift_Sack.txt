@@ -1,0 +1,11 @@
+Tier: II
+Sin: Gluttony
+Type: Poise / Protection
+Keyword: Poise
+Base Cost: 198
+Abno Events: N/A
+Floor Theme Packs: Miracle in District 20 (Normal: 4, Hard: 3)
+No Upgrades:
+- Base.
+Turn Start: apply 2 Poise, 2 Poise Count, and 2 Protection to the ally with the least HP.
+Not Upgradable.

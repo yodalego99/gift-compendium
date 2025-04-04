@@ -1,0 +1,14 @@
+Tier: IV
+Sin: Gloom
+Type: Poise Fusion
+Keyword: Poise
+Base Cost: 410
+Combination: Four-Leaf Clover + Ornamental Horseshoe + Reminiscence (Pendant of Nostalgia + Recollection of a Certain Day)
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain or apply Poise Potency or Count. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+Combat Start: If a random ally with Poise Critical Hits on an enemy with a Skill, all allies gain 7 Poise Potency and +7 Poise Count at the next Turn Start. (Once per turn).
+Skill 3 of Identities with Skills that gain Poise Potency or Count (not counting E.G.O Skills): Final Power +3, Coin Power +(12 / # of Coins), damage dealt + (50 / # of Coins)%
+Combat Start: a random ally gains 3 Poise Potency. (Prioritizes allies that apply or gain Poise Potency or Count with their Attack Skills). Prioritizes allies with Gloom Affinity Attack Skills; they gain 3 Poise Potency and +2 Poise Count.
+Not Upgradable.

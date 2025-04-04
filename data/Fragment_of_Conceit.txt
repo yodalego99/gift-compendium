@@ -1,0 +1,13 @@
+Tier: IV
+Sin: Lust
+Type: Poise E.G.O
+Keyword: Poise
+Base Cost: 400
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+Activates when using E.G.O Skills that apply or gain Poise Potency, Count, or Unique Poise.
+Gain Final Power equal to (Pride E.G.O resource + sum of other E.G.O resources / 3) consumed and deal +50% more damage.
+Pride E.G.O Skills: Gain additional Poise Count based on E.G.O grades before Attack (ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on) and deal + (sum of all E.G.O resources consumed x 8)% more damage.
+Not Upgradable.

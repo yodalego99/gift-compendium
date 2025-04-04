@@ -1,0 +1,20 @@
+Tier: II
+Sin: Pride
+Type: Rupture
+Keyword: Rupture
+Base Cost: 219
+Abno Events: Dream-Devouring Siltcurrent
+Floor Theme Packs: Mirror Dungeon 3
+No Upgrades:
+- Base.
+Turn End: If there are enemies or Abnormality parts with Rupture, apply 1 Damage Up or 1 Haste to a random ally next turn. Repeat (# of enemies(or # of Abnormality Parts) with Rupture + 1) times.
++ Upgrade:
+- Increases repeated amount by 2.
+Turn End: If there are enemies or Abnormality parts with Rupture, apply 1 Damage Up or 1 Haste to a random ally next turn. Repeat (# of enemies(or # of Abnormality Parts) with
+Rupture + 3)
+times.
+++ Upgrade:
+- Replaces 'or' with 'and' in applying Damage Up or Haste.
+Turn End: If there are enemies or Abnormality parts with Rupture, apply 1 Damage Up
+and
+1 Haste to a random ally next turn. Repeat (# of enemies(or # of Abnormality Parts) with Rupture + 3) times.

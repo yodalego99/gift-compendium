@@ -1,0 +1,12 @@
+Tier: II
+Sin: Gloom
+Type: General Buff
+Keyword: Keywordless
+Base Cost: 192
+Abno Events: Hole-In-The-Man
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+When using a Skill with 2+ Atk Weight, increase its damage by 20%.
+When hitting an enemy with a Skill with 2+ Atk Weight or a Gloom Affinity Skill, heal by 20% of the damage dealt.
+Not Upgradable.

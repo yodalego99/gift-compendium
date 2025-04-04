@@ -1,0 +1,12 @@
+Tier: II
+Sin: Gluttony
+Type: Charge
+Keyword: Charge
+Base Cost: 184
+Abno Events: Dimensional Oxidation Variant
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+This Gift activates when an ally has 15+ Charge Count at Turn Start.
+Combat Start: the ally with 15+ Charge Count loses 3 Charge Count and gains 5 'Offense Level' for the turn.
+Not Upgradable.

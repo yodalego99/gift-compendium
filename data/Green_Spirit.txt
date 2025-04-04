@@ -1,0 +1,20 @@
+Tier: I
+Sin: Gluttony
+Type: Tremor
+Keyword: Tremor
+Base Cost: 146
+Abno Events: Fairy Gentleman
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+After hitting a non-Staggered enemy by using a Gluttony Affinity Skill, or inflicting Tremor Potency using Skill effects, randomly inflict a total of 4 Tremor Potency between all enemies(or all Abnormality parts).
++ Upgrade:
+- Increases Tremor Potency by 2.
+After hitting a non-Staggered enemy by using a Gluttony Affinity Skill, or inflicting Tremor Potency using Skill effects, randomly inflict a total of
+6 Tremor Potency
+between all enemies(or all Abnormality parts).
+++ Upgrade:
+- Increases Tremor Potency by 2.
+After hitting a non-Staggered enemy by using a Gluttony Affinity Skill, or inflicting Tremor Potency using Skill effects, randomly inflict a total of
+8 Tremor Potency
+between all enemies(or all Abnormality parts).

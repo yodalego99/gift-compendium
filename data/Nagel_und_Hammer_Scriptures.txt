@@ -1,0 +1,12 @@
+Tier: II
+Sin: Wrath
+Type: Nails
+Keyword: Bleed
+Base Cost: 214
+Abno Events: N Corp Inquisitor
+Floor Theme Packs: Faith & Erosion (Normal: 1-2, Hard: 1)
+No Upgrades:
+- Base.
+When an ally wins a Clash using a Skill that inflicts Bleed Potency, Count, or Unique Bleed, inflict 1~2 Nails.
+If the said ally is from N Corp., gain 1 Fanatic at Turn Start.
+Not Upgradable.

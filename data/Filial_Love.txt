@@ -1,0 +1,12 @@
+Tier: II
+Sin: Lust
+Type: Bleed
+Keyword: Bleed
+Base Cost: 203
+Abno Events: Education & Machine Console
+Floor Theme Packs: Noon of Violet (Normal: 4, Hard: 3)
+No Upgrades:
+- Base.
+When inflicting Bleed Potency or Unique Bleed with Base Attack Skill effects, inflict +2 Bleed Count (3 times per turn for the whole team).
+Deal +1% more damage for every Bleed Count on the target (max 20%).
+Not Upgradable.

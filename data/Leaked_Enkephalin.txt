@@ -1,0 +1,13 @@
+Tier: II
+Sin: Gloom
+Type: Sinking Preservation
+Keyword: Sinking
+Base Cost: 195
+Abno Events: Safety Team
+Floor Theme Packs: Noon of Violet (Normal: 4, Hard: 3)
+No Upgrades:
+- Base.
+When the enemy is about to lose or consume Sinking Count (Sinking Potency on the target)% chance to inflict +1 Sinking Count immediately before the target is about to lose or consume Sinking Count (3 times per turn, max 100%).
+- Raise base chance by (highest Resonance x2)% (max 12%).
+- If the said highest Resonance was a Gloom or Envy Resonance: Inflict +1 more Sinking Count.
+Not Upgradable.

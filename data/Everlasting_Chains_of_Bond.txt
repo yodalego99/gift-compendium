@@ -1,0 +1,18 @@
+Tier: IV
+Sin: Envy
+Type: Middle
+Keyword: Blunt
+Base Cost: 401
+Abno Events: ?
+Combination: Enh. Tattoos - The Middle + Chains of Loyalty
+Floor Theme Packs: Nocturnal Sweeping (Normal: 5, Hard: 5+)
+No Upgrades:
+- Base.
+Encounter Start: activates when there are 2 or more The Middle Identities (only counts Identities on the field at Encounter Start).
+When hit, all allies in the same faction deal +5% more Blunt damage (15% per turn).
+The Middle Identities gain 1 Offense Level Up and deal +10% more Blunt damage instead (3 per turn, 30% per turn).
+Blunt Skills gain Base Power +1.
+- The Middle Identities gain Base Power +1 and Coin Power +1 instead.
+- If the target has Vengeance Mark, The Middle Identities gain Base Power +1, Coin Power +1, and deal +30% more damage instead.
+The Middle Identities gain Min Speed +1 and Max Speed +1 for the Encounter.
+Not Upgradable.

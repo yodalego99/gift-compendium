@@ -1,0 +1,25 @@
+Tier: III
+Sin: Lust
+Type: Clash / Unopposed
+Keyword: Slash
+Base Cost: 256
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to #3, #4 Deployed Identities]
+Unopposed Slash Skills deal +10% more damage.
+Clash Win: Slash Skills deal +(40/# of remaining Coins)% more damage.
++ Upgrade:
+- Effect now extends to the fifth sinner.
+[Effects apply only to #3, #4, and #5 Deployed Identities]
+Unopposed Slash Skills deal +10% more damage.
+Clash Win: Slash Skills deal +(40/# of remaining Coins)% more damage.
+++ Upgrade:
+- Effect now extends to the fifth sinner. Adds +2.5% to Unopposed Slash Skills. Adds some percentage increase to Slash Skills on Clash Win.
+[Effects apply only to #3, #4, #5, and #6 Deployed Identities]
+Unopposed Slash Skills
+deal +12.5% more damage.
+Clash Win: Slash Skills
+deal +(50/# of remaining Coins)%
+more damage.

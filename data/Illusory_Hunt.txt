@@ -1,0 +1,11 @@
+Tier: III
+Sin: Gloom
+Type: General Buff (Abnormality)
+Keyword: Keywordless
+Base Cost: 264
+Abno Events: All-Around Cleaner
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+Focused Encounter Start: Apply 2 Damage Up to all allies.
+Not Upgradable.

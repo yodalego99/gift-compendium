@@ -1,0 +1,11 @@
+Tier: II
+Sin: Pride
+Type: Rupture
+Keyword: Rupture
+Base Cost: 210
+Abno Events: ?
+Floor Theme Packs: Nocturnal Sweeping (Normal: 5, Hard: 5+)
+No Upgrades:
+- Base.
+If an ally's Speed is faster than the target's, the ally inflicts (Speed difference / 3) additional Rupture or Rupture Count when inflicting them with Skills (max 3).
+Not Upgradable.

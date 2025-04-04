@@ -1,0 +1,11 @@
+Tier: II
+Sin: Pride
+Type: Affinity Buff / Pierce Buff
+Keyword: Pierce
+Base Cost: 194
+Abno Events: Chattering Teeth
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+After defeating an enemy by using a Pride Affinity or Pierce damage Skill, raise the unit's Pierce Power by 2 for the next 2 turns.
+Not Upgradable.

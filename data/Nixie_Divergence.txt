@@ -1,0 +1,26 @@
+Tier: I
+Sin: Envy
+Type: Tremor
+Keyword: Tremor
+Base Cost: 145
+Abno Events: Steam Transport Machine
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+First Turn Start of an Encounter: inflict 4 Tremor Potency and 4 Tremor Count to all enemies. (Or all Abnormality parts)
+When hitting an enemy with an Envy Affinity Skill, inflict 2 Tremor Potency on target.
++ Upgrade:
+- Changes it to 'First turn of a wave.'
+First Turn Start of a Wave
+: inflict 4 Tremor Potency and 4 Tremor Count to all enemies. (Or all Abnormality parts)
+When hitting an enemy with an Envy Affinity Skill, inflict 2 Tremor Potency on target.
+++ Upgrade:
+- Increases various Tremor Counts/Potencies by 1.
+First Turn Start of a wave: inflict
+5 Tremor Potency
+and
+5 Tremor Count
+to all enemies. (Or all Abnormality parts)
+When hitting an enemy with an Envy Affinity Skill, inflict
+3 Tremor Potency
+on target.

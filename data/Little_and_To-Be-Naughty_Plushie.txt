@@ -1,0 +1,14 @@
+Tier: II
+Sin: Pride
+Type: Bleed
+Keyword: Bleed
+Base Cost: 191
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+Deal +10% damage against enemies with Bleed or Unique Bleed at Combat Start
+Take -20% damage from enemies with Bleed or Unique Bleed at Combat Start
+Allies with Pride Affinity Attack Skills deal +20% damage against enemies with Bleed or Unique Bleed instead.
+Allies with Pride Affinity Attack Skills take -30% damage from enemies with Bleed or Unique Bleed instead.
+Not Upgradable.

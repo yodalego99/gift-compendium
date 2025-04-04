@@ -1,0 +1,12 @@
+Tier: I
+Sin: Gluttony
+Type: Healing
+Keyword: Keywordless
+Base Cost: 165
+Abno Events: Heavenly Executor's Scribe
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+Whenever an enemy is Staggered, the ally with the least HP heals 5% of their Max HP.
+If said ally has Gluttony Affinity Attack Skills, heal 10% of Max HP instead.
+Not Upgradable.

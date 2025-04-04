@@ -1,0 +1,13 @@
+Tier: I
+Sin: Sloth
+Type: Pierce
+Keyword: Pierce
+Base Cost: 148
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 5
+No Upgrades:
+- Base.
+[Effects apply only to the #3 Deployed Identity]
+Pierce Skills gain + (# of Pierce Base Attack Skills) Offense Level. (same Skills don't count twice; max 3)
+At 3+ Haste: when attacking an enemy, deal +(10 + (Haste on self x 3))% more Pierce damage (max 25%).
+Not Upgradable.

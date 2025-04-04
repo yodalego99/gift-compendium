@@ -1,0 +1,19 @@
+Tier: IV
+Sin: Envy
+Type: Sinking Fusion
+Keyword: Sinking
+Base Cost: 401
+Abno Events: N/A
+Combination: Thorny Path + Distant Star + Surging Globe
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply Sinking Potency, Count, or Unique Sinking. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+When hitting and dealing HP damage to an enemy with a Skill that inflicts Sinking Potency, Count, or Unique Sinking, inflict 4 Sinking Potency and +3 Sinking Count at Turn End (once per turn for each enemy).
+Combat Start: when activating Gloom or Lust Absolute Resonance, inflict 3 Sinking and +3 Sinking on all enemies (for Abnormalities, a random Part).
+After using a base Attack Skill, if the target has 10+ Sinking Potency, heal (Sinking Potency on the target / 10) SP on self (max 5) and inflict the same amount as Defense Level Down against the target (max 5; once per turn for each enemy).
+Turn End: all allies gain Offense Level Up equal to the number of enemies with -45 SP or without SP next turn (max 6).
+When activating the Sinking effect (including Unique Sinking) on the target with an On Hit effect from a Base Attack Skill that inflicts or gains Sinking Potency, Sinking Count, or Unique Sinking, heal 5 SP at Turn End (2 times per turn per Identity).
+If the unit was at 45 SP at Turn Start, the effect changes to the following: when hitting and activating the Sinking effect (including Unique Sinking) on the target with a base Attack Skill, inflict +3 Sinking Count against the targeted enemy (2 times per turn per Identity).
+Hard Mode Only.
+Not Upgradable.

@@ -1,0 +1,11 @@
+Tier: II
+Sin: Lust
+Type: Dupe
+Keyword: Keywordless
+Base Cost: 200
+Abno Events: N/A
+Floor Theme Packs: N/A
+No Upgrades:
+- Base.
+Counts as a Tier 2 E.G.O Gift. Can be sold at a Shop or be used as ingredients for Fusion.
+Not Upgradeable.

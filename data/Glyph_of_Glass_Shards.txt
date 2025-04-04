@@ -1,0 +1,17 @@
+Tier: IV
+Sin: Gluttony
+Type: Rupture (Heishou Pack - Mao Branch)
+Keyword: Rupture
+Base Cost: 407
+Abno Events: ?
+Combination: Strange Glyph Talisman + Strange Glyph Inscriptions
+Floor Theme Packs: Nocturnal Sweeping (Normal: 5, Hard: 5+)
+No Upgrades:
+- Base.
+Encounter Start: activates when there are 5 or more Identities that inflict Rupture Potency or Rupture Count (except E.G.O Skills).
+When defeating a target with Rupture (for Focused Encounters, a Part) with an Attack Skill, inflict the Rupture Potency on the target between all enemies (for Focused Encounters, all Parts) (max 3 per enemy).
+When defeating a target with Deathrite【Haste】 (for Focused Encounters, a Part) with an Attack Skill, inflict the Rupture Potency and Count on the target between all enemies (for Focused Encounters, all Parts) (max 6 per enemy).
+When clashing against targets with Rupture, gain (Rupture on the target / 20) Clash Power (max 2).
+- When clashing against targets with Deathrite【Haste】, gain (Rupture on the target / 10) Coin Power instead (max 2).
+When dealing damage with Deathrite【Haste】 effect, deal fixed damage by (Deathrite【Haste】 damage / 2).
+Not Upgradable.

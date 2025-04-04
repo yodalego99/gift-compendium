@@ -1,0 +1,11 @@
+Tier: III
+Sin: Gloom
+Type: Tremor
+Keyword: Tremor
+Base Cost: 248
+Abno Events: Blubbering Toad
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+Inflict 5 Offense Level Down and 5 Defense Level Down next turn against enemies affected by Tremor Burst. (3 times per turn)
+Not Upgradable.

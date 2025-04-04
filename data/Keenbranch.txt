@@ -1,0 +1,24 @@
+Tier: III
+Sin: Lust
+Type: Clash Power / Unopposed Attack
+Keyword: Pierce
+Base Cost: 245
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to #3, #4 Deployed Identities]
+In a Clash, Clash Power +1; Pierce Skills deal +20% more damage.
+In an unopposed attack, Pierce Skills deal +10% more damage.
++ Upgrade:
+- The Fifth sinner is now also affected.
+[Effects apply only to #3, #4, and #5 Deployed Identities]
+In a Clash, Clash Power +1; Pierce Skills deal +20% more damage.
+In an unopposed attack, Pierce Skills deal +10% more damage.
+++ Upgrade:
+- The Sixth sinner is now also affected. Clash damage is boosted by +5%, and unopposed by +2.5%.
+[Effects apply only to #3, #4, #5, and #6 Deployed Identities]
+In a Clash, Clash Power +1; Pierce Skills deal
++25% more damage.
+In an unopposed attack, Pierce Skills deal
++12.5% more damage.

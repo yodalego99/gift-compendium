@@ -1,0 +1,14 @@
+Tier: IV
+Sin: Pride
+Type: Charge Damage
+Keyword: Charge
+Base Cost: 400
+Combination: Cardiovascular Reactive Module + Crystallized Blood
+Floor Theme Packs: Murder on the WARP Express (Normal: 4-5, Hard: 4-5+)
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain Charge Count or Unique Charge effects. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start).
+Base Attack Skills that consume Charge Count or Unique Charge: gain Coin Power +1 and deal +(sum of Charge Count and Unique Charge consumed by that Skill x 4)% more damage (max 40%).
+When allies have 15+ (Charge Count + Unique Charge): when they use a Skill 3 that consumes Charge Count or Unique Charge, and if there are remaining Charge Count or Unique Charge after Attack: consume all remaining Charge Count and Unique Charge to deal (sum of Charge Count and Unique Charge consumed x 7.5)% fixed bonus damage. (max 75%).
+Max Charge Count +5.
+Not Upgradeable.

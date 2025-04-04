@@ -1,0 +1,21 @@
+Tier: II
+Sin: Lust
+Type: Burn
+Keyword: Burn
+Base Cost: 203
+Abno Events: Skin Prophet
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+When hitting an enemy with a Lust Affinity Skill or a Skill that inflicts Burn Potency or Unique Burn, inflict 3 Burn Potency.
+Turn Start: If the enemy has 20+ Burn Potency, (Current 20+ Burn Potency on enemy) x2
++ Upgrade:
+- Increases to 4 Burn Potency when hit.
+When hitting an enemy with a Lust Affinity Skill or a Skill that inflicts Burn Potency or Unique Burn, inflict
+4 Burn Potency.
+Turn Start: If the enemy has 20+ Burn, (Current 20+ Burn Potency on enemy) x2
+++ Upgrade:
+- If the enemy has 20+ Burn Potency, multiply it by 2.5x instead of 2x.
+When hitting an enemy with a Lust Affinity Skill or a Skill that inflicts Burn Potency or Unique Burn, inflict 4 Burn Potency.
+Turn Start: If the enemy has 20+ Burn Potency, (Current 20+ Burn Potency on enemy)
+x2.5

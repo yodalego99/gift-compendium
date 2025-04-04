@@ -1,0 +1,12 @@
+Tier: II
+Sin: Gloom
+Type: Sinking
+Keyword: Sinking
+Base Cost: 220
+Abno Events: Baba Yaga
+Floor Theme Packs: The Unloving (Normal: 1-2, Hard: 1-2)
+No Upgrades:
+- Base.
+Applies only to 1 Identity with the slowest Speed at Turn Start.
+If the said ally wins a Clash or is hit by an enemy, inflict 3 Sinking against the enemy.
+Not Upgradable.

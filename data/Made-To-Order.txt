@@ -1,0 +1,13 @@
+Tier: II
+Sin: Pride
+Type: Tremor / Protection / Damage Up
+Keyword: Keywordless
+Base Cost: 190
+Abno Events: You Want To Get Beat? Hurtily?
+Floor Theme Packs: Automated Factory (Normal: 1-2, Hard: 1-2)
+No Upgrades:
+- Base.
+[Effects apply only to #3 Deployed Identity]
+Encounter Start: gain +3 Tremor Count.
+Turn Start: gain 1 Protection, 1 Damage Up, and 1 Attack Power Up.
+Not Upgradable.

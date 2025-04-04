@@ -1,0 +1,12 @@
+Tier: III
+Sin: Lust
+Type: Bleed (Kurokumo Clan)
+Keyword: Bleed
+Base Cost: 244
+Abno Events: Visage
+Floor Theme Packs: Yield My Flesh to Claim Their Bones (Normal: 4-5, Hard: 3-4)
+No Upgrades:
+- Base.
+During this Encounter: when inflicting Bleed Potency or Unique Bleed for the first time against an enemy with an Attack Skill effect, inflict an additional +2 Bleed Count. (Once per Encounter)
+Kurokumo Clan Identities, when inflicting damage against an enemy for the first time, inflict an additional 4 Bleed Potency and +4 Bleed Count instead.
+Not Upgradeable.

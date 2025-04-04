@@ -1,0 +1,12 @@
+Tier: I
+Sin: Wrath
+Type: Tremor / Blunt
+Keyword: Tremor
+Base Cost: 148
+Abno Events: N/A
+Floor Theme Packs: S.E.A. (Normal: 2, Hard: 2)
+No Upgrades:
+- Base.
+Blunt Skills deal +10% more damage
+Final Coin of Blunt Skills inflict 2 Tremor Potency On Hit. (once per turn)
+Not Upgradable.

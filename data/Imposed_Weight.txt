@@ -1,0 +1,12 @@
+Tier: III
+Sin: Wrath
+Type: Solo
+Keyword: Keywordless
+Base Cost: 242
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+If there are no other allies remaining at Turn End, consume 5% of the remaining HP next turn to gain 2 Attack Power Up. (does not activate at 25%- HP)
+If this unit has 50%- HP, gain 3 Attack Power Up instead.
+Not Upgradable.

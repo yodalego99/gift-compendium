@@ -1,0 +1,13 @@
+Tier: I
+Sin: Gloom
+Type: Tremor Count
+Keyword: Tremor
+Base Cost: 153
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 5
+No Upgrades:
+- Base.
+When winning a Clash with a Skill that consumed Tremor Count: if the target does not have Tremor, inflict +2 Tremor Count.
+At 3+ Sloth Reson. including this Skill, inflict +3 Tremor Count instead.
+Hard Mode Only.
+Not Upgradable.

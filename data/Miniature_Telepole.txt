@@ -1,0 +1,12 @@
+Tier: II
+Sin: Pride
+Type: Charge Count
+Keyword: Charge
+Base Cost: 205
+Abno Events: Alleyway Watchdog
+Floor Theme Packs: Mirror Dungeon 5
+No Upgrades:
+- Base.
+After Attack with a Skill Attack that consumed 7+ Charge Count on self: if the target is defeated, gain (Charge Count consumed by the Skill / 4) Charge Count.
+Hard Mode Only.
+Not Upgradable.

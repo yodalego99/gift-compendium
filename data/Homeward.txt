@@ -1,0 +1,11 @@
+Tier: II
+Sin: Gluttony
+Type: Healing
+Keyword: Keywordless
+Base Cost: 193
+Abno Events: Smokey Old Man
+Floor Theme Packs: Mirror Dungeon 1
+No Upgrades:
+- Base.
+Encounter Start: all participating allies heal 12% of their Max HP.
+Not Upgradable.

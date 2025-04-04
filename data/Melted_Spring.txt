@@ -1,0 +1,11 @@
+Tier: II
+Sin: Sloth
+Type: Sinking
+Keyword: Sinking
+Base Cost: 206
+Abno Events: Time Duck
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+Turn Start: enemies with Sinking lose 3 'Offense Level' and 'Defense Level' for the turn.
+Not Upgradable.

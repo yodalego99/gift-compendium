@@ -1,0 +1,20 @@
+Tier: II
+Sin: Sloth
+Type: Damage Up / Protection
+Keyword: Keywordless
+Base Cost: 207
+Abno Events: N/A
+Floor Theme Packs: Railway 2 (Normal: -, Hard: 4)
+No Upgrades:
+- Base.
+In odd-numbered turns, all allies gain 1 Damage Up. In even-numbered turns, all allies gain 1 Protection.
++ Upgrade:
+- Even Numbered Turns get +1 Defense Level Up.
+In odd-numbered turns, all allies gain 1 Damage Up. In even-numbered turns, all allies gain 1 Protection
+and 1 Defense Level Up.
+++ Upgrade:
+- Odd Numbered Turns get +1 Offense Level Up.
+In odd-numbered turns, all allies gain 1 Damage Up and
+1 Offense Level Up
+. In even-numbered turns, all allies gain 1 Protection and 1 Defense Level Up.
+Hard Mode Only.

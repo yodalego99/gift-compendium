@@ -1,0 +1,13 @@
+Tier: IV
+Sin: Gluttony
+Type: Tremor E.G.O
+Keyword: Tremor
+Base Cost: 400
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+Activates when using E.G.O Skills that apply Tremor Potency, Count, or Unique Tremor.
+Gain Final Power equal to (Sloth E.G.O resource + sum of other E.G.O resources / 3) consumed and deal +50% more damage.
+Sloth E.G.O Skills: Inflict additional Tremor Count based on E.G.O grades before Attack (ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on) and deal + (Tremor Potency on target x 1.5)% more damage.
+Not Upgradable.

@@ -1,5 +1,7 @@
 # This file associates gift text filenames with image URLs.
 # Format: gift_file_name|image_url
+Fusion_Basics.txt|https://images.steamusercontent.com/ugc/2500138005841262330/A763127F14F63A6392729CF9E048BA25FE166092/
+E.G.O_Gift_Information.txt|https://images.steamusercontent.com/ugc/18683329509000926/CE0E3FA8A29063AB0992F9034F9D0EBD400883F9/
 Burn.txt|https://images.steamusercontent.com/ugc/18673004980002330/BFBEA61883291D2306065742B428B69227E3C020/
 Ashes_to_Ashes.txt|https://images.steamusercontent.com/ugc/2297462877485509648/D4394FE1E3E57A8F026376854FB0006A4EF0EC65/
 Melted_Paraffin.txt|https://images.steamusercontent.com/ugc/2500137370208082499/96731D3F21023264FF35B1F9D858CD940EAD382C/
@@ -342,3 +344,4 @@ Shadow_Monster.txt|https://images.steamusercontent.com/ugc/18675072560189636/34C
 Gift.txt|https://images.steamusercontent.com/ugc/18675072560189655/48C570566D36B427000E7167786FB095A4226BAF/
 High-Risk_Operational_Gear.txt|https://images.steamusercontent.com/ugc/18678079110126873/61642A70108F3A8564CA9BA3224745B460CD7079/
 Lunar_Memory.txt|https://images.steamusercontent.com/ugc/2297462877485509986/2145FF34807545F4D8AC96512AC9A22452A30823/
+Thanks_for_reading!.txt|https://images.steamusercontent.com/ugc/2039605628939756473/CF06CC5860D30ADAF860791C1E7BEA3F469CB2CC/?imw=88&imh=88&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true

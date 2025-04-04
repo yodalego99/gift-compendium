@@ -1,0 +1,25 @@
+Tier: III
+Sin: Envy
+Type: Charge
+Keyword: Charge
+Base Cost: 247
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+Encounter Start: all allies gain +3 Charge Count.
+If two or more participating allies have Envy Affinity Attack Skills, all allies gain +5 Charge Count instead.
++ Upgrade:
+- Increases both charge counts by 1.
+Encounter Start: all allies gain
++4 Charge Count.
+If two or more participating allies have Envy Affinity Attack Skills, all allies gain
++6 Charge Count
+instead.
+++ Upgrade:
+- Increases both charge counts by 1.
+Encounter Start: all allies gain
++5 Charge Count.
+If two or more participating allies have Envy Affinity Attack Skills, all allies gain
++7 Charge Count
+instead.

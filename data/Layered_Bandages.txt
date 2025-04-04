@@ -1,0 +1,16 @@
+Tier: I
+Sin: Gloom
+Type: Healing
+Keyword: Keywordless
+Base Cost: 150
+Abno Events: Hurting Teddy Bear
+Floor Theme Packs: Mirror Dungeon 5
+No Upgrades:
+- Base.
+Turn End: among allies with Bleed, the Identity with the least HP heals 5% of their max HP.
++ Upgrade:
+- Increases to two allies.
+Turn End: among allies with Bleed,
+two Identities
+with the least HP heal 5% of their max HP.
+Not Upgradable to ++.

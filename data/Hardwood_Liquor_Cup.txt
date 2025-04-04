@@ -1,0 +1,15 @@
+Tier: III
+Sin: Gluttony
+Type: Damage Prevention
+Keyword: Keywordless
+Base Cost: 250
+Abno Events: ?
+Floor Theme Packs: Yield My Flesh to Claim Their Bones BokGak (Normal: -, Hard: 4-5+)
+No Upgrades:
+- Base.
+On Clash Lose, gain 1 Protection and heal 3~6 SP (once per turn per Identity).
+When attacking an enemy with the Unbreakable Coin's effect of the Skill (except E.G.O Skills) that lost the Clash:
+- Plus Coin Skills receive Plus Coin Power + (3 / # of Coins) and deal +20% more damage (min. Plus Coin Power gain 1).
+- Minus Coin Skills deal +40% more damage.
+Hard Mode Only.
+Not Upgradable.

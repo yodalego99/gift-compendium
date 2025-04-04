@@ -1,0 +1,13 @@
+Tier: IV
+Sin: Gloom
+Type: Charge E.G.O
+Keyword: Charge
+Base Cost: 400
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+Activates when using E.G.O Skills that gain or consume Charge Potency, Count, or Unique Charge.
+Gain Final Power equal to (Envy E.G.O resource + sum of other E.G.O resources / 3) consumed and deal +50% more damage.
+Envy E.G.O Skills: Gain additional Charge Count based on E.G.O grades before Attack (ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on) and deal + ((Charge Count on self + Unique Charge) x 5)% more damage. (200% max).
+Not Upgradable.

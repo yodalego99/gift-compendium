@@ -1,0 +1,18 @@
+Tier: III
+Sin: Sloth
+Type: Charge Barrier
+Keyword: Charge
+Base Cost: 262
+Abno Events: Resident of Metropolaris
+Floor Theme Packs: Mirror Dungeon 3
+No Upgrades:
+- Base.
+First Turn Start of a wave: all allies gain 3 Charge Barrier.
++ Upgrade:
+- Increases count by 2.
+First Turn Start of a wave: all allies gain
+5 Charge Barrier.
+++ Upgrade:
+- Increases count by 2.
+First Turn Start of a wave: all allies gain
+7 Charge Barrier.

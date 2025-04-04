@@ -1,0 +1,13 @@
+Tier: II
+Sin: Envy
+Type: Tremor Burst
+Keyword: Tremor
+Base Cost: 207
+Abno Events: N/A
+Floor Theme Packs: Fuse / Shop / Event Only
+No Upgrades:
+- Base.
+Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply Tremor Potency, Count, or 'Unique Tremor'. (except E.G.O Skills, only counts Identities on the field at Encounter Start).
+When Tremor Burst triggers on a target for the 6th time this turn, add an additional Stagger Threshold at the 0% mark of their current HP (once per Encounter).
+Inflict 1 Fragile when triggering Amplitude Conversion or Amplitude Entanglement (once per turn).
+Not Upgradeable.

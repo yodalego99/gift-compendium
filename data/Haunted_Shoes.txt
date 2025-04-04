@@ -1,0 +1,13 @@
+Tier: II
+Sin: Lust
+Type: Sinking / Protection / Damage Up
+Keyword: Keywordless
+Base Cost: 193
+Abno Events: Pink Shoes
+Floor Theme Packs: Automated Factory (Normal: 1-2, Hard: 1-2)
+No Upgrades:
+- Base.
+[Effects apply only to #2 Deployed Identity]
+Encounter Start: gain +3 Sinking Count.
+Turn Start: gain 1 Protection, 1 Damage Up, and 1 Attack Power Up.
+Not Upgradable.

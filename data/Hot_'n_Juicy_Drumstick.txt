@@ -1,0 +1,11 @@
+Tier: III
+Sin: Wrath
+Type: Burn
+Keyword: Burn
+Base Cost: 259
+Abno Events: Fried Chicken Argument
+Floor Theme Packs: Hell's Chicken (Normal: 2, Hard: 2)
+No Upgrades:
+- Base.
+When inflicting Burn with a Skill, inflict +3 Burn Count.
+Not Upgradable.

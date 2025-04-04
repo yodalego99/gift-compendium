@@ -1,0 +1,11 @@
+Tier: III
+Sin:  Wrath
+Type: Healing
+Keyword: Keywordless
+Base Cost: 230
+Abno Events: Centaur
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+Turn Start: one ally under 50% HP heals 25% of Max HP. (Once per Encounter; does not activate if the ally is dead)
+Not Upgradable.

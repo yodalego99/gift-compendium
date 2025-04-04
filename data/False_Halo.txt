@@ -1,0 +1,20 @@
+Tier: IV
+Sin: Pride
+Type: Dhyāna Damage Up
+Keyword: Keywordless
+Base Cost: 391
+Abno Events: N/A
+Floor Theme Packs: Railway 1 (Normal: -, Hard: 4)
+No Upgrades:
+- Base.
+On Hit, gain 1 Dhyāna. (2 times per Skill)
+If this unit was hit by an enemy Skill this turn, gain +1 more Dhyāna each time.
++ Upgrade:
+-
+On Hit, gain 1 Dhyāna. (3 times per Skill)
+If this unit was hit by an enemy Skill this turn, gain +1 more Dhyāna each time.
+++ Upgrade:
+-
+On Hit, gain 2 Dhyāna. (3 times per Skill)
+If this unit was hit by an enemy Skill this turn, gain +1 more Dhyāna each time.
+Hard Mode Only.

@@ -1,0 +1,20 @@
+Tier: I
+Sin: Lust
+Type: Burn
+Keyword: Burn
+Base Cost: 150
+Abno Events: Skin Prophet
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+When winning a clash with a Skill that inflicts Burn Potency, Count, or Unique Burn, inflict (# of remaining Coins / 2) Burn Potency on the target.
++ Upgrade:
+- Adds 1 to Burn Potency on target.
+When winning a clash with a Skill that inflicts Burn Potency, Count, or Unique Burn, inflict
+(# of remaining Coins / 2 + 1)
+Burn Potency on the target.
+++ Upgrade:
+- Changes to # of remaining Coins + 1.
+When winning a clash with a Skill that inflicts Burn Potency, Count, or Unique Burn, inflict
+(# of remaining Coins + 1)
+Burn Potency on the target.

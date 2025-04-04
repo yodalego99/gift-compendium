@@ -1,0 +1,12 @@
+Tier: III
+Sin: Sloth
+Type: Bleed
+Keyword: Bleed
+Base Cost: 239
+Abno Events: N/A
+Floor Theme Packs: La Manchaland Re-Opening (Normal: -, Hard: 5+)
+No Upgrades:
+- Base.
+On Hit against targets with 10+ (sum of Bleed, Unique Bleed, and Rupture): gain 1 Poise Potency and Count (2 times per Skill).
+Hard Mode Only.
+Not Upgradable.

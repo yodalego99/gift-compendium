@@ -1,0 +1,13 @@
+Tier: IV
+Sin: Sloth
+Type: Sinking E.G.O
+Keyword: Sinking
+Base Cost: 400
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+Activates when using E.G.O Skills that inflict Sinking Potency, Count, or Unique Sinking.
+Gain Final Power equal to (Gloom E.G.O resource + sum of other E.G.O resources / 3) consumed and deal +50% more damage.
+Gloom E.G.O Skills: Inflict additional Sinking Count based on E.G.O grades before Attack (ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on) and deal + (SP consumed to activate E.G.O Skill x 2.5)% more damage.
+Not Upgradable.

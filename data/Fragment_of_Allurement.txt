@@ -1,0 +1,13 @@
+Tier: IV
+Sin: Pride
+Type: Bleed E.G.O
+Keyword: Bleed
+Base Cost: 400
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+Activates when using E.G.O Skills that inflict Bleed Potency, Count, or Unique Bleed.
+Gain Final Power equal to (Lust E.G.O resource + sum of other E.G.O resources / 3) consumed and deal +50% more damage.
+Lust E.G.O Skills: Inflict additional Bleed Count based on E.G.O grades before Attack (ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on) and deal additional Lust damage equal to Bleed Potency on target.
+Non Upgradable.

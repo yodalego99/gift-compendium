@@ -1,0 +1,12 @@
+Tier: II
+Sin: Gluttony
+Type: Tremor, Speed
+Keyword: Tremor
+Base Cost: 202
+Abno Events: T Corp. Alleyway
+Floor Theme Packs: Timekilling Time (Normal: 4-5, Hard: 4-5+)
+No Upgrades:
+- Base.
+First Turn Start of a wave: inflict (9 - current Speed) Tremor Potency to 3 enemies with the slowest Speed. (min. 3).
+Deal +10% more damage against targets with 12+ Tremor or Unique Tremor at Turn Start.
+Not Upgradeable.

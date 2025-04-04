@@ -1,0 +1,13 @@
+Tier: II
+Sin: Pride
+Type: Haste / Offense Level Up (Pequod)
+Keyword: Poise
+Base Cost: 219
+Abno Events: Ahab
+Floor Theme Packs: The Evil Defined (Normal: -, Hard: 4-5+)
+No Upgrades:
+- Base.
+Turn End: apply 2 Haste, 2 Offense Level Up and 2 Damage Up next turn to the ally with the highest sum of Poise Potency and Count.
+The Pequod Identities gain Max Speed +1.
+Hard Mode Only.
+Not Upgradable.

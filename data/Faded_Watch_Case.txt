@@ -1,0 +1,12 @@
+Tier: II
+Sin: Gloom
+Type: Tremor, Clash
+Keyword: Tremor
+Base Cost: 205
+Abno Events: Assembly Line
+Floor Theme Packs: Timekilling Time (Normal: 4-5, Hard: 4-5+)
+No Upgrades:
+- Base.
+When Clashing with a faster enemy, Clash Power +1.
+When dealing damage to a faster enemy, inflict 3 Tremor Potency and +2 Tremor Count next turn. (once per turn).
+Not Upgradeable.

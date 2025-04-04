@@ -1,0 +1,13 @@
+Tier: IV
+Sin: Lust
+Type: Burn
+Keyword: Burn
+Base Cost: 400
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+Activates when using E.G.O Skills that apply Burn Potency, Count, or Unique Burn.
+Gain Final Power equal to (Wrath E.G.O resource + sum of other E.G.O resources / 3) consumed and deal +50% more damage.
+Wrath E.G.O Skills: Inflict additional Burn Count based on E.G.O grades before Attack (ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on) and deal + (Atk Weight / # of attack targets x 20)% more damage.
+Not Upgradable.

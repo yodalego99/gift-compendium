@@ -1,0 +1,13 @@
+Tier: II
+Sin: Lust
+Type: Defense Power Up
+Keyword: Poise
+Base Cost: 207
+Abno Events: Gear Chair
+Floor Theme Packs: Full-Stopped By Bullet (Normal: 4, Hard: 3)
+No Upgrades:
+- Base.
+Turn Start: If this unit has Poise, gain 2 Defense Level Up and 1 Defense Power Up.
+If this unit has Poise, the first Coin to hit deals +10% more damage.
+If the said Coin hits critically, +20% Damage on Critical Hit.
+Not Upgradeable.

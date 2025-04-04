@@ -1,0 +1,14 @@
+Tier: IV
+Sin: Sloth
+Type: Slash (Blade Lineage)
+Keyword: Slash
+Base Cost: 432
+Abno Events: Impression
+Floor Theme Packs: Yield My Flesh to Claim Their Bones (Normal: 4-5, Hard: 3-4)
+No Upgrades:
+- Base.
+Encounter Start: activates when there are 3 or more Blade Lineage Identities.
+All allies deal +50% more Slash damage.
+Blade Lineage Identities: Skill 1 gains Coin Power +1. Single-coin Skill 1 gains Coin Power +3.
+[Blade Lineage Mentor Meursault Only] 'Yield My Flesh' Skill Final Clash Power -12; 'To Claim Their Bones' Skill deals +50% more damage.
+Not Upgradeable.

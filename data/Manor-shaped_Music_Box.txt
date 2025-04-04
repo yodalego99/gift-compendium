@@ -1,0 +1,14 @@
+Tier: III
+Sin: Lust
+Type: Stagger Recovery
+Keyword: Sinking
+Base Cost: 249
+Abno Events: N/A
+Floor Theme Packs: Dregs of the Manor (Normal: 3, Hard: 1)
+No Upgrades:
+- Base.
+[Effects apply only to the #1 Deployed Identity]
+Turn End: when Staggered, recover from Stagger; then, at the next Turn Start, inflict 4 Sinking Potency and 4 Sinking Count to all enemies (once per Encounter; in Focused Encounters, on all Parts).
+When defeating an enemy with Sinking, 1 enemy with the least Sinking Count gains +2 Sinking Count (in Focused Encounters, the Part).
+Hard Mode Only.
+Not Upgradable.

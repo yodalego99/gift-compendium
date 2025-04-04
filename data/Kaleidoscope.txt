@@ -1,0 +1,12 @@
+Tier: III
+Sin: Wrath
+Type: Offense Level Up (Technology Liberation Alliance)
+Keyword: Keywordless
+Base Cost: 261
+Abno Events: N/A
+Floor Theme Packs: Falling Flowers (Normal: 3, Hard: 2)
+No Upgrades:
+- Base.
+Turn Start: if there are other Identities from the same faction as this unit, gain Offense Level Up equal to the number of other Identities from the same faction. (max 4)
+Identities from Technology Liberation Alliance gain Clash Power +1.
+Not Upgradable.

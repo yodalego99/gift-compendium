@@ -1,0 +1,14 @@
+Tier: III
+Sin: Pride
+Type: Damage Up Poise
+Keyword: Poise
+Base Cost: 243
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 4
+No Upgrades:
+- Base.
+[Effects apply only to #1, #2 Deployed Identities]
+Turn Start: allies with 10+ (sum of Poise Potency and Count) gain Clash Power +1 and 1 Damage Up.
+At 20+ sum, gain Clash Power +1 and 3 Damage Up instead.
+At 40+ sum, gain Clash Power +2 and 3 Damage Up instead.
+Not Upgradable.

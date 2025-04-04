@@ -1,0 +1,12 @@
+Tier: IV
+Sin: Gloom
+Type: General Buff
+Keyword: Keywordless
+Base Cost: 395
+Abno Events: Cyclops
+Floor Theme Packs: Mirror Dungeon 3
+No Upgrades:
+- Base.
+Turn Start: A random ally deals +10% damage (effective until Non-Disclosure Agreement effect expires).
+The ally deals additional +10% damage every time it hits with a Skill and deals HP damage to an enemy (Max +40% damage). If the ally takes HP damage, the Gift's effect expires. At the next Turn Start, apply the same Gift effect to another random ally. (effect expires if no other allies can be selected)
+Not Upgradeable.

@@ -1,0 +1,11 @@
+Tier: IV
+Sin: Pride
+Type: Healing (SP)
+Keyword: Keywordless
+Base Cost: 424
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+After using a Plus Coin Skill, fully heal the ally's SP at the next Turn Start. (Unless corroded).
+Not Upgradeable.

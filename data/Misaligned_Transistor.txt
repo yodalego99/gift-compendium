@@ -1,0 +1,12 @@
+Tier: II
+Sin: Envy
+Type: Charge Consumption
+Keyword: Charge
+Base Cost: 207
+Abno Events: Education & Machine Console
+Floor Theme Packs: Noon of Violet (Normal: 4, Hard: 3)
+No Upgrades:
+- Base.
+Base Attack Skills that consume Charge Count or Unique Charge consume 1.5x more Charge Count.
+Deal +2% more damage for every Charge Count or Unique Charge consumed by Base Attack Skills (max 20%).
+Not Upgradable.

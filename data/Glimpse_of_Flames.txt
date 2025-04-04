@@ -1,0 +1,25 @@
+Tier: IV
+Sin: Wrath
+Type: Burn
+Keyword: Burn
+Base Cost: 379
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 2
+No Upgrades:
+- Base.
+Turn End: consume half of Burn Count on enemies with Burn to deal (Burn Potency x consumed Burn Count) bonus Wrath damage.
+Targets lose (Burn Count consumed by Glimpse of Flames) / 2 Defense Levels for the next turn. (Max 3)
++ Upgrade:
+- Increases bonus wrath damage to 1.5x. Increases max by 2.
+Turn End: consume half of Burn Count on enemies with Burn to deal (Burn Potencyx consumed Burn Count
+x1.5
+) bonus Wrath damage.
+Targets lose (Burn Count consumed by Glimpse of Flames) / 2 Defense Levels for the next turn.
+(Max 5)
+++ Upgrade:
+- Increases bonus wrath damage to 2x. Increases max by 3.
+Turn End: consume half of Burn Count on enemies with Burn to deal (Burn Potency x consumed Burn Count
+x2
+) bonus Wrath damage.
+Targets lose (Burn Count consumed by Glimpse of Flames) / 2 Defense Levels for the next turn.
+(Max 8)

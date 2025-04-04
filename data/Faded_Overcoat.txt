@@ -1,0 +1,12 @@
+Tier: II
+Sin: Wrath
+Type: Offense Level Up
+Keyword: Sinking
+Base Cost: 209
+Abno Events: N/A
+Floor Theme Packs: Mirror Dungeon 5
+No Upgrades:
+- Base.
+Turn End: if there are 3+ enemies with -45 SP, all allies gain 2 Offense Level Up next turn.
+Hard Mode Only.
+Not Upgradable.
