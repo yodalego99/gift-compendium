@@ -1,0 +1,71 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+.controls {
+  margin-bottom: 10px;
+}
+
+.search-container {
+  margin-bottom: 20px;
+}
+
+.result-count {
+  margin-left: 10px;
+}
+
+
+.gift-container {
+  display: inline-block;
+  vertical-align: top;
+  margin: 12px;
+  padding: 12px;
+  text-align: center;
+  width: 160px;
+  border: 1px solid #cccccc;
+  box-sizing: border-box;
+  cursor: pointer;
+  position: relative;
+}
+
+
+.gift-container.expanded {
+  display: block;
+  width: calc(100% - 40px);
+  margin: 12px auto;
+}
+
+
+.mark-checkbox {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+}
+
+.gift-title {
+  font-weight: bold;
+  margin-top: 8px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  display: block;
+  margin: 10px auto;
+  object-fit: contain;
+}
+
+
+.details {
+  margin-top: 10px;
+  border-top: 1px solid #ccc;
+  padding: 8px;
+  white-space: pre-wrap;
+  display: none;
+}
+
+
+.details.show {
+  display: block;
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>EGO Gift Compendium</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>EGO Gift Compendium</h1>
+
+  <div class="controls">
+    <label>
+      <input type="checkbox" id="showMarkedOnly" />
+      Show marked only
+    </label>
+  </div>
+
+  <div class="search-container">
+    <label for="searchInput">Search:</label>
+    <input type="text" id="searchInput" placeholder="Type to filter...">
+    <span id="resultCount" class="result-count"></span>
+  </div>
+
+  <div id="giftList"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
