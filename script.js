@@ -1,4 +1,3 @@
-
 const giftListContainer = document.getElementById("giftList");
 const showMarkedOnly = document.getElementById("showMarkedOnly");
 const searchInput = document.getElementById("searchInput");
@@ -34,18 +33,15 @@ async function init() {
       })
     );
 
-    
     renderGifts(allGifts);
     updateResultCount(allGifts.length, false);
 
-    
     showMarkedOnly.addEventListener("change", handleFilter);
     searchInput.addEventListener("input", handleFilter);
   } catch (err) {
     console.error("Initialization error:", err);
   }
 }
-
 
 async function loadMasterFile(path) {
   const res = await fetch(path);
@@ -87,7 +83,6 @@ async function fetchGiftText(path) {
   }
 }
 
-
 function renderGifts(gifts) {
   giftListContainer.innerHTML = "";
 
@@ -98,7 +93,6 @@ function renderGifts(gifts) {
       container.classList.add("expanded");
     }
 
-    
     const markCheckbox = document.createElement("input");
     markCheckbox.type = "checkbox";
     markCheckbox.className = "mark-checkbox";
@@ -109,19 +103,16 @@ function renderGifts(gifts) {
     });
     container.appendChild(markCheckbox);
 
-    
     const img = document.createElement("img");
     img.src = gift.imageUrl;
     img.alt = gift.displayName;
     container.appendChild(img);
 
-    
     const title = document.createElement("div");
     title.className = "gift-title";
     title.textContent = gift.displayName;
     container.appendChild(title);
 
-    
     const details = document.createElement("div");
     details.className = "details";
     details.textContent = gift.text;
@@ -130,15 +121,29 @@ function renderGifts(gifts) {
     }
     container.appendChild(details);
 
-    
     container.addEventListener("click", (evt) => {
       if (evt.target === markCheckbox) {
         return;
       }
       gift.isExpanded = !gift.isExpanded;
-      
+
+      // Re-render the list with the updated isExpanded value
       const filtered = applyFilter(currentSearchTerm, currentMarkedOnly);
       renderGifts(filtered);
+      // Scroll into view if expanded
+      if (gift.isExpanded) {
+        // Delay so the newly expanded element exists in the DOM
+        setTimeout(() => {
+          const newIndex = filtered.findIndex(g => g.fileName === gift.fileName);
+          if (newIndex !== -1) {
+            // Select the newly rendered container by index
+            const newContainer = giftListContainer.querySelectorAll(".gift-container")[newIndex];
+            if (newContainer) {
+              newContainer.scrollIntoView({ behavior: "smooth", block: "center" });
+            }
+          }
+        }, 0);
+      }
     });
 
     giftListContainer.appendChild(container);
@@ -154,22 +159,17 @@ function handleFilter() {
   updateResultCount(filtered.length, !!currentSearchTerm || currentMarkedOnly);
 }
 
-
 function applyFilter(searchTerm, markedOnly) {
   return allGifts.filter((gift) => {
-    
     const matchesSearch =
       !searchTerm ||
       gift.displayName.toLowerCase().includes(searchTerm) ||
       gift.text.toLowerCase().includes(searchTerm);
 
-    
     const matchesMark = !markedOnly || gift.isMarked;
-
     return matchesSearch && matchesMark;
   });
 }
-
 
 function updateResultCount(count, isFiltered) {
   if (isFiltered) {
@@ -178,7 +178,6 @@ function updateResultCount(count, isFiltered) {
     resultCount.textContent = `Showing all ${count} gift${count === 1 ? "" : "s"}`;
   }
 }
-
 
 function readMarkCookie() {
   const match = document.cookie.match(/(^|;\s*)copilotGiftMarks=([^;]+)/);
@@ -192,7 +191,6 @@ function readMarkCookie() {
     return [];
   }
 }
-
 
 function writeMarkCookie() {
   const marked = allGifts
